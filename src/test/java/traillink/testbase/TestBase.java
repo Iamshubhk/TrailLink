@@ -58,11 +58,11 @@ public class TestBase extends ActionsUtility {
 			}
 		} else if (System.getProperty("os.name").contains("Linux"))
 			if (browser.equalsIgnoreCase("chrome")) {
-				System.setProperty("webdriver.chrome.driver",
-						System.getProperty("user.dir") + "/src/test/resources/drivers/chromedriver");
+				System.setProperty("webdriver.chrome.driver","/usr/bin/chromedriver");
 				System.out.println("Launching chrome browser on linux....");
 				ChromeOptions options = new ChromeOptions();
 				options.addArguments("disable-infobars");
+				options.addArguments("window-size=1920,1080");
 				driver = new ChromeDriver(options);
 			} else if (browser.equalsIgnoreCase("firefox")) {
 				System.setProperty("webdriver.firefox.marionette",
