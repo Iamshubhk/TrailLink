@@ -76,7 +76,7 @@ public class TestBase extends ActionsUtility {
 		String Url = environment.getProperty("URL");
 		System.out.println("Launching the following Website: " + Url);
 		driver.get(Url);
-		driver.manage().window().maximize();
+		//driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);
 	}
 
