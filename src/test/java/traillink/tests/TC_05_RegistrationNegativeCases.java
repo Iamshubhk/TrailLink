@@ -10,9 +10,9 @@ import traillink.pages.Registration;
 import traillink.testbase.TestBase;
 
 
-public class TC_01_Registration extends TestBase{
+public class TC_05_RegistrationNegativeCases extends TestBase{
 	
-	private final String testcasename= "TC_01_Registration";
+	private final String testcasename= "TC_05_RegistrationNegativeCases";
 	
 	public final String FIRST_NAME = "Autotest";
 	public final String LAST_NAME = "AUTOLNAME";
@@ -35,11 +35,8 @@ public class TC_01_Registration extends TestBase{
 		regObj.RegistrationlableVerify();
 		Log.info("Registration page lable is verified.");
 		
-		regObj.registerUser(FIRST_NAME,LAST_NAME,ZIPCODE);
-		Log.info("Entered all the User details.");
-		
-		regObj.CheckRegisteredUser();
-		Log.info("Verified that User is registerd successfully.");
+		regObj.registerUserNegativeCases(FIRST_NAME,LAST_NAME,ZIPCODE);
+		Log.info("Regestration page validation verified.");
 		
 		} 
 		

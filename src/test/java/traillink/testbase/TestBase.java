@@ -3,11 +3,9 @@ package traillink.testbase;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
-import java.util.HashMap;
 import java.util.List;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
-import java.util.logging.Level;
 
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
@@ -76,7 +74,7 @@ public class TestBase extends ActionsUtility {
 		String Url = environment.getProperty("URL");
 		System.out.println("Launching the following Website: " + Url);
 		driver.get(Url);
-		//driver.manage().window().maximize();
+		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);
 	}
 
@@ -182,7 +180,7 @@ public class TestBase extends ActionsUtility {
 	}
 	
 	public void sliderMove(WebDriver driver, WebElement slider, int x, int y) {
-		int width = slider.getSize().getWidth();
+		//int width = slider.getSize().getWidth();
 		Actions move = new Actions(driver);
 		move.clickAndHold(slider);
 		move.moveByOffset(x, y).build().perform();

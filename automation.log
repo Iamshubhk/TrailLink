@@ -1,0 +1,308 @@
+2017-10-21 01:11:44 INFO  Loggers:19 - ========================================================================================
+2017-10-21 01:11:44 INFO  Loggers:21 - ===================Starting TC_01_Registration Test ==========================
+2017-10-21 01:11:44 INFO  Loggers:23 - ========================================================================================
+2017-10-21 01:11:44 INFO  Loggers:32 - Clicked on Register button.
+2017-10-21 01:11:44 INFO  Loggers:36 - Registration page lable is verified.
+2017-10-21 01:11:45 INFO  Loggers:32 - ===================Finished TC_01_Registration Test ==========================
+2017-10-21 01:11:45 INFO  Loggers:33 - ========================================================================================
+2017-10-21 01:12:02 INFO  Loggers:19 - ========================================================================================
+2017-10-21 01:12:02 INFO  Loggers:21 - ===================Starting TC_02_SearchTrail Test ==========================
+2017-10-21 01:12:02 INFO  Loggers:23 - ========================================================================================
+2017-10-21 01:12:04 INFO  Loggers:33 - Clicked on login link.
+2017-10-21 01:12:04 INFO  Loggers:37 - Login page lable is verified.
+2017-10-21 01:12:06 INFO  Loggers:54 - Email entered.
+2017-10-21 01:12:07 INFO  Loggers:61 - Password entered.
+2017-10-21 01:12:12 INFO  Loggers:68 - Clicked on Login button.
+2017-10-21 01:12:12 INFO  Loggers:40 - Logged in using valid credentials.
+2017-10-21 01:12:18 INFO  Loggers:43 - Verified the logout link on home page.
+2017-10-21 01:12:22 INFO  Loggers:42 - Password entered.
+2017-10-21 01:12:22 INFO  Loggers:47 - Entered the Keyword.
+2017-10-21 01:12:27 INFO  Loggers:50 - Clicked on search button
+2017-10-21 01:12:28 INFO  Loggers:32 - ===================Finished TC_02_SearchTrail Test ==========================
+2017-10-21 01:12:28 INFO  Loggers:33 - ========================================================================================
+2017-10-21 01:12:42 INFO  Loggers:19 - ========================================================================================
+2017-10-21 01:12:42 INFO  Loggers:21 - ===================Starting TC_03_UpdateProfile Test ==========================
+2017-10-21 01:12:42 INFO  Loggers:23 - ========================================================================================
+2017-10-21 01:12:43 INFO  Loggers:35 - Clicked on login link.
+2017-10-21 01:12:43 INFO  Loggers:39 - Login page lable is verified.
+2017-10-21 01:12:46 INFO  Loggers:54 - Email entered.
+2017-10-21 01:12:46 INFO  Loggers:43 - Entered email.
+2017-10-21 01:12:47 INFO  Loggers:61 - Password entered.
+2017-10-21 01:12:47 INFO  Loggers:47 - Entered new password.
+2017-10-21 01:12:52 INFO  Loggers:68 - Clicked on Login button.
+2017-10-21 01:12:52 INFO  Loggers:50 - clicked on login button.
+2017-10-21 01:12:55 INFO  Loggers:54 - Clicked on my profile link.
+2017-10-21 01:12:55 INFO  Loggers:58 - Clicked on my account and settings link.
+2017-10-21 01:12:55 INFO  Loggers:62 - Entered firstName.
+2017-10-21 01:12:59 INFO  Loggers:69 - Clicked on save profile button.
+2017-10-21 01:12:59 INFO  Loggers:65 - Clicked on save profile button.
+2017-10-21 01:12:59 INFO  Loggers:70 - Verified that profile name is successfully updated.
+2017-10-21 01:12:59 INFO  Loggers:32 - ===================Finished TC_03_UpdateProfile Test ==========================
+2017-10-21 01:12:59 INFO  Loggers:33 - ========================================================================================
+2017-10-21 01:24:05 INFO  Loggers:19 - ========================================================================================
+2017-10-21 01:24:05 INFO  Loggers:21 - =================== Starting TC_01_Registration Test ==========================
+2017-10-21 01:24:05 INFO  Loggers:23 - ========================================================================================
+2017-10-21 01:24:05 INFO  Loggers:32 - Clicked on Register button.
+2017-10-21 01:24:05 INFO  Loggers:36 - Registration page lable is verified.
+2017-10-21 01:24:07 INFO  Loggers:72 - Email entered.
+2017-10-21 01:24:08 INFO  Loggers:79 - Password entered.
+2017-10-21 01:24:08 INFO  Loggers:85 - Clicked on terms and condition checkbox.
+2017-10-21 01:24:08 INFO  Loggers:91 - Clicked on Register button.
+2017-10-21 01:24:10 INFO  Loggers:111 - Firstname entered.
+2017-10-21 01:24:11 INFO  Loggers:117 - Lastname entered.
+2017-10-21 01:24:11 INFO  Loggers:123 - Zipcode entered.
+2017-10-21 01:24:15 INFO  Loggers:129 - Clicked on Finish button.
+2017-10-21 01:24:15 INFO  Loggers:39 - Entered all the User details.
+2017-10-21 01:24:15 INFO  Loggers:42 - Verified that User is registerd successfully.
+2017-10-21 01:24:15 INFO  Loggers:32 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_01_Registration Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-21 01:24:15 INFO  Loggers:33 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-21 01:24:30 INFO  Loggers:19 - ========================================================================================
+2017-10-21 01:24:30 INFO  Loggers:21 - =================== Starting TC_02_SearchTrail Test ==========================
+2017-10-21 01:24:30 INFO  Loggers:23 - ========================================================================================
+2017-10-21 01:24:31 INFO  Loggers:33 - Clicked on login link.
+2017-10-21 01:24:31 INFO  Loggers:37 - Login page lable is verified.
+2017-10-21 01:24:34 INFO  Loggers:54 - Email entered.
+2017-10-21 01:24:35 INFO  Loggers:61 - Password entered.
+2017-10-21 01:24:40 INFO  Loggers:68 - Clicked on Login button.
+2017-10-21 01:24:40 INFO  Loggers:40 - Logged in using valid credentials.
+2017-10-21 01:24:40 INFO  Loggers:43 - Verified the logout link on home page.
+2017-10-21 01:24:44 INFO  Loggers:42 - Password entered.
+2017-10-21 01:24:44 INFO  Loggers:47 - Entered the Keyword.
+2017-10-21 01:24:48 INFO  Loggers:50 - Clicked on search button
+2017-10-21 01:24:49 INFO  Loggers:32 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_02_SearchTrail Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-21 01:24:49 INFO  Loggers:33 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-21 01:25:05 INFO  Loggers:19 - ========================================================================================
+2017-10-21 01:25:05 INFO  Loggers:21 - =================== Starting TC_03_UpdateProfile Test ==========================
+2017-10-21 01:25:05 INFO  Loggers:23 - ========================================================================================
+2017-10-21 01:25:06 INFO  Loggers:35 - Clicked on login link.
+2017-10-21 01:25:06 INFO  Loggers:39 - Login page lable is verified.
+2017-10-21 01:25:09 INFO  Loggers:54 - Email entered.
+2017-10-21 01:25:09 INFO  Loggers:43 - Entered email.
+2017-10-21 01:25:10 INFO  Loggers:61 - Password entered.
+2017-10-21 01:25:10 INFO  Loggers:47 - Entered new password.
+2017-10-21 01:25:15 INFO  Loggers:68 - Clicked on Login button.
+2017-10-21 01:25:15 INFO  Loggers:50 - clicked on login button.
+2017-10-21 01:25:18 INFO  Loggers:54 - Clicked on my profile link.
+2017-10-21 01:25:18 INFO  Loggers:58 - Clicked on my account and settings link.
+2017-10-21 01:25:19 INFO  Loggers:62 - Entered firstName.
+2017-10-21 01:25:22 INFO  Loggers:69 - Clicked on save profile button.
+2017-10-21 01:25:22 INFO  Loggers:65 - Clicked on save profile button.
+2017-10-21 01:25:22 INFO  Loggers:70 - Verified that profile name is successfully updated.
+2017-10-21 01:25:22 INFO  Loggers:32 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_03_UpdateProfile Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-21 01:25:22 INFO  Loggers:33 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-21 01:32:53 INFO  Loggers:19 - ========================================================================================
+2017-10-21 01:32:53 INFO  Loggers:21 - =================== Starting TC_01_Registration Test ==========================
+2017-10-21 01:32:53 INFO  Loggers:23 - ========================================================================================
+2017-10-21 01:32:54 INFO  Loggers:32 - Clicked on Register button.
+2017-10-21 01:32:54 INFO  Loggers:36 - Registration page lable is verified.
+2017-10-21 01:32:56 INFO  Loggers:72 - Email entered.
+2017-10-21 01:32:58 INFO  Loggers:79 - Password entered.
+2017-10-21 01:32:58 INFO  Loggers:85 - Clicked on terms and condition checkbox.
+2017-10-21 01:32:58 INFO  Loggers:91 - Clicked on Register button.
+2017-10-21 01:33:00 INFO  Loggers:111 - Firstname entered.
+2017-10-21 01:33:01 INFO  Loggers:117 - Lastname entered.
+2017-10-21 01:33:01 INFO  Loggers:123 - Zipcode entered.
+2017-10-21 01:33:08 INFO  Loggers:129 - Clicked on Finish button.
+2017-10-21 01:33:08 INFO  Loggers:39 - Entered all the User details.
+2017-10-21 01:33:08 INFO  Loggers:42 - Verified that User is registerd successfully.
+2017-10-21 01:33:08 INFO  Loggers:32 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_01_Registration Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-21 01:33:08 INFO  Loggers:33 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-21 01:33:24 INFO  Loggers:19 - ========================================================================================
+2017-10-21 01:33:24 INFO  Loggers:21 - =================== Starting TC_02_SearchTrail Test ==========================
+2017-10-21 01:33:24 INFO  Loggers:23 - ========================================================================================
+2017-10-21 01:33:26 INFO  Loggers:33 - Clicked on login link.
+2017-10-21 01:33:26 INFO  Loggers:37 - Login page lable is verified.
+2017-10-21 01:33:28 INFO  Loggers:54 - Email entered.
+2017-10-21 01:33:29 INFO  Loggers:61 - Password entered.
+2017-10-21 01:33:34 INFO  Loggers:68 - Clicked on Login button.
+2017-10-21 01:33:34 INFO  Loggers:40 - Logged in using valid credentials.
+2017-10-21 01:33:35 INFO  Loggers:43 - Verified the logout link on home page.
+2017-10-21 01:33:39 INFO  Loggers:42 - Password entered.
+2017-10-21 01:33:39 INFO  Loggers:47 - Entered the Keyword.
+2017-10-21 01:33:43 INFO  Loggers:50 - Clicked on search button
+2017-10-21 01:33:43 INFO  Loggers:54 - Verified the search results.
+2017-10-21 01:33:43 INFO  Loggers:32 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_02_SearchTrail Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-21 01:33:43 INFO  Loggers:33 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-21 01:33:58 INFO  Loggers:19 - ========================================================================================
+2017-10-21 01:33:58 INFO  Loggers:21 - =================== Starting TC_03_UpdateProfile Test ==========================
+2017-10-21 01:33:58 INFO  Loggers:23 - ========================================================================================
+2017-10-21 01:33:59 INFO  Loggers:35 - Clicked on login link.
+2017-10-21 01:33:59 INFO  Loggers:39 - Login page lable is verified.
+2017-10-21 01:34:02 INFO  Loggers:54 - Email entered.
+2017-10-21 01:34:02 INFO  Loggers:43 - Entered email.
+2017-10-21 01:34:03 INFO  Loggers:61 - Password entered.
+2017-10-21 01:34:03 INFO  Loggers:47 - Entered new password.
+2017-10-21 01:34:08 INFO  Loggers:68 - Clicked on Login button.
+2017-10-21 01:34:08 INFO  Loggers:50 - clicked on login button.
+2017-10-21 01:34:11 INFO  Loggers:54 - Clicked on my profile link.
+2017-10-21 01:34:11 INFO  Loggers:58 - Clicked on my account and settings link.
+2017-10-21 01:34:11 INFO  Loggers:62 - Entered firstName.
+2017-10-21 01:34:15 INFO  Loggers:69 - Clicked on save profile button.
+2017-10-21 01:34:15 INFO  Loggers:65 - Clicked on save profile button.
+2017-10-21 01:34:15 INFO  Loggers:70 - Verified that profile name is successfully updated.
+2017-10-21 01:34:15 INFO  Loggers:32 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_03_UpdateProfile Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-21 01:34:15 INFO  Loggers:33 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-21 01:34:30 INFO  Loggers:19 - ========================================================================================
+2017-10-21 01:34:30 INFO  Loggers:21 - =================== Starting TC_04_LoginNegativeCases Test ==========================
+2017-10-21 01:34:30 INFO  Loggers:23 - ========================================================================================
+2017-10-21 01:34:31 INFO  Loggers:32 - Clicked on login button.
+2017-10-21 01:34:32 INFO  Loggers:36 - Login page lable is verified.
+2017-10-21 01:34:37 INFO  Loggers:68 - Clicked on Login button.
+2017-10-21 01:34:38 INFO  Loggers:32 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_04_LoginNegativeCases Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-21 01:34:38 INFO  Loggers:33 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-21 01:34:56 INFO  Loggers:19 - ========================================================================================
+2017-10-21 01:34:56 INFO  Loggers:21 - =================== Starting TC_05_RegistrationNegativeCases Test ==========================
+2017-10-21 01:34:56 INFO  Loggers:23 - ========================================================================================
+2017-10-21 01:34:56 INFO  Loggers:32 - Clicked on Register button.
+2017-10-21 01:34:56 INFO  Loggers:36 - Registration page lable is verified.
+2017-10-21 01:34:56 INFO  Loggers:91 - Clicked on Register button.
+2017-10-21 01:35:00 INFO  Loggers:79 - Password entered.
+2017-10-21 01:35:00 INFO  Loggers:85 - Clicked on terms and condition checkbox.
+2017-10-21 01:35:00 INFO  Loggers:91 - Clicked on Register button.
+2017-10-21 01:35:03 INFO  Loggers:72 - Email entered.
+2017-10-21 01:35:04 INFO  Loggers:91 - Clicked on Register button.
+2017-10-21 01:35:05 INFO  Loggers:32 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_05_RegistrationNegativeCases Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-21 01:35:05 INFO  Loggers:33 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-21 01:43:38 INFO  Loggers:19 - ========================================================================================
+2017-10-21 01:43:38 INFO  Loggers:21 - =================== Starting TC_04_LoginNegativeCases Test ==========================
+2017-10-21 01:43:38 INFO  Loggers:23 - ========================================================================================
+2017-10-21 01:43:39 INFO  Loggers:32 - Clicked on login button.
+2017-10-21 01:43:39 INFO  Loggers:36 - Login page lable is verified.
+2017-10-21 01:43:44 INFO  Loggers:68 - Clicked on Login button.
+2017-10-21 01:43:46 INFO  Loggers:32 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_04_LoginNegativeCases Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-21 01:43:46 INFO  Loggers:33 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-21 01:44:00 INFO  Loggers:19 - ========================================================================================
+2017-10-21 01:44:00 INFO  Loggers:21 - =================== Starting TC_05_RegistrationNegativeCases Test ==========================
+2017-10-21 01:44:00 INFO  Loggers:23 - ========================================================================================
+2017-10-21 01:44:00 INFO  Loggers:32 - Clicked on Register button.
+2017-10-21 01:44:01 INFO  Loggers:36 - Registration page lable is verified.
+2017-10-21 01:44:01 INFO  Loggers:91 - Clicked on Register button.
+2017-10-21 01:44:05 INFO  Loggers:79 - Password entered.
+2017-10-21 01:44:05 INFO  Loggers:85 - Clicked on terms and condition checkbox.
+2017-10-21 01:44:05 INFO  Loggers:91 - Clicked on Register button.
+2017-10-21 01:44:08 INFO  Loggers:72 - Email entered.
+2017-10-21 01:44:08 INFO  Loggers:91 - Clicked on Register button.
+2017-10-21 01:45:28 INFO  Loggers:19 - ========================================================================================
+2017-10-21 01:45:28 INFO  Loggers:21 - =================== Starting TC_04_LoginNegativeCases Test ==========================
+2017-10-21 01:45:28 INFO  Loggers:23 - ========================================================================================
+2017-10-21 01:45:29 INFO  Loggers:32 - Clicked on login button.
+2017-10-21 01:45:30 INFO  Loggers:36 - Login page lable is verified.
+2017-10-21 01:45:42 INFO  Loggers:68 - Clicked on Login button.
+2017-10-21 01:47:24 INFO  Loggers:19 - ========================================================================================
+2017-10-21 01:47:24 INFO  Loggers:21 - =================== Starting TC_04_LoginNegativeCases Test ==========================
+2017-10-21 01:47:24 INFO  Loggers:23 - ========================================================================================
+2017-10-21 01:47:25 INFO  Loggers:32 - Clicked on login button.
+2017-10-21 01:47:25 INFO  Loggers:36 - Login page lable is verified.
+2017-10-21 01:47:38 INFO  Loggers:68 - Clicked on Login button.
+2017-10-21 01:55:16 INFO  Loggers:19 - ========================================================================================
+2017-10-21 01:55:16 INFO  Loggers:21 - =================== Starting TC_04_LoginNegativeCases Test ==========================
+2017-10-21 01:55:16 INFO  Loggers:23 - ========================================================================================
+2017-10-21 01:55:18 INFO  Loggers:32 - Clicked on login button.
+2017-10-21 01:55:18 INFO  Loggers:36 - Login page lable is verified.
+2017-10-21 01:55:23 INFO  Loggers:68 - Clicked on Login button.
+2017-10-21 01:55:25 INFO  Loggers:54 - Email entered.
+2017-10-21 01:55:26 INFO  Loggers:61 - Password entered.
+2017-10-21 01:55:31 INFO  Loggers:68 - Clicked on Login button.
+2017-10-21 01:55:33 INFO  Loggers:54 - Email entered.
+2017-10-21 01:55:34 INFO  Loggers:61 - Password entered.
+2017-10-21 01:55:39 INFO  Loggers:68 - Clicked on Login button.
+2017-10-21 01:55:39 INFO  Loggers:39 - Verified login functionality with negative scenarios.
+2017-10-21 01:55:39 INFO  Loggers:32 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_04_LoginNegativeCases Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-21 01:55:39 INFO  Loggers:33 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-21 02:01:14 INFO  Loggers:19 - ========================================================================================
+2017-10-21 02:01:14 INFO  Loggers:21 - =================== Starting TC_05_RegistrationNegativeCases Test ==========================
+2017-10-21 02:01:14 INFO  Loggers:23 - ========================================================================================
+2017-10-21 02:01:16 INFO  Loggers:32 - Clicked on Register button.
+2017-10-21 02:01:27 INFO  Loggers:36 - Registration page lable is verified.
+2017-10-21 02:01:28 INFO  Loggers:91 - Clicked on Register button.
+2017-10-21 02:01:32 INFO  Loggers:79 - Password entered.
+2017-10-21 02:01:33 INFO  Loggers:85 - Clicked on terms and condition checkbox.
+2017-10-21 02:01:33 INFO  Loggers:91 - Clicked on Register button.
+2017-10-21 02:01:36 INFO  Loggers:72 - Email entered.
+2017-10-21 02:01:36 INFO  Loggers:91 - Clicked on Register button.
+2017-10-21 02:01:36 INFO  Loggers:129 - Clicked on Finish button.
+2017-10-21 02:01:46 INFO  Loggers:39 - Regestration page validation verified.
+2017-10-21 02:01:57 INFO  Loggers:32 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_05_RegistrationNegativeCases Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-21 02:01:57 INFO  Loggers:33 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-21 02:04:31 INFO  Loggers:19 - ========================================================================================
+2017-10-21 02:04:31 INFO  Loggers:21 - =================== Starting TC_01_Registration Test ==========================
+2017-10-21 02:04:31 INFO  Loggers:23 - ========================================================================================
+2017-10-21 02:04:31 INFO  Loggers:32 - Clicked on Register button.
+2017-10-21 02:04:31 INFO  Loggers:36 - Registration page lable is verified.
+2017-10-21 02:04:34 INFO  Loggers:72 - Email entered.
+2017-10-21 02:04:35 INFO  Loggers:79 - Password entered.
+2017-10-21 02:04:35 INFO  Loggers:85 - Clicked on terms and condition checkbox.
+2017-10-21 02:04:35 INFO  Loggers:91 - Clicked on Register button.
+2017-10-21 02:04:37 INFO  Loggers:111 - Firstname entered.
+2017-10-21 02:04:38 INFO  Loggers:117 - Lastname entered.
+2017-10-21 02:04:38 INFO  Loggers:123 - Zipcode entered.
+2017-10-21 02:04:42 INFO  Loggers:129 - Clicked on Finish button.
+2017-10-21 02:04:42 INFO  Loggers:39 - Entered all the User details.
+2017-10-21 02:04:42 INFO  Loggers:42 - Verified that User is registerd successfully.
+2017-10-21 02:04:42 INFO  Loggers:32 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_01_Registration Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-21 02:04:42 INFO  Loggers:33 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-21 02:04:56 INFO  Loggers:19 - ========================================================================================
+2017-10-21 02:04:56 INFO  Loggers:21 - =================== Starting TC_02_SearchTrail Test ==========================
+2017-10-21 02:04:56 INFO  Loggers:23 - ========================================================================================
+2017-10-21 02:04:58 INFO  Loggers:33 - Clicked on login link.
+2017-10-21 02:04:58 INFO  Loggers:37 - Login page lable is verified.
+2017-10-21 02:05:00 INFO  Loggers:54 - Email entered.
+2017-10-21 02:05:01 INFO  Loggers:61 - Password entered.
+2017-10-21 02:05:06 INFO  Loggers:68 - Clicked on Login button.
+2017-10-21 02:05:06 INFO  Loggers:40 - Logged in using valid credentials.
+2017-10-21 02:05:06 INFO  Loggers:43 - Verified the logout link on home page.
+2017-10-21 02:05:09 INFO  Loggers:42 - Password entered.
+2017-10-21 02:05:09 INFO  Loggers:47 - Entered the Keyword.
+2017-10-21 02:05:13 INFO  Loggers:50 - Clicked on search button
+2017-10-21 02:05:14 INFO  Loggers:54 - Verified the search results.
+2017-10-21 02:05:14 INFO  Loggers:32 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_02_SearchTrail Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-21 02:05:14 INFO  Loggers:33 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-21 02:05:27 INFO  Loggers:19 - ========================================================================================
+2017-10-21 02:05:27 INFO  Loggers:21 - =================== Starting TC_03_UpdateProfile Test ==========================
+2017-10-21 02:05:27 INFO  Loggers:23 - ========================================================================================
+2017-10-21 02:05:29 INFO  Loggers:35 - Clicked on login link.
+2017-10-21 02:05:29 INFO  Loggers:39 - Login page lable is verified.
+2017-10-21 02:05:31 INFO  Loggers:54 - Email entered.
+2017-10-21 02:05:31 INFO  Loggers:43 - Entered email.
+2017-10-21 02:05:32 INFO  Loggers:61 - Password entered.
+2017-10-21 02:05:32 INFO  Loggers:47 - Entered new password.
+2017-10-21 02:05:37 INFO  Loggers:68 - Clicked on Login button.
+2017-10-21 02:05:37 INFO  Loggers:50 - clicked on login button.
+2017-10-21 02:05:40 INFO  Loggers:54 - Clicked on my profile link.
+2017-10-21 02:05:40 INFO  Loggers:58 - Clicked on my account and settings link.
+2017-10-21 02:05:41 INFO  Loggers:62 - Entered firstName.
+2017-10-21 02:05:45 INFO  Loggers:69 - Clicked on save profile button.
+2017-10-21 02:05:45 INFO  Loggers:65 - Clicked on save profile button.
+2017-10-21 02:05:45 INFO  Loggers:70 - Verified that profile name is successfully updated.
+2017-10-21 02:05:45 INFO  Loggers:32 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_03_UpdateProfile Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-21 02:05:45 INFO  Loggers:33 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-21 02:06:01 INFO  Loggers:19 - ========================================================================================
+2017-10-21 02:06:01 INFO  Loggers:21 - =================== Starting TC_04_LoginNegativeCases Test ==========================
+2017-10-21 02:06:01 INFO  Loggers:23 - ========================================================================================
+2017-10-21 02:06:02 INFO  Loggers:32 - Clicked on login button.
+2017-10-21 02:06:02 INFO  Loggers:36 - Login page lable is verified.
+2017-10-21 02:06:08 INFO  Loggers:68 - Clicked on Login button.
+2017-10-21 02:06:09 INFO  Loggers:54 - Email entered.
+2017-10-21 02:06:10 INFO  Loggers:61 - Password entered.
+2017-10-21 02:06:15 INFO  Loggers:68 - Clicked on Login button.
+2017-10-21 02:06:17 INFO  Loggers:54 - Email entered.
+2017-10-21 02:06:18 INFO  Loggers:61 - Password entered.
+2017-10-21 02:06:23 INFO  Loggers:68 - Clicked on Login button.
+2017-10-21 02:06:23 INFO  Loggers:39 - Verified login functionality with negative scenarios.
+2017-10-21 02:06:23 INFO  Loggers:32 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_04_LoginNegativeCases Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-21 02:06:23 INFO  Loggers:33 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-21 02:06:41 INFO  Loggers:19 - ========================================================================================
+2017-10-21 02:06:41 INFO  Loggers:21 - =================== Starting TC_05_RegistrationNegativeCases Test ==========================
+2017-10-21 02:06:41 INFO  Loggers:23 - ========================================================================================
+2017-10-21 02:06:41 INFO  Loggers:32 - Clicked on Register button.
+2017-10-21 02:06:41 INFO  Loggers:36 - Registration page lable is verified.
+2017-10-21 02:06:42 INFO  Loggers:91 - Clicked on Register button.
+2017-10-21 02:06:45 INFO  Loggers:79 - Password entered.
+2017-10-21 02:06:45 INFO  Loggers:85 - Clicked on terms and condition checkbox.
+2017-10-21 02:06:45 INFO  Loggers:91 - Clicked on Register button.
+2017-10-21 02:06:48 INFO  Loggers:72 - Email entered.
+2017-10-21 02:06:48 INFO  Loggers:91 - Clicked on Register button.
+2017-10-21 02:06:48 INFO  Loggers:129 - Clicked on Finish button.
+2017-10-21 02:06:49 INFO  Loggers:39 - Regestration page validation verified.
+2017-10-21 02:06:49 INFO  Loggers:32 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_05_RegistrationNegativeCases Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-21 02:06:49 INFO  Loggers:33 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

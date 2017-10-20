@@ -4,11 +4,8 @@ import static org.testng.Assert.assertEquals;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-
-import com.aventstack.extentreports.Status;
 
 import traillink.testbase.TestBase;
 
@@ -29,6 +26,12 @@ public class Login extends TestBase {
 	@FindBy(xpath="//button[contains(text(),'Log in')]")
 	private WebElement LOGINBUTTON;
 	
+	@FindBy(xpath="//*[@id='login-modal-error-form']")
+	private WebElement LOGINVALIDATION;
+	
+	@FindBy(xpath="//span[contains(text(),'Your email or password was incorrect. Please try again.')]")
+	private WebElement LOGININVALIDEMAILVAL;
+	
 	@FindBy(css="#login-error-form")
 	private WebElement LOGINERROR;
 
@@ -48,27 +51,55 @@ public class Login extends TestBase {
 	public void enterEmail(String email){
 		this.waitForVisibility(driver,EMAILTEXTBOX);
 		clearAndwrite(EMAILTEXTBOX, email);	
-		loggers.log(Status.INFO, "Email entered.");
+		Log.info("Email entered.");
 	}
 	
 	public void enterPassword(String password){
 		this.waitForVisibility(driver,EMAILTEXTBOX);
 		
 		clearAndwrite(PASSWORDTEXTBOX, password);	
-		loggers.log(Status.INFO, "Password entered.");
+		Log.info("Password entered.");
 	}
 	
 	public void clickLoginButton(){
 		checkObjectIsDisplayed(LOGINBUTTON);
 		LOGINBUTTON.click();
 		sleep(5000);
-		loggers.log(Status.INFO, "Clicked on Login button.");
+		Log.info("Clicked on Login button.");
+	}
+	
+	public void loginValidationVerify(){
+		checkObjectIsDisplayed(LOGINVALIDATION);
+		assertEquals(LOGINVALIDATION.getText(), "Please fill in the required fields");
+	}
+	
+	public void loginInvalidEmailVerify(){
+		checkObjectIsDisplayed(LOGININVALIDEMAILVAL);
+		assertEquals(LOGININVALIDEMAILVAL.getText(), "Your email or password was incorrect. Please try again.");
 	}
 	
 	public void doLogin(){
 		String email = environment.getProperty("email");
 		String password = environment.getProperty("password");
+		enterEmail(email);
+		enterPassword(password);
 		clickLoginButton();	
+	}
+	
+	
+	public void doLoginNagativeCase(){
+		String email = environment.getProperty("email");
+		String password = environment.getProperty("password");
+		clickLoginButton();
+		sleep(3);
+		loginValidationVerify();
+		sleep(2);
+		enterEmail("Invalid Email");
+		enterPassword(password);
+		clickLoginButton();
+		sleep(3);
+		loginInvalidEmailVerify();
+		sleep(2);
 		enterEmail(email);
 		enterPassword(password);
 		clickLoginButton();	

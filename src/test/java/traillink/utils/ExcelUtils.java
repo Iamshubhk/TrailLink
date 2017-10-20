@@ -9,7 +9,7 @@ import org.apache.poi.xssf.usermodel.XSSFCell;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
-public class ExcelUtils {
+public class ExcelUtils extends Loggers {
 	
 	private  XSSFWorkbook excelWbook;
 	private  XSSFSheet excelWsheet;
@@ -33,17 +33,17 @@ public class ExcelUtils {
 
 		File file = new File("Data.xlsx");
 		FileInputStream fis = new FileInputStream(file);
-		XSSFWorkbook wb = new XSSFWorkbook(fis);
-		XSSFSheet sheet = wb.getSheet(sheetname);
+		excelWbook= new XSSFWorkbook(fis);
+		excelWsheet = excelWbook.getSheet(sheetname);
 		org.apache.poi.ss.usermodel.Cell cell = null;
-		cell = sheet.getRow(row).getCell(col);
+		cell = excelWsheet.getRow(row).getCell(col);
 		cell.setCellValue(Value);
-		String str = cell.getStringCellValue();
+		//String str = cell.getStringCellValue();
 		fis.close();
 		// Open FileOutputStream to write updates
 		FileOutputStream output_file = new FileOutputStream(new File("Data.xlsx"));
 		// write changes
-		wb.write(output_file);
+		excelWbook.write(output_file);
 		// close the stream
 		output_file.close();
 

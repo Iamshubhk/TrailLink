@@ -2,17 +2,12 @@ package traillink.tests;
 
 import static org.testng.Assert.assertEquals;
 
-import java.io.IOException;
-
 import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-import com.aventstack.extentreports.Status;
-
 import traillink.pages.Header;
-import traillink.pages.Home;
 import traillink.pages.Login;
 import traillink.pages.MyTrailLink;
 import traillink.testbase.TestBase;
@@ -29,8 +24,7 @@ public class TC_03_UpdateProfile extends TestBase{
 	@BeforeMethod
 	public void setup() throws Throwable{
 		init();
-		extent = getExtent();
-		loggers= startTest(testcasename);
+		startTestCase(testcasename);
 	}
 	
 	@Test
@@ -38,55 +32,49 @@ public class TC_03_UpdateProfile extends TestBase{
 		
 		Header headobj = new Header(driver);
 		headobj.clickLogin();
-		loggers.log(Status.INFO, "Clicked on login link.");
+		Log.info("Clicked on login link.");
 		
 		Login logObj = new Login(driver);
 		logObj.loginlableVerify();
-		loggers.log(Status.INFO, "Login page lable is verified.");
+		Log.info("Login page lable is verified.");
 		
 		final String email = getcelldata("Testcase Data", 7, 2);
 		logObj.enterEmail(email);
-		loggers.log(Status.INFO, "Entered email.");
+		Log.info("Entered email.");
 		
 		String password = getcelldata("Testcase Data", 7, 3);
 		logObj.enterPassword(password);
-		loggers.log(Status.INFO, "Entered new password.");
+		Log.info("Entered new password.");
 		
 		logObj.clickLoginButton();
-		loggers.log(Status.INFO, "clicked on login button.");
+		Log.info("clicked on login button.");
 		
 		headobj.HoverMytrail();
 		headobj.ClickonMyProfile();
-		loggers.log(Status.INFO, "Clicked on my profile link.");
+		Log.info("Clicked on my profile link.");
 		
 		MyTrailLink MytrailObj= new MyTrailLink(driver);
 		MytrailObj.clickAccountSettings();
-		loggers.log(Status.INFO, "Clicked on my account and settings link.");
+		Log.info("Clicked on my account and settings link.");
 
 		final String firstName = getRandomString(5);
 		MytrailObj.enterFirstName(firstName);
-		loggers.log(Status.INFO, "Entered firstName.");
+		Log.info("Entered firstName.");
 		
 		MytrailObj.clickSaveButton();
-		loggers.log(Status.INFO, "Clicked on save profile button.");
+		Log.info("Clicked on save profile button.");
 		
 		String actualFName= headobj.getMyProfileName();
 		final String ExpectedName = "Hello, "+firstName;
 		assertEquals(actualFName.toLowerCase().trim(), ExpectedName.toLowerCase().trim());
-		loggers.log(Status.INFO, "Verified that profile name is successfully updated.");
+		Log.info("Verified that profile name is successfully updated.");
 		
 		
 		} 
 		
 	@AfterMethod
 	public void tearDown(ITestResult result){
-		try {
-			endTest(driver,testcasename,result);
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		extent.flush();
+		endTestCase(testcasename);
 		driver.quit();
 	}
 }

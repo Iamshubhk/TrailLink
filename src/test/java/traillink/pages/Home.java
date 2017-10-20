@@ -7,8 +7,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-import com.aventstack.extentreports.Status;
-
 import traillink.testbase.TestBase;
 
 public class Home extends TestBase {
@@ -41,7 +39,7 @@ public class Home extends TestBase {
 	public void enterKeyword(String keyWord){
 		this.waitForVisibility(driver,KEYWORDTEXBOX);
 		clearAndwrite(KEYWORDTEXBOX, keyWord);	
-		loggers.log(Status.INFO, "Password entered.");
+		Log.info("Password entered.");
 	}
 	
 	public void clickSearch(){

@@ -7,7 +7,7 @@ public class Loggers {
 
 	// Initialize Log4j logs
 
-	private  Logger Log = Logger.getLogger(Loggers.class.getName());//
+	public  Logger Log = Logger.getLogger(Loggers.class.getName());
 
 	// This is to print log for the beginning of the test case, as we usually
 	// run so many test cases as a test suite
@@ -18,7 +18,7 @@ public class Loggers {
 
 		Log.info("========================================================================================");
 
-		Log.info("===================Starting " + sTestCaseName + " Test ==========================");
+		Log.info("=================== Starting " + sTestCaseName + " Test ==========================");
 
 		Log.info("========================================================================================");
 
@@ -29,8 +29,8 @@ public class Loggers {
 
 	public  void endTestCase(String sTestCaseName) {
 
-		Log.info("===================Finished " + sTestCaseName + " Test ==========================");
-		Log.info("========================================================================================");
+		Log.info("XXXXXXXXXXXXXXXXXXXXXXXXXX Finished " + sTestCaseName + " Test XXXXXXXXXXXXXXXXXXXXXXXXX");
+		Log.info("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX");
 	}
 
 	// Need to create these methods, so that they can be called

@@ -2,9 +2,7 @@ package traillink.utils;
 
 import java.util.Random;
 
-import traillink.reports.ExtentFactory;
-
-public class ActionsUtility extends ExtentFactory {
+public class ActionsUtility extends ExcelUtils {
 	
 	
 	public String getRandomString(int size) {

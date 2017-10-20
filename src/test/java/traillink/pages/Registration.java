@@ -4,11 +4,8 @@ import static org.testng.Assert.assertEquals;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-
-import com.aventstack.extentreports.Status;
 
 import traillink.testbase.TestBase;
 
@@ -57,8 +54,6 @@ public class Registration extends TestBase {
 	private WebElement REGISTEREDUSERNAMELINK;
 	
 	
-	
-	
 	public Registration(WebDriver driver){
 		this.driver = driver;
 		PageFactory.initElements(driver, this);
@@ -74,26 +69,26 @@ public class Registration extends TestBase {
 		String randomtext = getRandomString(4);
 		String email = "Auto"+randomtext+"@mailinator.com";
 		clearAndwrite(EMAILTEXTBOX, email);	
-		loggers.log(Status.INFO, "Email entered.");
+		Log.info("Email entered.");
 	}
 	
 	public void enterPassword(){
 		this.waitForVisibility(driver,EMAILTEXTBOX);
 		String password = "Test123456";
 		clearAndwrite(PASSWORDTEXTBOX, password);	
-		loggers.log(Status.INFO, "Password entered.");
+		Log.info("Password entered.");
 	}
 	
 	public void clicktermsCheckbox(){
 		checkObjectIsDisplayed(TERMSCHECKBOX);
 		TERMSCHECKBOX.click();	
-		loggers.log(Status.INFO, "Clicked on terms and condition checkbox.");
+		Log.info("Clicked on terms and condition checkbox.");
 	}
 	
 	public void clickRegisterButton(){
 		checkObjectIsDisplayed(REGISTERBUTTON);
 		REGISTERBUTTON.click();	
-		loggers.log(Status.INFO, "Clicked on Register button.");
+		Log.info("Clicked on Register button.");
 	}
 	
 	public void RegistrationValidationVerify(){
@@ -113,25 +108,25 @@ public class Registration extends TestBase {
 	public void enterFirstName(String firstName){
 		this.waitForVisibility(driver,FIRSTNAMETEXTBOX);
 		clearAndwrite(FIRSTNAMETEXTBOX, firstName);	
-		loggers.log(Status.INFO, "Firstname entered.");
+		Log.info("Firstname entered.");
 	}
 	
 	public void enterLastName(String lastName){
 		this.waitForVisibility(driver,LASTNAMETEXTBOX);
 		clearAndwrite(LASTNAMETEXTBOX, lastName);	
-		loggers.log(Status.INFO, "Lastname entered.");
+		Log.info("Lastname entered.");
 	}
 	
 	public void enterZipCode(String zipCode){
 		this.waitForVisibility(driver,ZIPTEXTBOX);
 		clearAndwrite(ZIPTEXTBOX, zipCode);	
-		loggers.log(Status.INFO, "Zipcode entered.");
+		Log.info("Zipcode entered.");
 	}
 	
 	public void clickFinishButton(){
 		checkObjectIsDisplayed(FINISHBUTTON);
 		FINISHBUTTON.click();	
-		loggers.log(Status.INFO, "Clicked on Finish button.");
+		Log.info("Clicked on Finish button.");
 	}
 	
 	public void CheckRegisteredUser(){
@@ -139,22 +134,30 @@ public class Registration extends TestBase {
 		assertEquals(REGISTEREDUSERNAMELINK.getText(), "Hello, Autotest");
 	}
 	
-	public void registerUser(String firstName, String lastName, String zipCode){
+	
+	public void registerUserNegativeCases(String firstName, String lastName, String zipCode){
 		clickRegisterButton();
-		sleep(2);
+		sleep(3);
 		RegistrationValidationVerify();
 		clearAndwrite(EMAILTEXTBOX, "testbird2015@gmail.com");
 		enterPassword();
 		clicktermsCheckbox();
 		clickRegisterButton();
-		sleep(2);
+		sleep(3);
 		duplicateEmailValidationVerify();
 		enterEmail();
 		clickRegisterButton();
-		sleep(2);
+		sleep(3);
 		clickFinishButton();
-		sleep(2);
-		RegistrationDetailsValidationVerify();
+		sleep(3);
+		RegistrationDetailsValidationVerify();	
+	}
+	
+	public void registerUser(String firstName, String lastName, String zipCode){
+		enterEmail();
+		enterPassword();
+		clicktermsCheckbox();
+		clickRegisterButton();
 		sleep(2);
 		enterFirstName(firstName);
 		enterLastName(lastName);

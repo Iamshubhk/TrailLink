@@ -1,13 +1,9 @@
 package traillink.pages;
 
-import static org.testng.Assert.assertEquals;
-
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-
-import com.aventstack.extentreports.Status;
 
 import traillink.testbase.TestBase;
 
@@ -56,13 +52,13 @@ public class MyTrailLink extends TestBase {
 	public void enterNewPassword(String password){
 		this.waitForVisibility(driver,NEWPASSWORDTEXTBOX);
 		clearAndwrite(NEWPASSWORDTEXTBOX, password);	
-		loggers.log(Status.INFO, "New Password entered.");
+		Log.info("New Password entered.");
 	}
 	
 	public void enterConfirmPassword(String password){
 		this.waitForVisibility(driver,CONFIRMPASSWORDTEXTBOX);
 		clearAndwrite(CONFIRMPASSWORDTEXTBOX, password);	
-		loggers.log(Status.INFO, "Confirm Password entered.");
+		Log.info("Confirm Password entered.");
 	}
 	
 	public void clickSaveButton(){
@@ -70,7 +66,7 @@ public class MyTrailLink extends TestBase {
 		scrollAndFind(SAVEBUTTON);
 		SAVEBUTTON.click();
 		sleep(3000);
-		loggers.log(Status.INFO, "Clicked on save profile button.");
+		Log.info("Clicked on save profile button.");
 	}
 	
 	public void enterFirstName(String firstName){
