@@ -16,4 +16,21 @@ public class ActionsUtility extends ExcelUtils {
         String saltStr = salt.toString();
         return saltStr;
     }
+	
+	public boolean checkCountIncrease(String previouscount,String currentCount) {
+        boolean  isOk=false;
+        int previous = Integer.valueOf(previouscount);
+        int expected  = previous+1;
+        String expectedcount = String.valueOf(expected);
+        
+        if(expectedcount.equalsIgnoreCase(currentCount)){
+        	isOk=true;
+        	Log.info("Count is increased by one");
+        }else{
+        	isOk=false;
+        	Log.info("Count is not increased by one");
+        }
+       
+        return isOk;
+    }
 }

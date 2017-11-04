@@ -28,6 +28,15 @@ public class Header extends TestBase {
 	@FindBy(xpath="//*[@id='main-menu']//a[contains(text(),'My Profile')]")
 	private WebElement MYPROFILE;
 	
+	@FindBy(xpath="//*[@id='main-menu']//a[contains(text(),'My Trails')]")
+	private WebElement MYTRAIL;
+	
+	@FindBy(xpath="//*[@id='main-menu']//a[contains(text(),'My Photos')]")
+	private WebElement MYPHOTOS;
+	
+	@FindBy(xpath="//*[@id='main-menu']//a[contains(text(),'My Reviews')]")
+	private WebElement MYREVIEWS;
+	
 	@FindBy(xpath="//div[@class='hygiene-nav']//a[contains(text(),'Hello,')]")
 	private WebElement MYPROFILENAME;
 	
@@ -67,6 +76,22 @@ public class Header extends TestBase {
 	public void ClickonMyProfile(){
 		this.waitForVisibility(driver,MYPROFILE);	
 		MYPROFILE.click();
+	}
+	
+	public void clickMyTrail(){
+		this.waitForVisibility(driver,MYTRAIL);
+		MYTRAIL.click();	
+	}
+	
+	public void clickMyPhotos(){
+		this.waitForVisibility(driver,MYPHOTOS);
+		MYPHOTOS.click();	
+	}
+	
+	public void clickMyReviews(){
+		this.waitForVisibility(driver,MYREVIEWS);
+		MYREVIEWS.click();	
+		sleep(4);
 	}
 	
 	public String getMyProfileName(){

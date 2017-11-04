@@ -25,7 +25,7 @@ public class TC_05_RegistrationNegativeCases extends TestBase{
 	}
 	
 	@Test
-	public void registration() throws Throwable{
+	public void registrationNegativeCases() throws Throwable{
 		
 		Header headobj = new Header(driver);
 		headobj.clickRegister();

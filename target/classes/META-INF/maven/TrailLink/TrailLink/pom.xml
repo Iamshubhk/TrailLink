@@ -61,8 +61,7 @@
 				<configuration>
 					<filesets>
 						<fileset>
-							<directory>${basedir}/ExtentReports/ReportAndScreenshot/</directory>
-							<directory>${basedir}/allure-results/</directory>
+							<directory>${basedir}/Screenshots/</directory>
 							<includes>
 								<include>**/*</include>
 							</includes>
@@ -76,13 +75,6 @@
 				<artifactId>maven-surefire-plugin</artifactId>
 				<version>2.19.1</version>
 				<configuration>
-					<properties>
-						<property>
-							disabling default listeners
-							<name>usedefaultlisteners</name>
-							<value>false</value>
-						</property>
-					</properties>
 					<testFailureIgnore>true</testFailureIgnore>
 					<forkCount>0</forkCount>
 					<systemProperties>
@@ -101,6 +93,8 @@
 					</suiteXmlFiles>
 					<argLine>
 						-javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"
+						-Dcucumber.options="--plugin
+						ru.yandex.qatools.allure.cucumberjvm.AllureReporterExt"
 					</argLine>
 				</configuration>
 				<dependencies>
@@ -121,7 +115,6 @@
 				<artifactId>allure-maven</artifactId>
 				<version>2.9</version>
 				<configuration>
-   
 					<properties>
 						<allure.issues.tracker.pattern>http://github.com/allure-framework/%20/allure-core/issues/%s</allure.issues.tracker.pattern>
 					</properties>

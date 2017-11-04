@@ -306,3 +306,2120 @@
 2017-10-21 02:06:49 INFO  Loggers:39 - Regestration page validation verified.
 2017-10-21 02:06:49 INFO  Loggers:32 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_05_RegistrationNegativeCases Test XXXXXXXXXXXXXXXXXXXXXXXXX
 2017-10-21 02:06:49 INFO  Loggers:33 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-25 00:21:05 INFO  Loggers:19 - ========================================================================================
+2017-10-25 00:21:05 INFO  Loggers:21 - =================== Starting TC_01_Registration Test ==========================
+2017-10-25 00:21:05 INFO  Loggers:23 - ========================================================================================
+2017-10-25 00:21:06 INFO  Loggers:32 - Clicked on Register button.
+2017-10-25 00:21:06 INFO  Loggers:36 - Registration page lable is verified.
+2017-10-25 00:21:08 INFO  Loggers:72 - Email entered.
+2017-10-25 00:21:09 INFO  Loggers:79 - Password entered.
+2017-10-25 00:21:10 INFO  Loggers:85 - Clicked on terms and condition checkbox.
+2017-10-25 00:21:10 INFO  Loggers:91 - Clicked on Register button.
+2017-10-25 00:21:11 INFO  Loggers:111 - Firstname entered.
+2017-10-25 00:21:12 INFO  Loggers:117 - Lastname entered.
+2017-10-25 00:21:13 INFO  Loggers:123 - Zipcode entered.
+2017-10-25 00:22:05 INFO  Loggers:129 - Clicked on Finish button.
+2017-10-25 00:22:05 INFO  Loggers:39 - Entered all the User details.
+2017-10-25 00:22:05 INFO  Loggers:42 - Verified that User is registerd successfully.
+2017-10-25 00:22:05 INFO  Loggers:32 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_01_Registration Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-25 00:22:05 INFO  Loggers:33 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-25 00:22:56 INFO  Loggers:19 - ========================================================================================
+2017-10-25 00:22:56 INFO  Loggers:21 - =================== Starting TC_02_SearchTrail Test ==========================
+2017-10-25 00:22:56 INFO  Loggers:23 - ========================================================================================
+2017-10-25 00:22:58 INFO  Loggers:33 - Clicked on login link.
+2017-10-25 00:22:58 INFO  Loggers:37 - Login page lable is verified.
+2017-10-25 00:23:00 INFO  Loggers:54 - Email entered.
+2017-10-25 00:23:01 INFO  Loggers:61 - Password entered.
+2017-10-25 00:23:06 INFO  Loggers:68 - Clicked on Login button.
+2017-10-25 00:23:06 INFO  Loggers:40 - Logged in using valid credentials.
+2017-10-25 00:23:15 INFO  Loggers:43 - Verified the logout link on home page.
+2017-10-25 00:23:19 INFO  Loggers:42 - Password entered.
+2017-10-25 00:23:19 INFO  Loggers:47 - Entered the Keyword.
+2017-10-25 00:23:54 INFO  Loggers:50 - Clicked on search button
+2017-10-25 00:23:54 INFO  Loggers:54 - Verified the search results.
+2017-10-25 00:23:54 INFO  Loggers:32 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_02_SearchTrail Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-25 00:23:54 INFO  Loggers:33 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-25 00:24:33 INFO  Loggers:19 - ========================================================================================
+2017-10-25 00:24:33 INFO  Loggers:21 - =================== Starting TC_03_UpdateProfile Test ==========================
+2017-10-25 00:24:33 INFO  Loggers:23 - ========================================================================================
+2017-10-25 00:24:34 INFO  Loggers:35 - Clicked on login link.
+2017-10-25 00:24:34 INFO  Loggers:39 - Login page lable is verified.
+2017-10-25 00:24:37 INFO  Loggers:54 - Email entered.
+2017-10-25 00:24:37 INFO  Loggers:43 - Entered email.
+2017-10-25 00:24:38 INFO  Loggers:61 - Password entered.
+2017-10-25 00:24:38 INFO  Loggers:47 - Entered new password.
+2017-10-25 00:24:43 INFO  Loggers:68 - Clicked on Login button.
+2017-10-25 00:24:43 INFO  Loggers:50 - clicked on login button.
+2017-10-25 00:25:09 INFO  Loggers:54 - Clicked on my profile link.
+2017-10-25 00:25:09 INFO  Loggers:58 - Clicked on my account and settings link.
+2017-10-25 00:25:10 INFO  Loggers:62 - Entered firstName.
+2017-10-25 00:25:14 INFO  Loggers:80 - Clicked on save profile button.
+2017-10-25 00:25:14 INFO  Loggers:65 - Clicked on save profile button.
+2017-10-25 00:25:25 INFO  Loggers:70 - Verified that profile name is successfully updated.
+2017-10-25 00:25:25 INFO  Loggers:32 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_03_UpdateProfile Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-25 00:25:25 INFO  Loggers:33 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-25 00:26:12 INFO  Loggers:19 - ========================================================================================
+2017-10-25 00:26:12 INFO  Loggers:21 - =================== Starting TC_04_LoginNegativeCases Test ==========================
+2017-10-25 00:26:12 INFO  Loggers:23 - ========================================================================================
+2017-10-25 00:26:13 INFO  Loggers:32 - Clicked on login button.
+2017-10-25 00:26:13 INFO  Loggers:36 - Login page lable is verified.
+2017-10-25 00:26:19 INFO  Loggers:68 - Clicked on Login button.
+2017-10-25 00:26:20 INFO  Loggers:54 - Email entered.
+2017-10-25 00:26:21 INFO  Loggers:61 - Password entered.
+2017-10-25 00:26:26 INFO  Loggers:68 - Clicked on Login button.
+2017-10-25 00:26:29 INFO  Loggers:54 - Email entered.
+2017-10-25 00:26:29 INFO  Loggers:61 - Password entered.
+2017-10-25 00:26:35 INFO  Loggers:68 - Clicked on Login button.
+2017-10-25 00:26:35 INFO  Loggers:39 - Verified login functionality with negative scenarios.
+2017-10-25 00:26:35 INFO  Loggers:32 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_04_LoginNegativeCases Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-25 00:26:35 INFO  Loggers:33 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-25 00:27:13 INFO  Loggers:19 - ========================================================================================
+2017-10-25 00:27:13 INFO  Loggers:21 - =================== Starting TC_05_RegistrationNegativeCases Test ==========================
+2017-10-25 00:27:13 INFO  Loggers:23 - ========================================================================================
+2017-10-25 00:27:13 INFO  Loggers:32 - Clicked on Register button.
+2017-10-25 00:27:13 INFO  Loggers:36 - Registration page lable is verified.
+2017-10-25 00:27:14 INFO  Loggers:91 - Clicked on Register button.
+2017-10-25 00:27:17 INFO  Loggers:79 - Password entered.
+2017-10-25 00:27:17 INFO  Loggers:85 - Clicked on terms and condition checkbox.
+2017-10-25 00:27:18 INFO  Loggers:91 - Clicked on Register button.
+2017-10-25 00:27:20 INFO  Loggers:72 - Email entered.
+2017-10-25 00:27:20 INFO  Loggers:91 - Clicked on Register button.
+2017-10-25 00:27:21 INFO  Loggers:129 - Clicked on Finish button.
+2017-10-25 00:27:21 INFO  Loggers:39 - Regestration page validation verified.
+2017-10-25 00:27:21 INFO  Loggers:32 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_05_RegistrationNegativeCases Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-25 00:27:21 INFO  Loggers:33 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-25 01:59:57 INFO  Loggers:19 - ========================================================================================
+2017-10-25 01:59:57 INFO  Loggers:21 - =================== Starting TC_07_CreateTrail Test ==========================
+2017-10-25 01:59:57 INFO  Loggers:23 - ========================================================================================
+2017-10-25 01:59:59 INFO  Loggers:36 - Clicked on login link.
+2017-10-25 01:59:59 INFO  Loggers:40 - Login page lable is verified.
+2017-10-25 01:59:59 INFO  Loggers:42 - Enter valid credential and login.
+2017-10-25 02:00:02 INFO  Loggers:54 - Email entered.
+2017-10-25 02:00:03 INFO  Loggers:61 - Password entered.
+2017-10-25 02:00:08 INFO  Loggers:68 - Clicked on Login button.
+2017-10-25 02:00:37 INFO  Loggers:47 - Clicked on my trail link.
+2017-10-25 02:00:48 INFO  Loggers:51 - Clicked on submit trail button.
+2017-10-25 02:00:48 INFO  Loggers:54 - Fill all the valid details and submit trail.
+2017-10-25 02:00:51 INFO  Loggers:113 - Trail name entered.
+2017-10-25 02:00:52 INFO  Loggers:135 - End point 1 entered.
+2017-10-25 02:00:53 INFO  Loggers:141 - End point 2 entered.
+2017-10-25 02:00:53 INFO  Loggers:147 - website entered.
+2017-10-25 02:00:54 INFO  Loggers:154 - surfaces selected
+2017-10-25 02:00:54 INFO  Loggers:161 - activities selected
+2017-10-25 02:00:54 INFO  Loggers:32 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_07_CreateTrail Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-25 02:00:54 INFO  Loggers:33 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-25 02:03:54 INFO  Loggers:19 - ========================================================================================
+2017-10-25 02:03:54 INFO  Loggers:21 - =================== Starting TC_07_CreateTrail Test ==========================
+2017-10-25 02:03:54 INFO  Loggers:23 - ========================================================================================
+2017-10-25 02:03:56 INFO  Loggers:36 - Clicked on login link.
+2017-10-25 02:03:56 INFO  Loggers:40 - Login page lable is verified.
+2017-10-25 02:03:56 INFO  Loggers:42 - Enter valid credential and login.
+2017-10-25 02:03:59 INFO  Loggers:54 - Email entered.
+2017-10-25 02:04:00 INFO  Loggers:61 - Password entered.
+2017-10-25 02:04:05 INFO  Loggers:68 - Clicked on Login button.
+2017-10-25 02:04:34 INFO  Loggers:47 - Clicked on my trail link.
+2017-10-25 02:04:50 INFO  Loggers:51 - Clicked on submit trail button.
+2017-10-25 02:04:50 INFO  Loggers:54 - Fill all the valid details and submit trail.
+2017-10-25 02:05:30 INFO  Loggers:113 - Trail name entered.
+2017-10-25 02:05:36 INFO  Loggers:135 - End point 1 entered.
+2017-10-25 02:05:47 INFO  Loggers:141 - End point 2 entered.
+2017-10-25 02:05:51 INFO  Loggers:147 - website entered.
+2017-10-25 02:06:42 INFO  Loggers:154 - surfaces selected
+2017-10-25 02:06:50 INFO  Loggers:161 - activities selected
+2017-10-25 02:07:12 INFO  Loggers:168 - state selected
+2017-10-25 02:07:22 INFO  Loggers:174 - country selected
+2017-10-25 02:07:29 INFO  Loggers:180 - DESCRIPTION entered.
+2017-10-25 02:07:37 INFO  Loggers:186 - parking entered.
+2017-10-25 02:07:46 INFO  Loggers:192 - terms checkbox selected
+2017-10-25 02:07:53 INFO  Loggers:200 - Clicked on view trail button.
+2017-10-25 02:11:04 INFO  Loggers:113 - Trail name entered.
+2017-10-25 02:11:10 INFO  Loggers:119 - Trail length entered.
+2017-10-25 02:11:22 INFO  Loggers:130 - category selected
+2017-10-25 02:11:26 INFO  Loggers:136 - End point 1 entered.
+2017-10-25 02:11:28 INFO  Loggers:142 - End point 2 entered.
+2017-10-25 02:11:33 INFO  Loggers:148 - website entered.
+2017-10-25 02:12:21 INFO  Loggers:32 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_07_CreateTrail Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-25 02:12:21 INFO  Loggers:33 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-25 02:14:44 INFO  Loggers:19 - ========================================================================================
+2017-10-25 02:14:44 INFO  Loggers:21 - =================== Starting TC_07_CreateTrail Test ==========================
+2017-10-25 02:14:44 INFO  Loggers:23 - ========================================================================================
+2017-10-25 02:14:46 INFO  Loggers:36 - Clicked on login link.
+2017-10-25 02:14:46 INFO  Loggers:40 - Login page lable is verified.
+2017-10-25 02:14:46 INFO  Loggers:42 - Enter valid credential and login.
+2017-10-25 02:14:48 INFO  Loggers:54 - Email entered.
+2017-10-25 02:14:49 INFO  Loggers:61 - Password entered.
+2017-10-25 02:14:54 INFO  Loggers:68 - Clicked on Login button.
+2017-10-25 02:15:22 INFO  Loggers:47 - Clicked on my trail link.
+2017-10-25 02:15:39 INFO  Loggers:51 - Clicked on submit trail button.
+2017-10-25 02:15:39 INFO  Loggers:54 - Fill all the valid details and submit trail.
+2017-10-25 02:15:43 INFO  Loggers:113 - Trail name entered.
+2017-10-25 02:15:44 INFO  Loggers:119 - Trail length entered.
+2017-10-25 02:15:44 INFO  Loggers:130 - category selected
+2017-10-25 02:15:45 INFO  Loggers:136 - End point 1 entered.
+2017-10-25 02:15:45 INFO  Loggers:142 - End point 2 entered.
+2017-10-25 02:15:47 INFO  Loggers:148 - website entered.
+2017-10-25 02:15:48 INFO  Loggers:156 - surfaces selected
+2017-10-25 02:15:48 INFO  Loggers:163 - activities selected
+2017-10-25 02:15:49 INFO  Loggers:170 - state selected
+2017-10-25 02:15:49 INFO  Loggers:176 - country selected
+2017-10-25 02:15:50 INFO  Loggers:182 - DESCRIPTION entered.
+2017-10-25 02:15:51 INFO  Loggers:188 - parking entered.
+2017-10-25 02:15:52 INFO  Loggers:32 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_07_CreateTrail Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-25 02:15:52 INFO  Loggers:33 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-25 02:20:15 INFO  Loggers:19 - ========================================================================================
+2017-10-25 02:20:15 INFO  Loggers:21 - =================== Starting TC_07_CreateTrail Test ==========================
+2017-10-25 02:20:15 INFO  Loggers:23 - ========================================================================================
+2017-10-25 02:20:17 INFO  Loggers:36 - Clicked on login link.
+2017-10-25 02:20:17 INFO  Loggers:40 - Login page lable is verified.
+2017-10-25 02:20:17 INFO  Loggers:42 - Enter valid credential and login.
+2017-10-25 02:20:19 INFO  Loggers:54 - Email entered.
+2017-10-25 02:20:20 INFO  Loggers:61 - Password entered.
+2017-10-25 02:20:25 INFO  Loggers:68 - Clicked on Login button.
+2017-10-25 02:21:03 INFO  Loggers:47 - Clicked on my trail link.
+2017-10-25 02:21:15 INFO  Loggers:51 - Clicked on submit trail button.
+2017-10-25 02:21:15 INFO  Loggers:54 - Fill all the valid details and submit trail.
+2017-10-25 02:21:19 INFO  Loggers:113 - Trail name entered.
+2017-10-25 02:21:20 INFO  Loggers:119 - Trail length entered.
+2017-10-25 02:21:21 INFO  Loggers:130 - category selected
+2017-10-25 02:21:21 INFO  Loggers:136 - End point 1 entered.
+2017-10-25 02:21:22 INFO  Loggers:142 - End point 2 entered.
+2017-10-25 02:21:23 INFO  Loggers:148 - website entered.
+2017-10-25 02:21:24 INFO  Loggers:156 - surfaces selected
+2017-10-25 02:21:24 INFO  Loggers:163 - activities selected
+2017-10-25 02:21:24 INFO  Loggers:170 - state selected
+2017-10-25 02:21:25 INFO  Loggers:176 - country selected
+2017-10-25 02:21:26 INFO  Loggers:182 - DESCRIPTION entered.
+2017-10-25 02:21:27 INFO  Loggers:188 - parking entered.
+2017-10-25 02:21:27 INFO  Loggers:32 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_07_CreateTrail Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-25 02:21:27 INFO  Loggers:33 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-25 02:23:38 INFO  Loggers:19 - ========================================================================================
+2017-10-25 02:23:38 INFO  Loggers:21 - =================== Starting TC_07_CreateTrail Test ==========================
+2017-10-25 02:23:38 INFO  Loggers:23 - ========================================================================================
+2017-10-25 02:23:40 INFO  Loggers:36 - Clicked on login link.
+2017-10-25 02:23:40 INFO  Loggers:40 - Login page lable is verified.
+2017-10-25 02:23:40 INFO  Loggers:42 - Enter valid credential and login.
+2017-10-25 02:23:43 INFO  Loggers:54 - Email entered.
+2017-10-25 02:23:44 INFO  Loggers:61 - Password entered.
+2017-10-25 02:23:49 INFO  Loggers:68 - Clicked on Login button.
+2017-10-25 02:24:18 INFO  Loggers:47 - Clicked on my trail link.
+2017-10-25 02:24:36 INFO  Loggers:51 - Clicked on submit trail button.
+2017-10-25 02:24:36 INFO  Loggers:54 - Fill all the valid details and submit trail.
+2017-10-25 02:24:39 INFO  Loggers:113 - Trail name entered.
+2017-10-25 02:24:41 INFO  Loggers:119 - Trail length entered.
+2017-10-25 02:24:41 INFO  Loggers:130 - category selected
+2017-10-25 02:24:42 INFO  Loggers:136 - End point 1 entered.
+2017-10-25 02:24:43 INFO  Loggers:142 - End point 2 entered.
+2017-10-25 02:24:44 INFO  Loggers:148 - website entered.
+2017-10-25 02:24:45 INFO  Loggers:156 - surfaces selected
+2017-10-25 02:24:45 INFO  Loggers:163 - activities selected
+2017-10-25 02:24:46 INFO  Loggers:170 - state selected
+2017-10-25 02:24:46 INFO  Loggers:176 - country selected
+2017-10-25 02:24:48 INFO  Loggers:182 - DESCRIPTION entered.
+2017-10-25 02:24:49 INFO  Loggers:188 - parking entered.
+2017-10-25 02:24:50 INFO  Loggers:195 - terms checkbox selected
+2017-10-25 02:24:50 INFO  Loggers:203 - Clicked on view trail button.
+2017-10-25 02:24:50 INFO  Loggers:32 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_07_CreateTrail Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-25 02:24:50 INFO  Loggers:33 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-25 02:34:01 INFO  Loggers:19 - ========================================================================================
+2017-10-25 02:34:01 INFO  Loggers:21 - =================== Starting TC_07_CreateTrail Test ==========================
+2017-10-25 02:34:01 INFO  Loggers:23 - ========================================================================================
+2017-10-25 02:34:02 INFO  Loggers:36 - Clicked on login link.
+2017-10-25 02:34:02 INFO  Loggers:40 - Login page lable is verified.
+2017-10-25 02:34:02 INFO  Loggers:42 - Enter valid credential and login.
+2017-10-25 02:34:05 INFO  Loggers:54 - Email entered.
+2017-10-25 02:34:06 INFO  Loggers:61 - Password entered.
+2017-10-25 02:34:11 INFO  Loggers:68 - Clicked on Login button.
+2017-10-25 02:34:46 INFO  Loggers:47 - Clicked on my trail link.
+2017-10-25 02:34:58 INFO  Loggers:51 - Clicked on submit trail button.
+2017-10-25 02:34:58 INFO  Loggers:54 - Fill all the valid details and submit trail.
+2017-10-25 02:35:01 INFO  Loggers:113 - Trail name entered.
+2017-10-25 02:35:02 INFO  Loggers:119 - Trail length entered.
+2017-10-25 02:35:02 INFO  Loggers:130 - category selected
+2017-10-25 02:35:03 INFO  Loggers:136 - End point 1 entered.
+2017-10-25 02:35:03 INFO  Loggers:142 - End point 2 entered.
+2017-10-25 02:35:05 INFO  Loggers:148 - website entered.
+2017-10-25 02:35:06 INFO  Loggers:156 - surfaces selected
+2017-10-25 02:35:06 INFO  Loggers:163 - activities selected
+2017-10-25 02:35:06 INFO  Loggers:170 - state selected
+2017-10-25 02:35:07 INFO  Loggers:176 - country selected
+2017-10-25 02:35:08 INFO  Loggers:182 - DESCRIPTION entered.
+2017-10-25 02:35:09 INFO  Loggers:188 - parking entered.
+2017-10-25 02:35:10 INFO  Loggers:195 - terms checkbox selected
+2017-10-25 02:35:10 INFO  Loggers:203 - Clicked on view trail button.
+2017-10-25 02:35:11 INFO  Loggers:32 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_07_CreateTrail Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-25 02:35:11 INFO  Loggers:33 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-26 00:55:01 INFO  Loggers:19 - ========================================================================================
+2017-10-26 00:55:01 INFO  Loggers:21 - =================== Starting TC_07_CreateTrail Test ==========================
+2017-10-26 00:55:01 INFO  Loggers:23 - ========================================================================================
+2017-10-26 00:55:02 INFO  Loggers:36 - Clicked on login link.
+2017-10-26 00:55:02 INFO  Loggers:40 - Login page lable is verified.
+2017-10-26 00:55:02 INFO  Loggers:42 - Enter valid credential and login.
+2017-10-26 00:55:05 INFO  Loggers:54 - Email entered.
+2017-10-26 00:55:06 INFO  Loggers:61 - Password entered.
+2017-10-26 00:55:11 INFO  Loggers:68 - Clicked on Login button.
+2017-10-26 00:55:51 INFO  Loggers:47 - Clicked on my trail link.
+2017-10-26 00:56:06 INFO  Loggers:51 - Clicked on submit trail button.
+2017-10-26 00:56:06 INFO  Loggers:54 - Fill all the valid details and submit trail.
+2017-10-26 00:56:09 INFO  Loggers:113 - Trail name entered.
+2017-10-26 00:56:10 INFO  Loggers:119 - Trail length entered.
+2017-10-26 00:56:11 INFO  Loggers:130 - category selected
+2017-10-26 00:56:11 INFO  Loggers:136 - End point 1 entered.
+2017-10-26 00:56:12 INFO  Loggers:142 - End point 2 entered.
+2017-10-26 00:56:13 INFO  Loggers:148 - website entered.
+2017-10-26 00:56:14 INFO  Loggers:156 - surfaces selected
+2017-10-26 00:56:14 INFO  Loggers:163 - activities selected
+2017-10-26 00:56:14 INFO  Loggers:170 - state selected
+2017-10-26 00:56:15 INFO  Loggers:176 - country selected
+2017-10-26 00:56:16 INFO  Loggers:182 - DESCRIPTION entered.
+2017-10-26 00:56:17 INFO  Loggers:188 - parking entered.
+2017-10-26 00:56:18 INFO  Loggers:195 - terms checkbox selected
+2017-10-26 00:56:19 INFO  Loggers:203 - Clicked on view trail button.
+2017-10-26 00:56:19 INFO  Loggers:32 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_07_CreateTrail Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-26 00:56:19 INFO  Loggers:33 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-26 00:59:36 INFO  Loggers:19 - ========================================================================================
+2017-10-26 00:59:36 INFO  Loggers:21 - =================== Starting TC_07_CreateTrail Test ==========================
+2017-10-26 00:59:36 INFO  Loggers:23 - ========================================================================================
+2017-10-26 00:59:38 INFO  Loggers:36 - Clicked on login link.
+2017-10-26 00:59:38 INFO  Loggers:40 - Login page lable is verified.
+2017-10-26 00:59:38 INFO  Loggers:42 - Enter valid credential and login.
+2017-10-26 00:59:40 INFO  Loggers:54 - Email entered.
+2017-10-26 00:59:41 INFO  Loggers:61 - Password entered.
+2017-10-26 00:59:46 INFO  Loggers:68 - Clicked on Login button.
+2017-10-26 01:00:19 INFO  Loggers:47 - Clicked on my trail link.
+2017-10-26 01:00:35 INFO  Loggers:51 - Clicked on submit trail button.
+2017-10-26 01:00:35 INFO  Loggers:54 - Fill all the valid details and submit trail.
+2017-10-26 01:00:38 INFO  Loggers:113 - Trail name entered.
+2017-10-26 01:00:39 INFO  Loggers:119 - Trail length entered.
+2017-10-26 01:00:39 INFO  Loggers:130 - category selected
+2017-10-26 01:00:40 INFO  Loggers:136 - End point 1 entered.
+2017-10-26 01:00:40 INFO  Loggers:142 - End point 2 entered.
+2017-10-26 01:00:42 INFO  Loggers:148 - website entered.
+2017-10-26 01:00:42 INFO  Loggers:156 - surfaces selected
+2017-10-26 01:00:43 INFO  Loggers:163 - activities selected
+2017-10-26 01:00:43 INFO  Loggers:170 - state selected
+2017-10-26 01:00:44 INFO  Loggers:176 - country selected
+2017-10-26 01:00:45 INFO  Loggers:182 - DESCRIPTION entered.
+2017-10-26 01:00:46 INFO  Loggers:188 - parking entered.
+2017-10-26 01:00:47 INFO  Loggers:195 - terms checkbox selected
+2017-10-26 01:00:47 INFO  Loggers:203 - Clicked on view trail button.
+2017-10-26 01:01:13 INFO  Loggers:211 - Clicked on submit trail button.
+2017-10-26 01:01:13 INFO  Loggers:218 - Trail Submitted !!
+2017-10-26 01:01:13 INFO  Loggers:57 - Verifying that trail submitted successfully.
+2017-10-26 01:01:13 INFO  Loggers:218 - Trail Submitted !!
+2017-10-26 01:01:13 INFO  Loggers:32 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_07_CreateTrail Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-26 01:01:13 INFO  Loggers:33 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-29 03:21:08 INFO  Loggers:21 - ========================================================================================
+2017-10-29 03:21:08 INFO  Loggers:23 - =================== Starting TC_03_UpdateProfile Test ==========================
+2017-10-29 03:21:08 INFO  Loggers:25 - ========================================================================================
+2017-10-29 03:21:10 INFO  Loggers:37 - Clicked on login link.
+2017-10-29 03:21:10 INFO  Loggers:41 - Login page lable is verified.
+2017-10-29 03:21:10 INFO  Loggers:43 - Enter valid credential and login.
+2017-10-29 03:21:12 INFO  Loggers:54 - Email entered.
+2017-10-29 03:21:13 INFO  Loggers:61 - Password entered.
+2017-10-29 03:21:18 INFO  Loggers:68 - Clicked on Login button.
+2017-10-29 03:21:21 INFO  Loggers:48 - 1 : Clicked on my photos link.
+2017-10-29 03:21:41 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_03_UpdateProfile Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-29 03:21:41 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-29 03:28:53 INFO  Loggers:21 - ========================================================================================
+2017-10-29 03:28:53 INFO  Loggers:23 - =================== Starting TC_03_UpdateProfile Test ==========================
+2017-10-29 03:28:53 INFO  Loggers:25 - ========================================================================================
+2017-10-29 03:28:55 INFO  Loggers:37 - Clicked on login link.
+2017-10-29 03:28:55 INFO  Loggers:41 - Login page lable is verified.
+2017-10-29 03:28:55 INFO  Loggers:43 - Enter valid credential and login.
+2017-10-29 03:28:57 INFO  Loggers:54 - Email entered.
+2017-10-29 03:28:58 INFO  Loggers:61 - Password entered.
+2017-10-29 03:29:03 INFO  Loggers:68 - Clicked on Login button.
+2017-10-29 03:29:06 INFO  Loggers:48 - Clicked on my photos link.
+2017-10-29 03:29:09 INFO  Loggers:52 - Clicked on search trail button
+2017-10-29 03:29:14 INFO  Loggers:38 - keyword entered.
+2017-10-29 03:29:14 INFO  Loggers:57 - Enter keyword.
+2017-10-29 03:29:17 INFO  Loggers:44 - Clicked on search button.
+2017-10-29 03:29:17 INFO  Loggers:60 - Clicked on search button
+2017-10-29 03:29:17 INFO  Loggers:63 - Verified the search results.
+2017-10-29 03:29:21 INFO  Loggers:50 - Clicked on search result.
+2017-10-29 03:29:21 INFO  Loggers:66 - click the search result.
+2017-10-29 03:32:21 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_03_UpdateProfile Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-29 03:32:21 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-29 03:36:03 INFO  Loggers:21 - ========================================================================================
+2017-10-29 03:36:03 INFO  Loggers:23 - =================== Starting TC_03_UpdateProfile Test ==========================
+2017-10-29 03:36:03 INFO  Loggers:25 - ========================================================================================
+2017-10-29 03:36:04 INFO  Loggers:38 - Clicked on login link.
+2017-10-29 03:36:05 INFO  Loggers:42 - Login page lable is verified.
+2017-10-29 03:36:05 INFO  Loggers:44 - Enter valid credential and login.
+2017-10-29 03:36:07 INFO  Loggers:54 - Email entered.
+2017-10-29 03:36:08 INFO  Loggers:61 - Password entered.
+2017-10-29 03:36:13 INFO  Loggers:68 - Clicked on Login button.
+2017-10-29 03:36:16 INFO  Loggers:49 - Clicked on my photos link.
+2017-10-29 03:36:19 INFO  Loggers:53 - Clicked on search trail button
+2017-10-29 03:36:24 INFO  Loggers:38 - keyword entered.
+2017-10-29 03:36:24 INFO  Loggers:58 - Enter keyword.
+2017-10-29 03:36:28 INFO  Loggers:61 - Clicked on search button
+2017-10-29 03:36:28 INFO  Loggers:64 - Verified the search results.
+2017-10-29 03:36:32 INFO  Loggers:67 - click the search result.
+2017-10-29 03:36:33 INFO  Loggers:71 - Verified photos label.
+2017-10-29 03:36:35 INFO  Loggers:74 - Clicked upload photos button.
+2017-10-29 03:36:35 INFO  Loggers:78 - Verified submit photos label.
+2017-10-29 03:36:35 INFO  Loggers:80 - Uploading the trail photo...
+2017-10-29 03:36:35 INFO  Loggers:84 - Entering photo title...
+2017-10-29 03:36:37 INFO  Loggers:88 - Entering photo caption...
+2017-10-29 03:36:38 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_03_UpdateProfile Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-29 03:36:38 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-29 03:48:22 INFO  Loggers:21 - ========================================================================================
+2017-10-29 03:48:22 INFO  Loggers:23 - =================== Starting TC_03_UpdateProfile Test ==========================
+2017-10-29 03:48:22 INFO  Loggers:25 - ========================================================================================
+2017-10-29 03:48:24 INFO  Loggers:38 - Clicked on login link.
+2017-10-29 03:48:24 INFO  Loggers:42 - Login page lable is verified.
+2017-10-29 03:48:24 INFO  Loggers:44 - Enter valid credential and login.
+2017-10-29 03:48:26 INFO  Loggers:54 - Email entered.
+2017-10-29 03:48:27 INFO  Loggers:61 - Password entered.
+2017-10-29 03:48:33 INFO  Loggers:68 - Clicked on Login button.
+2017-10-29 03:48:36 INFO  Loggers:49 - Clicked on my photos link.
+2017-10-29 03:48:38 INFO  Loggers:53 - Clicked on search trail button
+2017-10-29 03:48:44 INFO  Loggers:38 - keyword entered.
+2017-10-29 03:48:44 INFO  Loggers:58 - Enter keyword.
+2017-10-29 03:48:48 INFO  Loggers:61 - Clicked on search button
+2017-10-29 03:48:49 INFO  Loggers:64 - Verified the search results.
+2017-10-29 03:48:52 INFO  Loggers:67 - click the search result.
+2017-10-29 03:48:53 INFO  Loggers:71 - Verified photos label.
+2017-10-29 03:48:55 INFO  Loggers:74 - Clicked upload photos button.
+2017-10-29 03:48:55 INFO  Loggers:78 - Verified submit photos label.
+2017-10-29 03:48:55 INFO  Loggers:80 - Uploading the trail photo...
+2017-10-29 03:48:55 INFO  Loggers:84 - Entering photo title...
+2017-10-29 03:48:56 INFO  Loggers:88 - Entering photo caption...
+2017-10-29 03:48:58 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_03_UpdateProfile Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-29 03:48:58 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-31 00:27:43 INFO  Loggers:21 - ========================================================================================
+2017-10-31 00:27:43 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotoScenarios Test ==========================
+2017-10-31 00:27:43 INFO  Loggers:25 - ========================================================================================
+2017-10-31 00:27:45 INFO  Loggers:39 - Clicked on login link.
+2017-10-31 00:27:45 INFO  Loggers:43 - Login page lable is verified.
+2017-10-31 00:27:45 INFO  Loggers:45 - Enter valid credential and login.
+2017-10-31 00:27:48 INFO  Loggers:54 - Email entered.
+2017-10-31 00:27:49 INFO  Loggers:61 - Password entered.
+2017-10-31 00:27:54 INFO  Loggers:68 - Clicked on Login button.
+2017-10-31 00:27:57 INFO  Loggers:50 - Clicked on my reviews link.
+2017-10-31 00:28:17 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_06_UploadPhotoScenarios Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-31 00:28:17 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-31 00:32:30 INFO  Loggers:21 - ========================================================================================
+2017-10-31 00:32:30 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotoScenarios Test ==========================
+2017-10-31 00:32:30 INFO  Loggers:25 - ========================================================================================
+2017-10-31 00:32:31 INFO  Loggers:39 - Clicked on login link.
+2017-10-31 00:32:31 INFO  Loggers:43 - Login page lable is verified.
+2017-10-31 00:32:31 INFO  Loggers:45 - Enter valid credential and login.
+2017-10-31 00:32:33 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_06_UploadPhotoScenarios Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-31 00:32:33 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-31 00:33:52 INFO  Loggers:21 - ========================================================================================
+2017-10-31 00:33:52 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotoScenarios Test ==========================
+2017-10-31 00:33:52 INFO  Loggers:25 - ========================================================================================
+2017-10-31 00:33:53 INFO  Loggers:39 - Clicked on login link.
+2017-10-31 00:33:53 INFO  Loggers:43 - Login page lable is verified.
+2017-10-31 00:33:53 INFO  Loggers:45 - Enter valid credential and login.
+2017-10-31 00:33:56 INFO  Loggers:54 - Email entered.
+2017-10-31 00:33:56 INFO  Loggers:61 - Password entered.
+2017-10-31 00:34:02 INFO  Loggers:68 - Clicked on Login button.
+2017-10-31 00:34:36 INFO  Loggers:50 - Clicked on my reviews link.
+2017-10-31 00:35:33 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_06_UploadPhotoScenarios Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-31 00:35:33 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-31 00:43:58 INFO  Loggers:21 - ========================================================================================
+2017-10-31 00:43:58 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotoScenarios Test ==========================
+2017-10-31 00:43:58 INFO  Loggers:25 - ========================================================================================
+2017-10-31 00:44:00 INFO  Loggers:38 - Clicked on login link.
+2017-10-31 00:44:00 INFO  Loggers:42 - Login page lable is verified.
+2017-10-31 00:44:00 INFO  Loggers:44 - Enter valid credential and login.
+2017-10-31 00:44:03 INFO  Loggers:54 - Email entered.
+2017-10-31 00:44:03 INFO  Loggers:61 - Password entered.
+2017-10-31 00:44:09 INFO  Loggers:68 - Clicked on Login button.
+2017-10-31 00:44:30 INFO  Loggers:49 - Clicked on my profile link.
+2017-10-31 00:44:30 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_06_UploadPhotoScenarios Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-31 00:44:30 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-31 00:47:18 INFO  Loggers:21 - ========================================================================================
+2017-10-31 00:47:18 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotoScenarios Test ==========================
+2017-10-31 00:47:18 INFO  Loggers:25 - ========================================================================================
+2017-10-31 00:47:20 INFO  Loggers:39 - Clicked on login link.
+2017-10-31 00:47:20 INFO  Loggers:43 - Login page lable is verified.
+2017-10-31 00:47:20 INFO  Loggers:45 - Enter valid credential and login.
+2017-10-31 00:47:22 INFO  Loggers:54 - Email entered.
+2017-10-31 00:47:23 INFO  Loggers:61 - Password entered.
+2017-10-31 00:47:28 INFO  Loggers:68 - Clicked on Login button.
+2017-10-31 00:47:58 INFO  Loggers:50 - Clicked on my profile link.
+2017-10-31 00:47:58 INFO  Loggers:54 - Getting current reviews count 0 before upload.
+2017-10-31 00:47:59 INFO  Loggers:58 - Clicked on my reviews link.
+2017-10-31 00:48:19 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_06_UploadPhotoScenarios Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-31 00:48:19 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-31 00:51:29 INFO  Loggers:21 - ========================================================================================
+2017-10-31 00:51:29 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotoScenarios Test ==========================
+2017-10-31 00:51:29 INFO  Loggers:25 - ========================================================================================
+2017-10-31 00:51:31 INFO  Loggers:39 - Clicked on login link.
+2017-10-31 00:51:31 INFO  Loggers:43 - Login page lable is verified.
+2017-10-31 00:51:31 INFO  Loggers:45 - Enter valid credential and login.
+2017-10-31 00:51:33 INFO  Loggers:54 - Email entered.
+2017-10-31 00:51:34 INFO  Loggers:61 - Password entered.
+2017-10-31 00:51:39 INFO  Loggers:68 - Clicked on Login button.
+2017-10-31 00:52:16 INFO  Loggers:50 - Clicked on my profile link.
+2017-10-31 00:52:16 INFO  Loggers:54 - Getting current reviews count 0 before upload.
+2017-10-31 00:52:17 INFO  Loggers:58 - Clicked on my reviews link.
+2017-10-31 00:52:40 INFO  Loggers:61 - Clicked on search trail button
+2017-10-31 00:52:45 INFO  Loggers:38 - keyword entered.
+2017-10-31 00:52:45 INFO  Loggers:66 - Enter keyword.
+2017-10-31 00:53:11 INFO  Loggers:69 - Clicked on search button
+2017-10-31 00:53:11 INFO  Loggers:72 - Verified the search results.
+2017-10-31 00:53:32 INFO  Loggers:75 - click the search result.
+2017-10-31 00:53:33 INFO  Loggers:79 - Verified reviews label.
+2017-10-31 00:53:44 INFO  Loggers:82 - Clicked submit review button.
+2017-10-31 00:53:44 INFO  Loggers:86 - Verified submit reviews label.
+2017-10-31 00:53:44 INFO  Loggers:88 - Entering review ratings...
+2017-10-31 00:53:44 INFO  Loggers:91 - Entering photo title...
+2017-10-31 00:53:44 INFO  Loggers:95 - Entering photo caption...
+2017-10-31 00:53:45 INFO  Loggers:100 - Clicked on preview button
+2017-10-31 00:53:59 INFO  Loggers:103 - Clicked on submit button
+2017-10-31 00:54:15 INFO  Loggers:107 - Clicked on my profile link.
+2017-10-31 00:54:15 INFO  Loggers:110 - Getting current photos count after upload
+2017-10-31 00:54:15 INFO  Loggers:31 - Count is not increased by one
+2017-10-31 00:54:15 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_06_UploadPhotoScenarios Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-10-31 00:54:15 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-01 01:58:03 INFO  Loggers:21 - ========================================================================================
+2017-11-01 01:58:03 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotoScenarios Test ==========================
+2017-11-01 01:58:03 INFO  Loggers:25 - ========================================================================================
+2017-11-01 01:58:05 INFO  Loggers:40 - Clicked on login link.
+2017-11-01 01:58:05 INFO  Loggers:44 - Login page lable is verified.
+2017-11-01 01:58:05 INFO  Loggers:46 - Enter valid credential and login.
+2017-11-01 01:58:07 INFO  Loggers:54 - Email entered.
+2017-11-01 01:58:08 INFO  Loggers:61 - Password entered.
+2017-11-01 01:58:13 INFO  Loggers:68 - Clicked on Login button.
+2017-11-01 01:59:04 INFO  Loggers:51 - Clicked on my profile link.
+2017-11-01 01:59:04 INFO  Loggers:55 - Getting current reviews count 0 before upload.
+2017-11-01 01:59:06 INFO  Loggers:59 - Clicked on my reviews link.
+2017-11-01 01:59:21 INFO  Loggers:62 - Clicked on search trail button
+2017-11-01 01:59:27 INFO  Loggers:38 - keyword entered.
+2017-11-01 01:59:27 INFO  Loggers:67 - Enter keyword.
+2017-11-01 02:00:09 INFO  Loggers:70 - Clicked on search button
+2017-11-01 02:00:09 INFO  Loggers:73 - Verified the search results.
+2017-11-01 02:00:34 INFO  Loggers:76 - click the search result.
+2017-11-01 02:00:35 INFO  Loggers:80 - Verified reviews label.
+2017-11-01 02:00:46 INFO  Loggers:83 - Clicked submit review button.
+2017-11-01 02:00:46 INFO  Loggers:87 - Verified submit reviews label.
+2017-11-01 02:00:46 INFO  Loggers:89 - Entering review ratings...
+2017-11-01 02:00:46 INFO  Loggers:92 - Entering photo title...
+2017-11-01 02:00:46 INFO  Loggers:96 - Entering photo caption...
+2017-11-01 02:00:47 INFO  Loggers:101 - Clicked on preview button
+2017-11-01 02:01:03 INFO  Loggers:104 - Clicked on submit button
+2017-11-01 02:01:03 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_06_UploadPhotoScenarios Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-01 02:01:03 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-01 02:05:24 INFO  Loggers:21 - ========================================================================================
+2017-11-01 02:05:24 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotoScenarios Test ==========================
+2017-11-01 02:05:24 INFO  Loggers:25 - ========================================================================================
+2017-11-01 02:05:26 INFO  Loggers:40 - Clicked on login link.
+2017-11-01 02:07:18 INFO  Loggers:21 - ========================================================================================
+2017-11-01 02:07:18 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotoScenarios Test ==========================
+2017-11-01 02:07:18 INFO  Loggers:25 - ========================================================================================
+2017-11-01 02:07:20 INFO  Loggers:40 - Clicked on login link.
+2017-11-01 02:10:17 INFO  Loggers:21 - ========================================================================================
+2017-11-01 02:10:17 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotoScenarios Test ==========================
+2017-11-01 02:10:17 INFO  Loggers:25 - ========================================================================================
+2017-11-01 02:10:19 INFO  Loggers:40 - Clicked on login link.
+2017-11-01 21:59:54 INFO  Loggers:21 - ========================================================================================
+2017-11-01 21:59:54 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotoScenarios Test ==========================
+2017-11-01 21:59:54 INFO  Loggers:25 - ========================================================================================
+2017-11-01 21:59:56 INFO  Loggers:40 - Clicked on login link.
+2017-11-01 22:05:47 INFO  Loggers:21 - ========================================================================================
+2017-11-01 22:05:47 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotoScenarios Test ==========================
+2017-11-01 22:05:47 INFO  Loggers:25 - ========================================================================================
+2017-11-01 22:05:49 INFO  Loggers:40 - Clicked on login link.
+2017-11-01 22:05:52 INFO  Loggers:44 - Navigating to WFO Admin
+2017-11-01 22:06:13 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_06_UploadPhotoScenarios Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-01 22:06:13 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-01 22:10:13 INFO  Loggers:21 - ========================================================================================
+2017-11-01 22:10:13 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotoScenarios Test ==========================
+2017-11-01 22:10:13 INFO  Loggers:25 - ========================================================================================
+2017-11-01 22:10:15 INFO  Loggers:40 - Clicked on login link.
+2017-11-01 22:10:15 INFO  Loggers:44 - Login page lable is verified.
+2017-11-01 22:10:15 INFO  Loggers:46 - Enter valid credential and login.
+2017-11-01 22:10:17 INFO  Loggers:54 - Email entered.
+2017-11-01 22:10:18 INFO  Loggers:61 - Password entered.
+2017-11-01 22:10:23 INFO  Loggers:68 - Clicked on Login button.
+2017-11-01 22:11:17 INFO  Loggers:51 - Clicked on my profile link.
+2017-11-01 22:11:17 INFO  Loggers:55 - Getting current reviews count 0 before upload.
+2017-11-01 22:11:19 INFO  Loggers:59 - Clicked on my reviews link.
+2017-11-01 22:11:40 INFO  Loggers:62 - Clicked on search trail button
+2017-11-01 22:11:45 INFO  Loggers:38 - keyword entered.
+2017-11-01 22:11:45 INFO  Loggers:67 - Enter keyword.
+2017-11-01 22:12:24 INFO  Loggers:70 - Clicked on search button
+2017-11-01 22:12:24 INFO  Loggers:73 - Verified the search results.
+2017-11-01 22:12:56 INFO  Loggers:76 - click the search result.
+2017-11-01 22:12:56 INFO  Loggers:80 - Verified reviews label.
+2017-11-01 22:13:15 INFO  Loggers:83 - Clicked submit review button.
+2017-11-01 22:13:15 INFO  Loggers:87 - Verified submit reviews label.
+2017-11-01 22:13:15 INFO  Loggers:89 - Entering review ratings...
+2017-11-01 22:13:15 INFO  Loggers:92 - Entering photo title...
+2017-11-01 22:13:16 INFO  Loggers:96 - Entering photo caption...
+2017-11-01 22:13:16 INFO  Loggers:101 - Clicked on preview button
+2017-11-01 22:13:42 INFO  Loggers:104 - Clicked on submit button
+2017-11-01 22:13:47 INFO  Loggers:108 - Navigating to WFO Admin
+2017-11-01 22:13:48 INFO  Loggers:58 - Email entered.
+2017-11-01 22:13:49 INFO  Loggers:64 - Password entered.
+2017-11-01 22:13:55 INFO  Loggers:71 - Clicked on Login button.
+2017-11-01 22:13:55 INFO  Loggers:111 - Succesfully logged in on WFO
+2017-11-02 00:20:15 INFO  Loggers:21 - ========================================================================================
+2017-11-02 00:20:15 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotoScenarios Test ==========================
+2017-11-02 00:20:15 INFO  Loggers:25 - ========================================================================================
+2017-11-02 00:20:16 INFO  Loggers:40 - Clicked on login link.
+2017-11-02 00:20:16 INFO  Loggers:44 - Login page lable is verified.
+2017-11-02 00:20:16 INFO  Loggers:46 - Enter valid credential and login.
+2017-11-02 00:20:19 INFO  Loggers:54 - Email entered.
+2017-11-02 00:20:19 INFO  Loggers:61 - Password entered.
+2017-11-02 00:20:25 INFO  Loggers:68 - Clicked on Login button.
+2017-11-02 00:21:23 INFO  Loggers:51 - Clicked on my profile link.
+2017-11-02 00:21:23 INFO  Loggers:55 - Getting current reviews count 0 before upload.
+2017-11-02 00:21:24 INFO  Loggers:59 - Clicked on my reviews link.
+2017-11-02 00:21:43 INFO  Loggers:62 - Clicked on search trail button
+2017-11-02 00:21:48 INFO  Loggers:38 - keyword entered.
+2017-11-02 00:21:48 INFO  Loggers:67 - Enter keyword.
+2017-11-02 00:22:07 INFO  Loggers:70 - Clicked on search button
+2017-11-02 00:22:08 INFO  Loggers:73 - Verified the search results.
+2017-11-02 00:22:33 INFO  Loggers:76 - click the search result.
+2017-11-02 00:22:34 INFO  Loggers:80 - Verified reviews label.
+2017-11-02 00:22:57 INFO  Loggers:83 - Clicked submit review button.
+2017-11-02 00:22:57 INFO  Loggers:87 - Verified submit reviews label.
+2017-11-02 00:22:57 INFO  Loggers:89 - Entering review ratings...
+2017-11-02 00:22:57 INFO  Loggers:92 - Entering review title...
+2017-11-02 00:22:58 INFO  Loggers:96 - Entering review description..
+2017-11-02 00:22:58 INFO  Loggers:101 - Clicked on preview button
+2017-11-02 00:23:21 INFO  Loggers:104 - Clicked on submit button
+2017-11-02 00:23:26 INFO  Loggers:108 - Navigating to WFO Admin
+2017-11-02 00:23:26 INFO  Loggers:72 - Email entered.
+2017-11-02 00:23:28 INFO  Loggers:78 - Password entered.
+2017-11-02 00:23:35 INFO  Loggers:85 - Clicked on Login button.
+2017-11-02 00:23:35 INFO  Loggers:111 - Succesfully logged in on WFO
+2017-11-02 00:23:37 INFO  Loggers:114 - Click on WFO Traillink
+2017-11-02 00:23:38 INFO  Loggers:117 - Click on approve review link
+2017-11-02 00:23:38 INFO  Loggers:120 - Selected approve option from the status dropdown.
+2017-11-02 00:23:38 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_06_UploadPhotoScenarios Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-02 00:23:38 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-02 00:37:56 INFO  Loggers:21 - ========================================================================================
+2017-11-02 00:37:56 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotoScenarios Test ==========================
+2017-11-02 00:37:56 INFO  Loggers:25 - ========================================================================================
+2017-11-02 00:37:58 INFO  Loggers:40 - Clicked on login link.
+2017-11-02 00:37:58 INFO  Loggers:44 - Login page lable is verified.
+2017-11-02 00:37:58 INFO  Loggers:46 - Enter valid credential and login.
+2017-11-02 00:38:00 INFO  Loggers:54 - Email entered.
+2017-11-02 00:38:01 INFO  Loggers:61 - Password entered.
+2017-11-02 00:38:06 INFO  Loggers:68 - Clicked on Login button.
+2017-11-02 00:38:42 INFO  Loggers:51 - Clicked on my profile link.
+2017-11-02 00:38:42 INFO  Loggers:55 - Getting current reviews count 1 before upload.
+2017-11-02 00:38:43 INFO  Loggers:59 - Clicked on my reviews link.
+2017-11-02 00:40:43 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_06_UploadPhotoScenarios Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-02 00:40:43 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-02 00:56:45 INFO  Loggers:21 - ========================================================================================
+2017-11-02 00:56:46 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotoScenarios Test ==========================
+2017-11-02 00:56:46 INFO  Loggers:25 - ========================================================================================
+2017-11-02 00:56:47 INFO  Loggers:40 - Clicked on login link.
+2017-11-02 00:56:47 INFO  Loggers:44 - Login page lable is verified.
+2017-11-02 00:56:47 INFO  Loggers:46 - Enter valid credential and login.
+2017-11-02 00:56:50 INFO  Loggers:54 - Email entered.
+2017-11-02 00:56:50 INFO  Loggers:61 - Password entered.
+2017-11-02 00:56:56 INFO  Loggers:68 - Clicked on Login button.
+2017-11-02 00:57:38 INFO  Loggers:51 - Clicked on my profile link.
+2017-11-02 00:57:38 INFO  Loggers:55 - Getting current reviews count 2 before upload.
+2017-11-02 00:57:39 INFO  Loggers:59 - Clicked on my reviews link.
+2017-11-02 00:57:39 INFO  Loggers:62 - Clicked on search trail button
+2017-11-02 00:57:44 INFO  Loggers:41 - keyword entered.
+2017-11-02 00:57:44 INFO  Loggers:67 - Enter keyword.
+2017-11-02 00:58:05 INFO  Loggers:70 - Clicked on search button
+2017-11-02 00:58:05 INFO  Loggers:73 - Verified the search results.
+2017-11-02 00:58:29 INFO  Loggers:76 - click the search result.
+2017-11-02 00:58:30 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_06_UploadPhotoScenarios Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-02 00:58:30 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-02 01:07:21 INFO  Loggers:21 - ========================================================================================
+2017-11-02 01:07:21 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotoScenarios Test ==========================
+2017-11-02 01:07:21 INFO  Loggers:25 - ========================================================================================
+2017-11-02 01:07:22 INFO  Loggers:40 - Clicked on login link.
+2017-11-02 01:07:23 INFO  Loggers:44 - Login page lable is verified.
+2017-11-02 01:07:23 INFO  Loggers:46 - Enter valid credential and login.
+2017-11-02 01:07:25 INFO  Loggers:54 - Email entered.
+2017-11-02 01:07:26 INFO  Loggers:61 - Password entered.
+2017-11-02 01:07:31 INFO  Loggers:68 - Clicked on Login button.
+2017-11-02 01:08:16 INFO  Loggers:51 - Clicked on my profile link.
+2017-11-02 01:08:16 INFO  Loggers:55 - Getting current reviews count 2 before upload.
+2017-11-02 01:08:18 INFO  Loggers:59 - Clicked on my reviews link.
+2017-11-02 01:08:18 INFO  Loggers:62 - Clicked on search trail button
+2017-11-02 01:08:24 INFO  Loggers:41 - keyword entered.
+2017-11-02 01:08:24 INFO  Loggers:67 - Enter keyword.
+2017-11-02 01:08:47 INFO  Loggers:70 - Clicked on search button
+2017-11-02 01:08:48 INFO  Loggers:73 - Verified the search results.
+2017-11-02 01:09:12 INFO  Loggers:76 - click the search result.
+2017-11-02 01:09:12 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_06_UploadPhotoScenarios Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-02 01:09:12 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-02 01:12:17 INFO  Loggers:21 - ========================================================================================
+2017-11-02 01:12:17 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotoScenarios Test ==========================
+2017-11-02 01:12:17 INFO  Loggers:25 - ========================================================================================
+2017-11-02 01:12:19 INFO  Loggers:40 - Clicked on login link.
+2017-11-02 01:12:19 INFO  Loggers:44 - Login page lable is verified.
+2017-11-02 01:12:19 INFO  Loggers:46 - Enter valid credential and login.
+2017-11-02 01:12:22 INFO  Loggers:54 - Email entered.
+2017-11-02 01:12:22 INFO  Loggers:61 - Password entered.
+2017-11-02 01:12:28 INFO  Loggers:68 - Clicked on Login button.
+2017-11-02 01:13:00 INFO  Loggers:51 - Clicked on my profile link.
+2017-11-02 01:13:00 INFO  Loggers:55 - Getting current reviews count 2 before upload.
+2017-11-02 01:13:01 INFO  Loggers:59 - Clicked on my reviews link.
+2017-11-02 01:13:02 INFO  Loggers:62 - Clicked on search trail button
+2017-11-02 01:13:06 INFO  Loggers:41 - keyword entered.
+2017-11-02 01:13:06 INFO  Loggers:67 - Enter keyword.
+2017-11-02 01:13:30 INFO  Loggers:70 - Clicked on search button
+2017-11-02 01:13:30 INFO  Loggers:73 - Verified the search results.
+2017-11-02 01:13:53 INFO  Loggers:76 - click the search result.
+2017-11-02 01:14:09 INFO  Loggers:80 - Clicked submit review button.
+2017-11-02 01:14:09 INFO  Loggers:84 - Verified submit reviews label.
+2017-11-02 01:14:09 INFO  Loggers:86 - Entering review ratings...
+2017-11-02 01:14:10 INFO  Loggers:89 - Entering review title...
+2017-11-02 01:14:10 INFO  Loggers:93 - Entering review description..
+2017-11-02 01:14:11 INFO  Loggers:98 - Clicked on preview button
+2017-11-02 01:14:29 INFO  Loggers:101 - Clicked on submit button
+2017-11-02 01:14:34 INFO  Loggers:105 - Navigating to WFO Admin
+2017-11-02 01:14:35 INFO  Loggers:72 - Email entered.
+2017-11-02 01:14:36 INFO  Loggers:78 - Password entered.
+2017-11-02 01:14:44 INFO  Loggers:85 - Clicked on Login button.
+2017-11-02 01:14:44 INFO  Loggers:108 - Succesfully logged in on WFO
+2017-11-02 01:14:45 INFO  Loggers:111 - Click on WFO Traillink
+2017-11-02 01:14:47 INFO  Loggers:114 - Click on approve review link
+2017-11-02 01:14:47 INFO  Loggers:117 - Selected approve option from the status dropdown.
+2017-11-02 01:14:49 INFO  Loggers:120 - Click on update button
+2017-11-02 01:14:49 INFO  Loggers:123 - Click on previos tab
+2017-11-02 01:15:07 INFO  Loggers:127 - Clicked on my profile link.
+2017-11-02 01:15:07 INFO  Loggers:130 - Getting current photos count after upload
+2017-11-02 01:15:07 INFO  Loggers:28 - Count is increased by one
+2017-11-02 01:15:07 INFO  Loggers:133 - Verified that review given successfully and review count increases on profile page.
+2017-11-02 01:15:07 INFO  Loggers:136 - Clicked review count.
+2017-11-02 01:15:07 INFO  Loggers:139 - Getting current review text after approve from admin
+2017-11-02 01:15:07 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_06_UploadPhotoScenarios Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-02 01:15:07 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-02 01:24:17 INFO  Loggers:21 - ========================================================================================
+2017-11-02 01:24:17 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotoScenarios Test ==========================
+2017-11-02 01:24:17 INFO  Loggers:25 - ========================================================================================
+2017-11-02 01:24:19 INFO  Loggers:40 - Clicked on login link.
+2017-11-02 01:24:19 INFO  Loggers:44 - Login page lable is verified.
+2017-11-02 01:24:19 INFO  Loggers:46 - Enter valid credential and login.
+2017-11-02 01:24:21 INFO  Loggers:54 - Email entered.
+2017-11-02 01:24:22 INFO  Loggers:61 - Password entered.
+2017-11-02 01:24:27 INFO  Loggers:68 - Clicked on Login button.
+2017-11-02 01:25:01 INFO  Loggers:51 - Clicked on my profile link.
+2017-11-02 01:25:01 INFO  Loggers:55 - Getting current reviews count 3 before upload.
+2017-11-02 01:25:02 INFO  Loggers:59 - Clicked on my reviews link.
+2017-11-02 01:25:02 INFO  Loggers:62 - Clicked on search trail button
+2017-11-02 01:25:07 INFO  Loggers:41 - keyword entered.
+2017-11-02 01:25:07 INFO  Loggers:67 - Enter keyword.
+2017-11-02 01:25:36 INFO  Loggers:70 - Clicked on search button
+2017-11-02 01:25:36 INFO  Loggers:73 - Verified the search results.
+2017-11-02 01:25:58 INFO  Loggers:76 - click the search result.
+2017-11-02 01:26:23 INFO  Loggers:80 - Clicked submit review button.
+2017-11-02 01:26:23 INFO  Loggers:84 - Verified submit reviews label.
+2017-11-02 01:26:23 INFO  Loggers:86 - Entering review ratings...
+2017-11-02 01:26:23 INFO  Loggers:89 - Entering review title...
+2017-11-02 01:26:23 INFO  Loggers:93 - Entering review description..
+2017-11-02 01:26:24 INFO  Loggers:98 - Clicked on preview button
+2017-11-02 01:26:44 INFO  Loggers:101 - Clicked on submit button
+2017-11-02 01:26:49 INFO  Loggers:105 - Navigating to WFO Admin
+2017-11-02 01:26:50 INFO  Loggers:69 - Email entered.
+2017-11-02 01:26:51 INFO  Loggers:75 - Password entered.
+2017-11-02 01:26:57 INFO  Loggers:82 - Clicked on Login button.
+2017-11-02 01:26:57 INFO  Loggers:108 - Succesfully logged in on WFO
+2017-11-02 01:26:58 INFO  Loggers:111 - Click on WFO Traillink
+2017-11-02 01:26:59 INFO  Loggers:114 - Click on approve review link
+2017-11-02 01:26:59 INFO  Loggers:117 - Selected approve option from the status dropdown.
+2017-11-02 01:27:01 INFO  Loggers:120 - Click on update button
+2017-11-02 01:27:01 INFO  Loggers:123 - Click on previos tab
+2017-11-02 01:27:23 INFO  Loggers:127 - Clicked on my profile link.
+2017-11-02 01:27:23 INFO  Loggers:130 - Getting current photos count after upload
+2017-11-02 01:27:23 INFO  Loggers:28 - Count is increased by one
+2017-11-02 01:27:23 INFO  Loggers:133 - Verified that review given successfully and review count increases on profile page.
+2017-11-02 01:27:23 INFO  Loggers:136 - Clicked review count.
+2017-11-02 01:27:23 INFO  Loggers:139 - Getting current review text after approve from admin
+2017-11-02 01:27:23 INFO  Loggers:142 - Review text is verified on my review page.
+2017-11-02 01:27:23 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_06_UploadPhotoScenarios Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-02 01:27:23 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-02 01:41:15 INFO  Loggers:21 - ========================================================================================
+2017-11-02 01:41:15 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotoScenarios Test ==========================
+2017-11-02 01:41:15 INFO  Loggers:25 - ========================================================================================
+2017-11-02 01:41:16 INFO  Loggers:40 - Clicked on login link.
+2017-11-02 01:41:17 INFO  Loggers:44 - Login page lable is verified.
+2017-11-02 01:41:17 INFO  Loggers:46 - Enter valid credential and login.
+2017-11-02 01:41:19 INFO  Loggers:54 - Email entered.
+2017-11-02 01:41:20 INFO  Loggers:61 - Password entered.
+2017-11-02 01:41:25 INFO  Loggers:68 - Clicked on Login button.
+2017-11-02 01:42:09 INFO  Loggers:51 - Clicked on my profile link.
+2017-11-02 01:42:09 INFO  Loggers:55 - Getting current reviews count 4 before upload.
+2017-11-02 01:42:10 INFO  Loggers:59 - Clicked on my reviews link.
+2017-11-02 01:42:11 INFO  Loggers:62 - Clicked on search trail button
+2017-11-02 01:42:16 INFO  Loggers:41 - keyword entered.
+2017-11-02 01:42:16 INFO  Loggers:67 - Enter keyword.
+2017-11-02 01:42:44 INFO  Loggers:70 - Clicked on search button
+2017-11-02 01:42:44 INFO  Loggers:73 - Verified the search results.
+2017-11-02 01:43:10 INFO  Loggers:76 - click the search result.
+2017-11-02 01:43:31 INFO  Loggers:80 - Clicked submit review button.
+2017-11-02 01:43:32 INFO  Loggers:84 - Verified submit reviews label.
+2017-11-02 01:43:32 INFO  Loggers:86 - Entering review ratings...
+2017-11-02 01:43:32 INFO  Loggers:89 - Entering review title...
+2017-11-02 01:43:32 INFO  Loggers:93 - Entering review description..
+2017-11-02 01:43:33 INFO  Loggers:98 - Clicked on preview button
+2017-11-02 01:43:58 INFO  Loggers:101 - Clicked on submit button
+2017-11-02 01:44:03 INFO  Loggers:105 - Navigating to WFO Admin
+2017-11-02 01:44:04 INFO  Loggers:69 - Email entered.
+2017-11-02 01:44:05 INFO  Loggers:75 - Password entered.
+2017-11-02 01:44:12 INFO  Loggers:82 - Clicked on Login button.
+2017-11-02 01:44:12 INFO  Loggers:108 - Succesfully logged in on WFO
+2017-11-02 01:44:14 INFO  Loggers:111 - Click on WFO Traillink
+2017-11-02 01:44:15 INFO  Loggers:114 - Click on approve review link
+2017-11-02 01:44:15 INFO  Loggers:117 - Selected approve option from the status dropdown.
+2017-11-02 01:44:17 INFO  Loggers:120 - Click on update button
+2017-11-02 01:44:17 INFO  Loggers:123 - Click on previos tab
+2017-11-02 01:44:42 INFO  Loggers:127 - Clicked on my profile link.
+2017-11-02 01:44:42 INFO  Loggers:130 - Getting current photos count after upload
+2017-11-02 01:44:42 INFO  Loggers:28 - Count is increased by one
+2017-11-02 01:44:42 INFO  Loggers:133 - Verified that review given successfully and review count increases on profile page.
+2017-11-02 01:44:43 INFO  Loggers:136 - Clicked review count.
+2017-11-02 01:44:43 INFO  Loggers:139 - Getting current review text after approve from admin
+2017-11-02 01:44:43 INFO  Loggers:109 - Expected text is: d8t1e
+2017-11-02 01:44:43 INFO  Loggers:110 - Actual text is: d8t1e
+2017-11-02 01:44:43 INFO  Loggers:113 - Expected text is matched with actual text
+2017-11-02 01:44:43 INFO  Loggers:142 - Review text is verified on my review page.
+2017-11-02 01:44:43 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_06_UploadPhotoScenarios Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-02 01:44:43 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-02 02:14:42 INFO  Loggers:21 - ========================================================================================
+2017-11-02 02:14:42 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotoScenarios Test ==========================
+2017-11-02 02:14:42 INFO  Loggers:25 - ========================================================================================
+2017-11-02 02:14:44 INFO  Loggers:35 - Clicked on login link.
+2017-11-02 02:14:44 INFO  Loggers:39 - Login page lable is verified.
+2017-11-02 02:14:44 INFO  Loggers:41 - Enter valid credential and login.
+2017-11-02 02:14:46 INFO  Loggers:54 - Email entered.
+2017-11-02 02:14:47 INFO  Loggers:61 - Password entered.
+2017-11-02 02:14:52 INFO  Loggers:68 - Clicked on Login button.
+2017-11-02 02:15:21 INFO  Loggers:46 - Clicked on my profile link.
+2017-11-02 02:15:21 INFO  Loggers:50 - Getting current photo count 1 before upload.
+2017-11-02 02:15:22 INFO  Loggers:54 - Clicked on my photos link.
+2017-11-02 02:15:22 INFO  Loggers:57 - Clicked on search trail button
+2017-11-02 02:15:27 INFO  Loggers:41 - keyword entered.
+2017-11-02 02:15:27 INFO  Loggers:62 - Enter keyword.
+2017-11-02 02:15:47 INFO  Loggers:65 - Clicked on search button
+2017-11-02 02:15:48 INFO  Loggers:68 - Verified the search results.
+2017-11-02 02:16:10 INFO  Loggers:71 - click the search result.
+2017-11-02 02:16:24 INFO  Loggers:75 - Clicked upload photos button.
+2017-11-02 02:16:24 INFO  Loggers:79 - Verified submit photos label.
+2017-11-02 02:16:24 INFO  Loggers:81 - Uploading the trail photo...
+2017-11-02 02:16:24 INFO  Loggers:85 - Entering photo title...
+2017-11-02 02:16:25 INFO  Loggers:89 - Entering photo caption...
+2017-11-02 02:16:26 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_06_UploadPhotoScenarios Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-02 02:16:26 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-03 00:08:16 INFO  Loggers:21 - ========================================================================================
+2017-11-03 00:08:16 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotoScenarios Test ==========================
+2017-11-03 00:08:16 INFO  Loggers:25 - ========================================================================================
+2017-11-03 00:12:54 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_06_UploadPhotoScenarios Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-03 00:12:54 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-03 00:20:47 INFO  Loggers:21 - ========================================================================================
+2017-11-03 00:20:47 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotoScenarios Test ==========================
+2017-11-03 00:20:47 INFO  Loggers:25 - ========================================================================================
+2017-11-03 00:21:45 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_06_UploadPhotoScenarios Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-03 00:21:45 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-03 00:27:44 INFO  Loggers:21 - ========================================================================================
+2017-11-03 00:27:44 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotoScenarios Test ==========================
+2017-11-03 00:27:44 INFO  Loggers:25 - ========================================================================================
+2017-11-03 00:27:45 INFO  Loggers:35 - Clicked on login link.
+2017-11-03 00:27:46 INFO  Loggers:39 - Login page lable is verified.
+2017-11-03 00:27:46 INFO  Loggers:41 - Enter valid credential and login.
+2017-11-03 00:27:48 INFO  Loggers:54 - Email entered.
+2017-11-03 00:27:49 INFO  Loggers:61 - Password entered.
+2017-11-03 00:27:54 INFO  Loggers:68 - Clicked on Login button.
+2017-11-03 00:28:46 INFO  Loggers:46 - Clicked on my profile link.
+2017-11-03 00:28:46 INFO  Loggers:50 - Getting current photo count 1 before upload.
+2017-11-03 00:28:48 INFO  Loggers:54 - Clicked on my photos link.
+2017-11-03 00:28:48 INFO  Loggers:57 - Clicked on search trail button
+2017-11-03 00:28:53 INFO  Loggers:41 - keyword entered.
+2017-11-03 00:28:53 INFO  Loggers:62 - Enter keyword.
+2017-11-03 00:29:42 INFO  Loggers:65 - Clicked on search button
+2017-11-03 00:29:42 INFO  Loggers:68 - Verified the search results.
+2017-11-03 00:30:13 INFO  Loggers:71 - click the search result.
+2017-11-03 00:30:35 INFO  Loggers:75 - Clicked upload photos button.
+2017-11-03 00:30:35 INFO  Loggers:79 - Verified submit photos label.
+2017-11-03 00:30:35 INFO  Loggers:81 - Uploading the trail photo...
+2017-11-03 00:30:35 INFO  Loggers:85 - Entering photo title...
+2017-11-03 00:30:37 INFO  Loggers:89 - Entering photo caption...
+2017-11-03 00:30:37 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_06_UploadPhotoScenarios Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-03 00:30:37 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-03 00:46:58 INFO  Loggers:21 - ========================================================================================
+2017-11-03 00:46:58 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotosAndVerifyCount Test ==========================
+2017-11-03 00:46:58 INFO  Loggers:25 - ========================================================================================
+2017-11-03 00:46:59 INFO  Loggers:35 - Clicked on login link.
+2017-11-03 00:46:59 INFO  Loggers:39 - Login page lable is verified.
+2017-11-03 00:46:59 INFO  Loggers:41 - Enter valid credential and login.
+2017-11-03 00:47:01 INFO  Loggers:54 - Email entered.
+2017-11-03 00:47:02 INFO  Loggers:61 - Password entered.
+2017-11-03 00:47:08 INFO  Loggers:68 - Clicked on Login button.
+2017-11-03 00:47:42 INFO  Loggers:46 - Clicked on my profile link.
+2017-11-03 00:47:42 INFO  Loggers:50 - Getting current photo count 1 before upload.
+2017-11-03 00:47:43 INFO  Loggers:54 - Clicked on my photos link.
+2017-11-03 00:47:43 INFO  Loggers:57 - Clicked on search trail button
+2017-11-03 00:47:48 INFO  Loggers:41 - keyword entered.
+2017-11-03 00:47:48 INFO  Loggers:62 - Enter keyword.
+2017-11-03 00:48:12 INFO  Loggers:65 - Clicked on search button
+2017-11-03 00:48:12 INFO  Loggers:68 - Verified the search results.
+2017-11-03 00:48:34 INFO  Loggers:71 - click the search result.
+2017-11-03 00:48:53 INFO  Loggers:75 - Clicked upload photos button.
+2017-11-03 00:48:53 INFO  Loggers:79 - Verified submit photos label.
+2017-11-03 00:48:53 INFO  Loggers:81 - Uploading the trail photo...
+2017-11-03 00:48:54 INFO  Loggers:85 - Entering photo title...
+2017-11-03 00:48:55 INFO  Loggers:89 - Entering photo caption...
+2017-11-03 00:48:56 INFO  Loggers:94 - 11 : Clicked on submit photos
+2017-11-03 00:49:01 INFO  Loggers:98 - Navigating to WFO Admin
+2017-11-03 00:49:02 INFO  Loggers:69 - Email entered.
+2017-11-03 00:49:03 INFO  Loggers:75 - Password entered.
+2017-11-03 00:49:10 INFO  Loggers:82 - Clicked on Login button.
+2017-11-03 00:49:10 INFO  Loggers:101 - Succesfully logged in on WFO
+2017-11-03 00:49:10 INFO  Loggers:104 - Click on WFO Traillink
+2017-11-03 00:49:13 INFO  Loggers:107 - Click on approve photo link
+2017-11-03 00:50:13 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_06_UploadPhotosAndVerifyCount Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-03 00:50:13 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-03 01:08:04 INFO  Loggers:21 - ========================================================================================
+2017-11-03 01:08:04 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotosAndVerifyCount Test ==========================
+2017-11-03 01:08:04 INFO  Loggers:25 - ========================================================================================
+2017-11-03 01:08:06 INFO  Loggers:35 - Clicked on login link.
+2017-11-03 01:08:06 INFO  Loggers:39 - Login page lable is verified.
+2017-11-03 01:08:06 INFO  Loggers:41 - Enter valid credential and login.
+2017-11-03 01:08:08 INFO  Loggers:54 - Email entered.
+2017-11-03 01:08:09 INFO  Loggers:61 - Password entered.
+2017-11-03 01:08:14 INFO  Loggers:68 - Clicked on Login button.
+2017-11-03 01:08:47 INFO  Loggers:46 - Clicked on my profile link.
+2017-11-03 01:08:48 INFO  Loggers:50 - Getting current photo count 1 before upload.
+2017-11-03 01:08:49 INFO  Loggers:54 - Clicked on my photos link.
+2017-11-03 01:08:49 INFO  Loggers:57 - Clicked on search trail button
+2017-11-03 01:08:53 INFO  Loggers:41 - keyword entered.
+2017-11-03 01:08:53 INFO  Loggers:62 - Enter keyword.
+2017-11-03 01:09:08 INFO  Loggers:65 - Clicked on search button
+2017-11-03 01:09:08 INFO  Loggers:68 - Verified the search results.
+2017-11-03 01:09:26 INFO  Loggers:71 - click the search result.
+2017-11-03 01:09:41 INFO  Loggers:75 - Clicked upload photos button.
+2017-11-03 01:09:41 INFO  Loggers:79 - Verified submit photos label.
+2017-11-03 01:09:41 INFO  Loggers:81 - Uploading the trail photo...
+2017-11-03 01:09:41 INFO  Loggers:85 - Entering photo title...
+2017-11-03 01:09:43 INFO  Loggers:89 - Entering photo caption...
+2017-11-03 01:09:44 INFO  Loggers:94 - 11 : Clicked on submit photos
+2017-11-03 01:09:49 INFO  Loggers:98 - Navigating to WFO Admin
+2017-11-03 01:09:50 INFO  Loggers:74 - Email entered.
+2017-11-03 01:09:51 INFO  Loggers:80 - Password entered.
+2017-11-03 01:09:58 INFO  Loggers:87 - Clicked on Login button.
+2017-11-03 01:09:58 INFO  Loggers:101 - Succesfully logged in on WFO
+2017-11-03 01:10:00 INFO  Loggers:104 - Click on WFO Traillink
+2017-11-03 01:10:02 INFO  Loggers:107 - Click on approve photo link
+2017-11-03 01:16:29 INFO  Loggers:21 - ========================================================================================
+2017-11-03 01:16:29 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotosAndVerifyCount Test ==========================
+2017-11-03 01:16:29 INFO  Loggers:25 - ========================================================================================
+2017-11-03 01:16:31 INFO  Loggers:35 - Clicked on login link.
+2017-11-03 01:16:31 INFO  Loggers:39 - Login page lable is verified.
+2017-11-03 01:16:31 INFO  Loggers:41 - Enter valid credential and login.
+2017-11-03 01:16:33 INFO  Loggers:54 - Email entered.
+2017-11-03 01:16:34 INFO  Loggers:61 - Password entered.
+2017-11-03 01:16:39 INFO  Loggers:68 - Clicked on Login button.
+2017-11-03 01:17:14 INFO  Loggers:46 - Clicked on my profile link.
+2017-11-03 01:17:14 INFO  Loggers:50 - Getting current photo count 1 before upload.
+2017-11-03 01:17:16 INFO  Loggers:54 - Clicked on my photos link.
+2017-11-03 01:17:16 INFO  Loggers:57 - Clicked on search trail button
+2017-11-03 01:17:20 INFO  Loggers:41 - keyword entered.
+2017-11-03 01:17:20 INFO  Loggers:62 - Enter keyword.
+2017-11-03 01:17:40 INFO  Loggers:65 - Clicked on search button
+2017-11-03 01:17:40 INFO  Loggers:68 - Verified the search results.
+2017-11-03 01:17:59 INFO  Loggers:71 - click the search result.
+2017-11-03 01:18:19 INFO  Loggers:75 - Clicked upload photos button.
+2017-11-03 01:18:20 INFO  Loggers:79 - Verified submit photos label.
+2017-11-03 01:18:20 INFO  Loggers:81 - Uploading the trail photo...
+2017-11-03 01:18:20 INFO  Loggers:85 - Entering photo title...
+2017-11-03 01:18:21 INFO  Loggers:89 - Entering photo caption...
+2017-11-03 01:18:22 INFO  Loggers:94 - 11 : Clicked on submit photos
+2017-11-03 01:18:27 INFO  Loggers:98 - Navigating to WFO Admin
+2017-11-03 01:18:28 INFO  Loggers:74 - Email entered.
+2017-11-03 01:18:29 INFO  Loggers:80 - Password entered.
+2017-11-03 01:18:36 INFO  Loggers:87 - Clicked on Login button.
+2017-11-03 01:18:36 INFO  Loggers:101 - Succesfully logged in on WFO
+2017-11-03 01:18:37 INFO  Loggers:104 - Click on WFO Traillink
+2017-11-03 01:18:39 INFO  Loggers:107 - Click on approve photo link
+2017-11-03 01:23:35 INFO  Loggers:21 - ========================================================================================
+2017-11-03 01:23:35 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotosAndVerifyCount Test ==========================
+2017-11-03 01:23:35 INFO  Loggers:25 - ========================================================================================
+2017-11-03 01:23:37 INFO  Loggers:35 - Clicked on login link.
+2017-11-03 01:23:37 INFO  Loggers:39 - Login page lable is verified.
+2017-11-03 01:23:37 INFO  Loggers:41 - Enter valid credential and login.
+2017-11-03 01:23:39 INFO  Loggers:54 - Email entered.
+2017-11-03 01:23:40 INFO  Loggers:61 - Password entered.
+2017-11-03 01:23:45 INFO  Loggers:68 - Clicked on Login button.
+2017-11-03 01:24:28 INFO  Loggers:46 - Clicked on my profile link.
+2017-11-03 01:24:28 INFO  Loggers:50 - Getting current photo count 1 before upload.
+2017-11-03 01:24:29 INFO  Loggers:54 - Clicked on my photos link.
+2017-11-03 01:24:29 INFO  Loggers:57 - Clicked on search trail button
+2017-11-03 01:24:34 INFO  Loggers:41 - keyword entered.
+2017-11-03 01:24:34 INFO  Loggers:62 - Enter keyword.
+2017-11-03 01:24:58 INFO  Loggers:65 - Clicked on search button
+2017-11-03 01:24:59 INFO  Loggers:68 - Verified the search results.
+2017-11-03 01:25:19 INFO  Loggers:71 - click the search result.
+2017-11-03 01:25:37 INFO  Loggers:75 - Clicked upload photos button.
+2017-11-03 01:25:37 INFO  Loggers:79 - Verified submit photos label.
+2017-11-03 01:25:37 INFO  Loggers:81 - Uploading the trail photo...
+2017-11-03 01:25:37 INFO  Loggers:85 - Entering photo title...
+2017-11-03 01:25:39 INFO  Loggers:89 - Entering photo caption...
+2017-11-03 01:25:40 INFO  Loggers:94 - 11 : Clicked on submit photos
+2017-11-03 01:25:44 INFO  Loggers:98 - Navigating to WFO Admin
+2017-11-03 01:25:45 INFO  Loggers:74 - Email entered.
+2017-11-03 01:25:46 INFO  Loggers:80 - Password entered.
+2017-11-03 01:25:53 INFO  Loggers:87 - Clicked on Login button.
+2017-11-03 01:25:53 INFO  Loggers:101 - Succesfully logged in on WFO
+2017-11-03 01:25:54 INFO  Loggers:104 - Click on WFO Traillink
+2017-11-03 01:25:55 INFO  Loggers:107 - Click on approve photo link
+2017-11-03 01:52:08 INFO  Loggers:21 - ========================================================================================
+2017-11-03 01:52:08 INFO  Loggers:23 - =================== Starting TC_07_CreateTrailAndVerifyCount Test ==========================
+2017-11-03 01:52:08 INFO  Loggers:25 - ========================================================================================
+2017-11-03 01:52:10 INFO  Loggers:33 - Clicked on login link.
+2017-11-03 01:52:10 INFO  Loggers:37 - Login page lable is verified.
+2017-11-03 01:52:10 INFO  Loggers:39 - Enter valid credential and login.
+2017-11-03 01:52:12 INFO  Loggers:54 - Email entered.
+2017-11-03 01:52:13 INFO  Loggers:61 - Password entered.
+2017-11-03 01:52:18 INFO  Loggers:68 - Clicked on Login button.
+2017-11-03 01:52:52 INFO  Loggers:44 - Clicked on my profile link.
+2017-11-03 01:52:52 INFO  Loggers:48 - Getting current trail count 1 before create.
+2017-11-03 01:52:53 INFO  Loggers:52 - Clicked on my trail link.
+2017-11-03 01:53:19 INFO  Loggers:55 - Clicked on submit trail button.
+2017-11-03 01:53:22 INFO  Loggers:113 - Trail name entered.
+2017-11-03 01:53:23 INFO  Loggers:119 - Trail length entered.
+2017-11-03 01:53:24 INFO  Loggers:130 - category selected
+2017-11-03 01:53:24 INFO  Loggers:136 - End point 1 entered.
+2017-11-03 01:53:25 INFO  Loggers:142 - End point 2 entered.
+2017-11-03 01:53:26 INFO  Loggers:148 - website entered.
+2017-11-03 01:53:27 INFO  Loggers:156 - surfaces selected
+2017-11-03 01:53:27 INFO  Loggers:163 - activities selected
+2017-11-03 01:53:27 INFO  Loggers:170 - state selected
+2017-11-03 01:53:28 INFO  Loggers:176 - country selected
+2017-11-03 01:53:29 INFO  Loggers:182 - DESCRIPTION entered.
+2017-11-03 01:53:30 INFO  Loggers:188 - parking entered.
+2017-11-03 01:53:31 INFO  Loggers:195 - terms checkbox selected
+2017-11-03 01:53:32 INFO  Loggers:203 - Clicked on view trail button.
+2017-11-03 01:53:55 INFO  Loggers:211 - Clicked on submit trail button.
+2017-11-03 01:53:55 INFO  Loggers:218 - Trail Submitted !!
+2017-11-03 01:53:55 INFO  Loggers:62 - Fill all the valid details and submit trail.
+2017-11-03 01:53:55 INFO  Loggers:64 - Verifying that trail submitted successfully.
+2017-11-03 01:53:55 INFO  Loggers:218 - Trail Submitted !!
+2017-11-03 01:54:00 INFO  Loggers:69 - Navigating to WFO Admin
+2017-11-03 01:54:01 INFO  Loggers:74 - Email entered.
+2017-11-03 01:54:02 INFO  Loggers:80 - Password entered.
+2017-11-03 01:54:10 INFO  Loggers:87 - Clicked on Login button.
+2017-11-03 01:54:10 INFO  Loggers:72 - Succesfully logged in on WFO
+2017-11-03 01:54:11 INFO  Loggers:75 - Click on WFO Traillink
+2017-11-03 01:54:12 INFO  Loggers:78 - Click on approve trail link
+2017-11-03 01:54:19 INFO  Loggers:81 - Click on trail id.
+2017-11-03 01:54:19 INFO  Loggers:84 - Select open status
+2017-11-03 01:54:25 INFO  Loggers:87 - Click on save button
+2017-11-03 01:54:25 INFO  Loggers:90 - Click on previos tab
+2017-11-03 01:54:41 INFO  Loggers:94 - Clicked on my profile link.
+2017-11-03 01:54:41 INFO  Loggers:97 - Getting current review count: 1after upload
+2017-11-03 01:54:41 INFO  Loggers:31 - Count is not increased by one
+2017-11-03 01:54:41 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_07_CreateTrailAndVerifyCount Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-03 01:54:41 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-03 23:56:24 INFO  Loggers:21 - ========================================================================================
+2017-11-03 23:56:24 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotosAndVerifyCount Test ==========================
+2017-11-03 23:56:24 INFO  Loggers:25 - ========================================================================================
+2017-11-03 23:56:25 INFO  Loggers:35 - Clicked on login link.
+2017-11-03 23:56:26 INFO  Loggers:39 - Login page lable is verified.
+2017-11-03 23:56:26 INFO  Loggers:41 - Enter valid credential and login.
+2017-11-03 23:56:28 INFO  Loggers:54 - Email entered.
+2017-11-03 23:56:29 INFO  Loggers:61 - Password entered.
+2017-11-03 23:56:34 INFO  Loggers:68 - Clicked on Login button.
+2017-11-03 23:57:15 INFO  Loggers:46 - Clicked on my profile link.
+2017-11-03 23:57:15 INFO  Loggers:50 - Getting current photo count 2 before upload.
+2017-11-03 23:57:16 INFO  Loggers:54 - Clicked on my photos link.
+2017-11-03 23:57:16 INFO  Loggers:57 - Clicked on search trail button
+2017-11-03 23:57:21 INFO  Loggers:41 - keyword entered.
+2017-11-03 23:57:21 INFO  Loggers:62 - Enter keyword.
+2017-11-03 23:58:16 INFO  Loggers:65 - Clicked on search button
+2017-11-03 23:58:16 INFO  Loggers:68 - Verified the search results.
+2017-11-03 23:58:43 INFO  Loggers:71 - click the search result.
+2017-11-03 23:59:02 INFO  Loggers:75 - Clicked upload photos button.
+2017-11-03 23:59:02 INFO  Loggers:79 - Verified submit photos label.
+2017-11-03 23:59:02 INFO  Loggers:81 - Uploading the trail photo...
+2017-11-04 00:00:48 INFO  Loggers:85 - Entering photo title...
+2017-11-04 00:00:54 INFO  Loggers:89 - Entering photo caption...
+2017-11-04 00:02:55 INFO  Loggers:94 - 11 : Clicked on submit photos
+2017-11-04 00:03:00 INFO  Loggers:98 - Navigating to WFO Admin
+2017-11-04 00:03:00 INFO  Loggers:74 - Email entered.
+2017-11-04 00:03:02 INFO  Loggers:80 - Password entered.
+2017-11-04 00:03:09 INFO  Loggers:87 - Clicked on Login button.
+2017-11-04 00:03:09 INFO  Loggers:101 - Succesfully logged in on WFO
+2017-11-04 00:03:10 INFO  Loggers:104 - Click on WFO Traillink
+2017-11-04 00:03:13 INFO  Loggers:107 - Click on approve photo link
+2017-11-04 00:15:47 INFO  Loggers:21 - ========================================================================================
+2017-11-04 00:15:47 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotosAndVerifyCount Test ==========================
+2017-11-04 00:15:47 INFO  Loggers:25 - ========================================================================================
+2017-11-04 00:15:49 INFO  Loggers:35 - Clicked on login link.
+2017-11-04 00:16:00 INFO  Loggers:39 - Login page lable is verified.
+2017-11-04 00:16:00 INFO  Loggers:41 - Enter valid credential and login.
+2017-11-04 00:16:03 INFO  Loggers:54 - Email entered.
+2017-11-04 00:16:04 INFO  Loggers:61 - Password entered.
+2017-11-04 00:16:09 INFO  Loggers:68 - Clicked on Login button.
+2017-11-04 00:16:17 INFO  Loggers:46 - Clicked on my profile link.
+2017-11-04 00:16:17 INFO  Loggers:50 - Getting current photo count 2 before upload.
+2017-11-04 00:16:19 INFO  Loggers:54 - Clicked on my photos link.
+2017-11-04 00:16:19 INFO  Loggers:57 - Clicked on search trail button
+2017-11-04 00:16:24 INFO  Loggers:41 - keyword entered.
+2017-11-04 00:16:24 INFO  Loggers:62 - Enter keyword.
+2017-11-04 00:16:29 INFO  Loggers:65 - Clicked on search button
+2017-11-04 00:16:29 INFO  Loggers:68 - Verified the search results.
+2017-11-04 00:16:29 INFO  Loggers:71 - click the search result.
+2017-11-04 00:16:40 INFO  Loggers:75 - Clicked upload photos button.
+2017-11-04 00:16:40 INFO  Loggers:79 - Verified submit photos label.
+2017-11-04 00:16:40 INFO  Loggers:81 - Uploading the trail photo...
+2017-11-04 00:16:41 INFO  Loggers:85 - Entering photo title...
+2017-11-04 00:16:42 INFO  Loggers:89 - Entering photo caption...
+2017-11-04 00:16:43 INFO  Loggers:94 - 11 : Clicked on submit photos
+2017-11-04 00:16:46 INFO  Loggers:98 - Navigating to WFO Admin
+2017-11-04 00:16:47 INFO  Loggers:74 - Email entered.
+2017-11-04 00:16:48 INFO  Loggers:80 - Password entered.
+2017-11-04 00:16:55 INFO  Loggers:87 - Clicked on Login button.
+2017-11-04 00:16:55 INFO  Loggers:101 - Succesfully logged in on WFO
+2017-11-04 00:16:56 INFO  Loggers:104 - Click on WFO Traillink
+2017-11-04 00:16:58 INFO  Loggers:107 - Click on approve photo link
+2017-11-04 00:17:58 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_06_UploadPhotosAndVerifyCount Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-04 00:17:58 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-04 00:20:00 INFO  Loggers:21 - ========================================================================================
+2017-11-04 00:20:00 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotosAndVerifyCount Test ==========================
+2017-11-04 00:20:00 INFO  Loggers:25 - ========================================================================================
+2017-11-04 00:20:02 INFO  Loggers:35 - Clicked on login link.
+2017-11-04 00:20:08 INFO  Loggers:39 - Login page lable is verified.
+2017-11-04 00:20:08 INFO  Loggers:41 - Enter valid credential and login.
+2017-11-04 00:20:10 INFO  Loggers:54 - Email entered.
+2017-11-04 00:20:11 INFO  Loggers:61 - Password entered.
+2017-11-04 00:20:17 INFO  Loggers:68 - Clicked on Login button.
+2017-11-04 00:20:25 INFO  Loggers:46 - Clicked on my profile link.
+2017-11-04 00:20:25 INFO  Loggers:50 - Getting current photo count 2 before upload.
+2017-11-04 00:20:27 INFO  Loggers:54 - Clicked on my photos link.
+2017-11-04 00:20:27 INFO  Loggers:57 - Clicked on search trail button
+2017-11-04 00:20:32 INFO  Loggers:41 - keyword entered.
+2017-11-04 00:20:32 INFO  Loggers:62 - Enter keyword.
+2017-11-04 00:20:36 INFO  Loggers:65 - Clicked on search button
+2017-11-04 00:20:36 INFO  Loggers:68 - Verified the search results.
+2017-11-04 00:20:36 INFO  Loggers:71 - click the search result.
+2017-11-04 00:20:47 INFO  Loggers:75 - Clicked upload photos button.
+2017-11-04 00:20:48 INFO  Loggers:79 - Verified submit photos label.
+2017-11-04 00:20:48 INFO  Loggers:81 - Uploading the trail photo...
+2017-11-04 00:22:47 INFO  Loggers:85 - Entering photo title...
+2017-11-04 00:23:00 INFO  Loggers:89 - Entering photo caption...
+2017-11-04 00:23:16 INFO  Loggers:94 - 11 : Clicked on submit photos
+2017-11-04 00:30:23 INFO  Loggers:21 - ========================================================================================
+2017-11-04 00:30:23 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotosAndVerifyCount Test ==========================
+2017-11-04 00:30:23 INFO  Loggers:25 - ========================================================================================
+2017-11-04 00:30:24 INFO  Loggers:35 - Clicked on login link.
+2017-11-04 00:30:25 INFO  Loggers:39 - Login page lable is verified.
+2017-11-04 00:30:25 INFO  Loggers:41 - Enter valid credential and login.
+2017-11-04 00:30:27 INFO  Loggers:54 - Email entered.
+2017-11-04 00:30:28 INFO  Loggers:61 - Password entered.
+2017-11-04 00:30:33 INFO  Loggers:68 - Clicked on Login button.
+2017-11-04 00:31:08 INFO  Loggers:46 - Clicked on my profile link.
+2017-11-04 00:31:08 INFO  Loggers:50 - Getting current photo count 2 before upload.
+2017-11-04 00:31:09 INFO  Loggers:54 - Clicked on my photos link.
+2017-11-04 00:31:09 INFO  Loggers:57 - Clicked on search trail button
+2017-11-04 00:31:15 INFO  Loggers:41 - keyword entered.
+2017-11-04 00:31:15 INFO  Loggers:62 - Enter keyword.
+2017-11-04 00:31:38 INFO  Loggers:65 - Clicked on search button
+2017-11-04 00:31:38 INFO  Loggers:68 - Verified the search results.
+2017-11-04 00:32:05 INFO  Loggers:71 - click the search result.
+2017-11-04 00:32:20 INFO  Loggers:75 - Clicked upload photos button.
+2017-11-04 00:32:20 INFO  Loggers:79 - Verified submit photos label.
+2017-11-04 00:32:20 INFO  Loggers:81 - Uploading the trail photo...
+2017-11-04 00:32:20 INFO  Loggers:85 - Entering photo title...
+2017-11-04 00:32:22 INFO  Loggers:89 - Entering photo caption...
+2017-11-04 00:32:23 INFO  Loggers:94 - 11 : Clicked on submit photos
+2017-11-04 00:32:28 INFO  Loggers:98 - Navigating to WFO Admin
+2017-11-04 00:32:29 INFO  Loggers:74 - Email entered.
+2017-11-04 00:32:30 INFO  Loggers:80 - Password entered.
+2017-11-04 00:32:37 INFO  Loggers:87 - Clicked on Login button.
+2017-11-04 00:32:37 INFO  Loggers:101 - Succesfully logged in on WFO
+2017-11-04 00:32:38 INFO  Loggers:104 - Click on WFO Traillink
+2017-11-04 00:32:40 INFO  Loggers:107 - Click on approve photo link
+2017-11-04 00:33:40 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_06_UploadPhotosAndVerifyCount Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-04 00:33:40 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-04 01:02:36 INFO  Loggers:21 - ========================================================================================
+2017-11-04 01:02:36 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotosAndVerifyCount Test ==========================
+2017-11-04 01:02:36 INFO  Loggers:25 - ========================================================================================
+2017-11-04 01:02:38 INFO  Loggers:35 - Clicked on login link.
+2017-11-04 01:02:39 INFO  Loggers:39 - Login page lable is verified.
+2017-11-04 01:02:39 INFO  Loggers:41 - Enter valid credential and login.
+2017-11-04 01:02:41 INFO  Loggers:54 - Email entered.
+2017-11-04 01:02:42 INFO  Loggers:61 - Password entered.
+2017-11-04 01:02:47 INFO  Loggers:68 - Clicked on Login button.
+2017-11-04 01:03:25 INFO  Loggers:46 - Clicked on my profile link.
+2017-11-04 01:03:25 INFO  Loggers:50 - Getting current photo count 2 before upload.
+2017-11-04 01:03:27 INFO  Loggers:54 - Clicked on my photos link.
+2017-11-04 01:03:27 INFO  Loggers:57 - Clicked on search trail button
+2017-11-04 01:03:32 INFO  Loggers:41 - keyword entered.
+2017-11-04 01:03:32 INFO  Loggers:62 - Enter keyword.
+2017-11-04 01:03:50 INFO  Loggers:65 - Clicked on search button
+2017-11-04 01:03:50 INFO  Loggers:68 - Verified the search results.
+2017-11-04 01:04:11 INFO  Loggers:71 - click the search result.
+2017-11-04 01:04:32 INFO  Loggers:75 - Clicked upload photos button.
+2017-11-04 01:04:32 INFO  Loggers:79 - Verified submit photos label.
+2017-11-04 01:04:32 INFO  Loggers:81 - Uploading the trail photo...
+2017-11-04 01:04:32 INFO  Loggers:85 - Entering photo title...
+2017-11-04 01:04:34 INFO  Loggers:89 - Entering photo caption...
+2017-11-04 01:04:35 INFO  Loggers:94 - 11 : Clicked on submit photos
+2017-11-04 01:04:40 INFO  Loggers:98 - Navigating to WFO Admin
+2017-11-04 01:04:41 INFO  Loggers:74 - Email entered.
+2017-11-04 01:04:42 INFO  Loggers:80 - Password entered.
+2017-11-04 23:07:03 INFO  Loggers:21 - ========================================================================================
+2017-11-04 23:07:03 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotosAndVerifyCount Test ==========================
+2017-11-04 23:07:03 INFO  Loggers:25 - ========================================================================================
+2017-11-04 23:11:21 INFO  Loggers:21 - ========================================================================================
+2017-11-04 23:11:21 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotosAndVerifyCount Test ==========================
+2017-11-04 23:11:21 INFO  Loggers:25 - ========================================================================================
+2017-11-04 23:11:23 INFO  Loggers:35 - Clicked on login link.
+2017-11-04 23:11:23 INFO  Loggers:39 - Login page lable is verified.
+2017-11-04 23:11:23 INFO  Loggers:41 - Enter valid credential and login.
+2017-11-04 23:11:25 INFO  Loggers:54 - Email entered.
+2017-11-04 23:11:26 INFO  Loggers:61 - Password entered.
+2017-11-04 23:11:32 INFO  Loggers:68 - Clicked on Login button.
+2017-11-04 23:12:22 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_06_UploadPhotosAndVerifyCount Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-04 23:12:22 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-04 23:16:00 INFO  Loggers:21 - ========================================================================================
+2017-11-04 23:16:00 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotosAndVerifyCount Test ==========================
+2017-11-04 23:16:00 INFO  Loggers:25 - ========================================================================================
+2017-11-04 23:16:02 INFO  Loggers:35 - Clicked on login link.
+2017-11-04 23:16:02 INFO  Loggers:39 - Login page lable is verified.
+2017-11-04 23:16:02 INFO  Loggers:41 - Enter valid credential and login.
+2017-11-04 23:16:05 INFO  Loggers:54 - Email entered.
+2017-11-04 23:16:06 INFO  Loggers:61 - Password entered.
+2017-11-04 23:16:11 INFO  Loggers:68 - Clicked on Login button.
+2017-11-04 23:16:43 INFO  Loggers:46 - Clicked on my profile link.
+2017-11-04 23:16:43 INFO  Loggers:50 - Getting current photo count 3 before upload.
+2017-11-04 23:16:45 INFO  Loggers:54 - Clicked on my photos link.
+2017-11-04 23:16:45 INFO  Loggers:57 - Clicked on search trail button
+2017-11-04 23:16:50 INFO  Loggers:41 - keyword entered.
+2017-11-04 23:16:50 INFO  Loggers:62 - Enter keyword.
+2017-11-04 23:17:08 INFO  Loggers:65 - Clicked on search button
+2017-11-04 23:17:08 INFO  Loggers:68 - Verified the search results.
+2017-11-04 23:17:31 INFO  Loggers:71 - click the search result.
+2017-11-04 23:17:45 INFO  Loggers:75 - Clicked upload photos button.
+2017-11-04 23:17:45 INFO  Loggers:79 - Verified submit photos label.
+2017-11-04 23:17:45 INFO  Loggers:81 - Uploading the trail photo...
+2017-11-04 23:18:51 INFO  Loggers:85 - Entering photo title...
+2017-11-04 23:18:54 INFO  Loggers:89 - Entering photo caption...
+2017-11-05 00:20:04 INFO  Loggers:21 - ========================================================================================
+2017-11-05 00:20:04 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotosAndVerifyCount Test ==========================
+2017-11-05 00:20:04 INFO  Loggers:25 - ========================================================================================
+2017-11-05 00:20:06 INFO  Loggers:35 - Clicked on login link.
+2017-11-05 00:20:12 INFO  Loggers:39 - Login page lable is verified.
+2017-11-05 00:20:12 INFO  Loggers:41 - Enter valid credential and login.
+2017-11-05 00:20:15 INFO  Loggers:54 - Email entered.
+2017-11-05 00:20:16 INFO  Loggers:61 - Password entered.
+2017-11-05 00:20:22 INFO  Loggers:68 - Clicked on Login button.
+2017-11-05 00:20:25 INFO  Loggers:81 - Verified submit photos label.
+2017-11-05 00:20:25 INFO  Loggers:83 - Uploading the trail photo...
+2017-11-05 00:23:27 INFO  Loggers:21 - ========================================================================================
+2017-11-05 00:23:27 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotosAndVerifyCount Test ==========================
+2017-11-05 00:23:27 INFO  Loggers:25 - ========================================================================================
+2017-11-05 00:23:29 INFO  Loggers:35 - Clicked on login link.
+2017-11-05 00:23:38 INFO  Loggers:39 - Login page lable is verified.
+2017-11-05 00:23:38 INFO  Loggers:41 - Enter valid credential and login.
+2017-11-05 00:23:42 INFO  Loggers:54 - Email entered.
+2017-11-05 00:23:42 INFO  Loggers:61 - Password entered.
+2017-11-05 00:23:48 INFO  Loggers:68 - Clicked on Login button.
+2017-11-05 00:23:52 INFO  Loggers:81 - Verified submit photos label.
+2017-11-05 00:23:52 INFO  Loggers:83 - Uploading the trail photo...
+2017-11-05 00:24:29 INFO  Loggers:87 - Entering photo title...
+2017-11-05 00:31:56 INFO  Loggers:21 - ========================================================================================
+2017-11-05 00:31:56 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotosAndVerifyCount Test ==========================
+2017-11-05 00:31:56 INFO  Loggers:25 - ========================================================================================
+2017-11-05 00:31:57 INFO  Loggers:36 - Clicked on login link.
+2017-11-05 00:32:05 INFO  Loggers:40 - Login page lable is verified.
+2017-11-05 00:32:05 INFO  Loggers:42 - Enter valid credential and login.
+2017-11-05 00:32:08 INFO  Loggers:54 - Email entered.
+2017-11-05 00:32:09 INFO  Loggers:61 - Password entered.
+2017-11-05 00:32:14 INFO  Loggers:68 - Clicked on Login button.
+2017-11-05 00:34:09 INFO  Loggers:89 - Entering photo title...
+2017-11-05 00:34:19 INFO  Loggers:93 - Entering photo caption...
+2017-11-05 00:41:58 INFO  Loggers:21 - ========================================================================================
+2017-11-05 00:41:58 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotosAndVerifyCount Test ==========================
+2017-11-05 00:41:58 INFO  Loggers:25 - ========================================================================================
+2017-11-05 00:42:00 INFO  Loggers:36 - Clicked on login link.
+2017-11-05 00:42:07 INFO  Loggers:40 - Login page lable is verified.
+2017-11-05 00:42:07 INFO  Loggers:42 - Enter valid credential and login.
+2017-11-05 00:42:11 INFO  Loggers:54 - Email entered.
+2017-11-05 00:42:12 INFO  Loggers:61 - Password entered.
+2017-11-05 00:42:17 INFO  Loggers:68 - Clicked on Login button.
+2017-11-05 00:47:57 INFO  Loggers:21 - ========================================================================================
+2017-11-05 00:47:57 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotosAndVerifyCount Test ==========================
+2017-11-05 00:47:57 INFO  Loggers:25 - ========================================================================================
+2017-11-05 00:47:59 INFO  Loggers:38 - Clicked on login link.
+2017-11-05 00:48:10 INFO  Loggers:42 - Login page lable is verified.
+2017-11-05 00:48:10 INFO  Loggers:44 - Enter valid credential and login.
+2017-11-05 00:48:14 INFO  Loggers:54 - Email entered.
+2017-11-05 00:48:15 INFO  Loggers:61 - Password entered.
+2017-11-05 00:48:20 INFO  Loggers:68 - Clicked on Login button.
+2017-11-05 00:49:49 INFO  Loggers:117 - Entering photo title...
+2017-11-05 00:50:00 INFO  Loggers:121 - Entering photo caption...
+2017-11-05 00:52:52 INFO  Loggers:21 - ========================================================================================
+2017-11-05 00:52:52 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotosAndVerifyCount Test ==========================
+2017-11-05 00:52:52 INFO  Loggers:25 - ========================================================================================
+2017-11-05 00:52:54 INFO  Loggers:38 - Clicked on login link.
+2017-11-05 00:53:03 INFO  Loggers:42 - Login page lable is verified.
+2017-11-05 00:53:03 INFO  Loggers:44 - Enter valid credential and login.
+2017-11-05 00:53:06 INFO  Loggers:54 - Email entered.
+2017-11-05 00:53:07 INFO  Loggers:61 - Password entered.
+2017-11-05 00:53:12 INFO  Loggers:68 - Clicked on Login button.
+2017-11-05 00:54:50 INFO  Loggers:21 - ========================================================================================
+2017-11-05 00:54:50 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotosAndVerifyCount Test ==========================
+2017-11-05 00:54:50 INFO  Loggers:25 - ========================================================================================
+2017-11-05 00:54:52 INFO  Loggers:38 - Clicked on login link.
+2017-11-05 00:54:59 INFO  Loggers:42 - Login page lable is verified.
+2017-11-05 00:54:59 INFO  Loggers:44 - Enter valid credential and login.
+2017-11-05 00:55:02 INFO  Loggers:54 - Email entered.
+2017-11-05 00:55:03 INFO  Loggers:61 - Password entered.
+2017-11-05 00:55:08 INFO  Loggers:68 - Clicked on Login button.
+2017-11-05 00:57:36 INFO  Loggers:21 - ========================================================================================
+2017-11-05 00:57:36 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotosAndVerifyCount Test ==========================
+2017-11-05 00:57:36 INFO  Loggers:25 - ========================================================================================
+2017-11-05 01:00:12 INFO  Loggers:21 - ========================================================================================
+2017-11-05 01:00:12 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotosAndVerifyCount Test ==========================
+2017-11-05 01:00:12 INFO  Loggers:25 - ========================================================================================
+2017-11-05 01:00:13 INFO  Loggers:38 - Clicked on login link.
+2017-11-05 01:00:23 INFO  Loggers:42 - Login page lable is verified.
+2017-11-05 01:00:23 INFO  Loggers:44 - Enter valid credential and login.
+2017-11-05 01:00:26 INFO  Loggers:54 - Email entered.
+2017-11-05 01:00:27 INFO  Loggers:61 - Password entered.
+2017-11-05 01:00:32 INFO  Loggers:68 - Clicked on Login button.
+2017-11-05 01:00:49 INFO  Loggers:117 - Entering photo title...
+2017-11-05 01:00:59 INFO  Loggers:121 - Entering photo caption...
+2017-11-05 01:03:14 INFO  Loggers:21 - ========================================================================================
+2017-11-05 01:03:14 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotosAndVerifyCount Test ==========================
+2017-11-05 01:03:14 INFO  Loggers:25 - ========================================================================================
+2017-11-05 01:11:42 INFO  Loggers:21 - ========================================================================================
+2017-11-05 01:11:42 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotosAndVerifyCount Test ==========================
+2017-11-05 01:11:42 INFO  Loggers:25 - ========================================================================================
+2017-11-05 01:11:44 INFO  Loggers:38 - Clicked on login link.
+2017-11-05 01:11:53 INFO  Loggers:42 - Login page lable is verified.
+2017-11-05 01:11:53 INFO  Loggers:44 - Enter valid credential and login.
+2017-11-05 01:11:56 INFO  Loggers:54 - Email entered.
+2017-11-05 01:11:57 INFO  Loggers:61 - Password entered.
+2017-11-05 01:12:02 INFO  Loggers:68 - Clicked on Login button.
+2017-11-05 01:12:10 INFO  Loggers:50 - Clicked on my profile link.
+2017-11-05 01:12:10 INFO  Loggers:54 - Getting current photo count 6 before upload.
+2017-11-05 01:12:12 INFO  Loggers:58 - Clicked on my photos link.
+2017-11-05 01:12:12 INFO  Loggers:61 - Clicked on search trail button
+2017-11-05 01:12:16 INFO  Loggers:41 - keyword entered.
+2017-11-05 01:12:16 INFO  Loggers:66 - Enter keyword.
+2017-11-05 01:12:21 INFO  Loggers:69 - Clicked on search button
+2017-11-05 01:12:21 INFO  Loggers:72 - Verified the search results.
+2017-11-05 01:12:21 INFO  Loggers:75 - click the search result.
+2017-11-05 01:12:32 INFO  Loggers:79 - Clicked upload photos button.
+2017-11-05 01:12:32 INFO  Loggers:83 - Verified submit photos label.
+2017-11-05 01:12:32 INFO  Loggers:85 - Uploading the trail photo...
+2017-11-05 01:12:32 INFO  Loggers:89 - Entering photo title...
+2017-11-05 01:12:33 INFO  Loggers:93 - Entering photo caption...
+2017-11-05 01:12:38 INFO  Loggers:98 - 11 : Clicked on submit photos
+2017-11-05 01:12:43 INFO  Loggers:102 - Navigating to WFO Admin
+2017-11-05 01:12:44 INFO  Loggers:74 - Email entered.
+2017-11-05 01:12:45 INFO  Loggers:80 - Password entered.
+2017-11-05 01:12:53 INFO  Loggers:87 - Clicked on Login button.
+2017-11-05 01:12:53 INFO  Loggers:105 - Succesfully logged in on WFO
+2017-11-05 01:12:53 INFO  Loggers:108 - Click on WFO Traillink
+2017-11-05 01:12:59 INFO  Loggers:111 - Click on approve photo link
+2017-11-05 01:12:59 INFO  Loggers:114 - Selected approve option from the status dropdown.
+2017-11-05 01:12:59 INFO  Loggers:117 - Click on update button
+2017-11-05 01:12:59 INFO  Loggers:120 - Click on previos tab
+2017-11-05 01:13:07 INFO  Loggers:124 - Clicked on my profile link.
+2017-11-05 01:13:07 INFO  Loggers:127 - Getting current photos count 7 after upload
+2017-11-05 01:13:07 INFO  Loggers:28 - Count is increased by one
+2017-11-05 01:13:07 INFO  Loggers:130 - Verified that photo uploaded successfully and photos count increases on profile page.
+2017-11-05 01:13:07 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_06_UploadPhotosAndVerifyCount Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 01:13:07 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 01:15:57 INFO  Loggers:21 - ========================================================================================
+2017-11-05 01:15:57 INFO  Loggers:23 - =================== Starting TC_07_CreateTrailAndVerifyCount Test ==========================
+2017-11-05 01:15:57 INFO  Loggers:25 - ========================================================================================
+2017-11-05 01:15:59 INFO  Loggers:33 - Clicked on login link.
+2017-11-05 01:16:10 INFO  Loggers:37 - Login page lable is verified.
+2017-11-05 01:16:10 INFO  Loggers:39 - Enter valid credential and login.
+2017-11-05 01:16:13 INFO  Loggers:54 - Email entered.
+2017-11-05 01:16:14 INFO  Loggers:61 - Password entered.
+2017-11-05 01:16:19 INFO  Loggers:68 - Clicked on Login button.
+2017-11-05 01:16:27 INFO  Loggers:44 - Clicked on my profile link.
+2017-11-05 01:16:27 INFO  Loggers:48 - Getting current trail count 1 before create.
+2017-11-05 01:16:28 INFO  Loggers:52 - Clicked on my trail link.
+2017-11-05 01:16:32 INFO  Loggers:55 - Clicked on submit trail button.
+2017-11-05 01:16:35 INFO  Loggers:113 - Trail name entered.
+2017-11-05 01:16:36 INFO  Loggers:119 - Trail length entered.
+2017-11-05 01:16:37 INFO  Loggers:130 - category selected
+2017-11-05 01:16:37 INFO  Loggers:136 - End point 1 entered.
+2017-11-05 01:16:38 INFO  Loggers:142 - End point 2 entered.
+2017-11-05 01:16:39 INFO  Loggers:148 - website entered.
+2017-11-05 01:16:40 INFO  Loggers:156 - surfaces selected
+2017-11-05 01:16:40 INFO  Loggers:163 - activities selected
+2017-11-05 01:16:40 INFO  Loggers:170 - state selected
+2017-11-05 01:16:41 INFO  Loggers:176 - country selected
+2017-11-05 01:16:43 INFO  Loggers:182 - DESCRIPTION entered.
+2017-11-05 01:16:43 INFO  Loggers:188 - parking entered.
+2017-11-05 01:16:44 INFO  Loggers:195 - terms checkbox selected
+2017-11-05 01:16:45 INFO  Loggers:203 - Clicked on view trail button.
+2017-11-05 01:16:48 INFO  Loggers:211 - Clicked on submit trail button.
+2017-11-05 01:16:48 INFO  Loggers:218 - Trail Submitted !!
+2017-11-05 01:16:48 INFO  Loggers:62 - Fill all the valid details and submit trail.
+2017-11-05 01:16:48 INFO  Loggers:64 - Verifying that trail submitted successfully.
+2017-11-05 01:16:48 INFO  Loggers:218 - Trail Submitted !!
+2017-11-05 01:16:52 INFO  Loggers:69 - Navigating to WFO Admin
+2017-11-05 01:16:52 INFO  Loggers:74 - Email entered.
+2017-11-05 01:16:53 INFO  Loggers:80 - Password entered.
+2017-11-05 01:17:00 INFO  Loggers:87 - Clicked on Login button.
+2017-11-05 01:17:00 INFO  Loggers:72 - Succesfully logged in on WFO
+2017-11-05 01:17:01 INFO  Loggers:75 - Click on WFO Traillink
+2017-11-05 01:17:03 INFO  Loggers:78 - Click on approve trail link
+2017-11-05 01:29:13 INFO  Loggers:21 - ========================================================================================
+2017-11-05 01:29:13 INFO  Loggers:23 - =================== Starting TC_07_CreateTrailAndVerifyCount Test ==========================
+2017-11-05 01:29:13 INFO  Loggers:25 - ========================================================================================
+2017-11-05 01:29:15 INFO  Loggers:33 - Clicked on login link.
+2017-11-05 01:29:15 INFO  Loggers:37 - Login page lable is verified.
+2017-11-05 01:29:15 INFO  Loggers:39 - Enter valid credential and login.
+2017-11-05 01:29:17 INFO  Loggers:54 - Email entered.
+2017-11-05 01:29:18 INFO  Loggers:61 - Password entered.
+2017-11-05 01:29:23 INFO  Loggers:68 - Clicked on Login button.
+2017-11-05 01:30:03 INFO  Loggers:44 - Clicked on my profile link.
+2017-11-05 01:30:03 INFO  Loggers:48 - Getting current trail count 1 before create.
+2017-11-05 01:30:04 INFO  Loggers:52 - Clicked on my trail link.
+2017-11-05 01:30:25 INFO  Loggers:55 - Clicked on submit trail button.
+2017-11-05 01:30:26 INFO  Loggers:113 - Trail name entered.
+2017-11-05 01:30:28 INFO  Loggers:119 - Trail length entered.
+2017-11-05 01:30:29 INFO  Loggers:130 - category selected
+2017-11-05 01:30:29 INFO  Loggers:136 - End point 1 entered.
+2017-11-05 01:30:29 INFO  Loggers:142 - End point 2 entered.
+2017-11-05 01:30:31 INFO  Loggers:148 - website entered.
+2017-11-05 01:30:32 INFO  Loggers:156 - surfaces selected
+2017-11-05 01:30:32 INFO  Loggers:163 - activities selected
+2017-11-05 01:30:32 INFO  Loggers:170 - state selected
+2017-11-05 01:30:33 INFO  Loggers:176 - country selected
+2017-11-05 01:30:34 INFO  Loggers:182 - DESCRIPTION entered.
+2017-11-05 01:30:35 INFO  Loggers:188 - parking entered.
+2017-11-05 01:30:36 INFO  Loggers:195 - terms checkbox selected
+2017-11-05 01:30:36 INFO  Loggers:203 - Clicked on view trail button.
+2017-11-05 01:30:56 INFO  Loggers:211 - Clicked on submit trail button.
+2017-11-05 01:30:56 INFO  Loggers:218 - Trail Submitted !!
+2017-11-05 01:30:56 INFO  Loggers:61 - Fill all the valid details and submit trail.
+2017-11-05 01:30:56 INFO  Loggers:63 - Verifying that trail submitted successfully.
+2017-11-05 01:30:56 INFO  Loggers:218 - Trail Submitted !!
+2017-11-05 01:31:01 INFO  Loggers:68 - Navigating to WFO Admin
+2017-11-05 01:31:02 INFO  Loggers:74 - Email entered.
+2017-11-05 01:31:04 INFO  Loggers:80 - Password entered.
+2017-11-05 01:31:11 INFO  Loggers:87 - Clicked on Login button.
+2017-11-05 01:31:11 INFO  Loggers:71 - Succesfully logged in on WFO
+2017-11-05 01:31:13 INFO  Loggers:74 - Click on WFO Traillink
+2017-11-05 01:31:14 INFO  Loggers:77 - Click on approve trail link
+2017-11-05 01:31:21 INFO  Loggers:80 - Click on trail id.
+2017-11-05 01:31:21 INFO  Loggers:83 - Select open status
+2017-11-05 01:31:30 INFO  Loggers:86 - Click on save button
+2017-11-05 01:31:30 INFO  Loggers:89 - Click on previos tab
+2017-11-05 01:31:54 INFO  Loggers:93 - Clicked on my profile link.
+2017-11-05 01:31:54 INFO  Loggers:96 - Getting current review count: 1after upload
+2017-11-05 01:31:54 INFO  Loggers:31 - Count is not increased by one
+2017-11-05 01:31:54 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_07_CreateTrailAndVerifyCount Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 01:31:54 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 01:43:26 INFO  Loggers:21 - ========================================================================================
+2017-11-05 01:43:26 INFO  Loggers:23 - =================== Starting TC_01_Registration Test ==========================
+2017-11-05 01:43:26 INFO  Loggers:25 - ========================================================================================
+2017-11-05 01:43:27 INFO  Loggers:32 - Clicked on Register button.
+2017-11-05 01:43:27 INFO  Loggers:36 - Registration page lable is verified.
+2017-11-05 01:43:30 INFO  Loggers:72 - Email entered.
+2017-11-05 01:43:31 INFO  Loggers:79 - Password entered.
+2017-11-05 01:43:31 INFO  Loggers:85 - Clicked on terms and condition checkbox.
+2017-11-05 01:43:31 INFO  Loggers:91 - Clicked on Register button.
+2017-11-05 01:43:33 INFO  Loggers:111 - Firstname entered.
+2017-11-05 01:43:34 INFO  Loggers:117 - Lastname entered.
+2017-11-05 01:43:34 INFO  Loggers:123 - Zipcode entered.
+2017-11-05 01:44:01 INFO  Loggers:129 - Clicked on Finish button.
+2017-11-05 01:44:01 INFO  Loggers:39 - Entered all the User details.
+2017-11-05 01:44:01 INFO  Loggers:42 - Verified that User is registerd successfully.
+2017-11-05 01:44:01 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_01_Registration Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 01:44:01 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 01:44:44 INFO  Loggers:21 - ========================================================================================
+2017-11-05 01:44:44 INFO  Loggers:23 - =================== Starting TC_02_SearchTrail Test ==========================
+2017-11-05 01:44:44 INFO  Loggers:25 - ========================================================================================
+2017-11-05 01:44:45 INFO  Loggers:33 - Clicked on login link.
+2017-11-05 01:44:45 INFO  Loggers:37 - Login page lable is verified.
+2017-11-05 01:44:47 INFO  Loggers:54 - Email entered.
+2017-11-05 01:44:48 INFO  Loggers:61 - Password entered.
+2017-11-05 01:44:53 INFO  Loggers:68 - Clicked on Login button.
+2017-11-05 01:44:53 INFO  Loggers:40 - Logged in using valid credentials.
+2017-11-05 01:45:04 INFO  Loggers:43 - Verified the logout link on home page.
+2017-11-05 01:45:08 INFO  Loggers:42 - Password entered.
+2017-11-05 01:45:08 INFO  Loggers:47 - Entered the Keyword.
+2017-11-05 01:45:33 INFO  Loggers:50 - Clicked on search button
+2017-11-05 01:45:33 INFO  Loggers:54 - Verified the search results.
+2017-11-05 01:45:33 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_02_SearchTrail Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 01:45:33 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 01:46:14 INFO  Loggers:21 - ========================================================================================
+2017-11-05 01:46:14 INFO  Loggers:23 - =================== Starting TC_03_UpdateProfile Test ==========================
+2017-11-05 01:46:14 INFO  Loggers:25 - ========================================================================================
+2017-11-05 01:46:16 INFO  Loggers:35 - Clicked on login link.
+2017-11-05 01:46:16 INFO  Loggers:39 - Login page lable is verified.
+2017-11-05 01:46:18 INFO  Loggers:54 - Email entered.
+2017-11-05 01:46:18 INFO  Loggers:43 - Entered email.
+2017-11-05 01:46:19 INFO  Loggers:61 - Password entered.
+2017-11-05 01:46:19 INFO  Loggers:47 - Entered new password.
+2017-11-05 01:46:24 INFO  Loggers:68 - Clicked on Login button.
+2017-11-05 01:46:24 INFO  Loggers:50 - clicked on login button.
+2017-11-05 01:46:54 INFO  Loggers:54 - Clicked on my profile link.
+2017-11-05 01:46:54 INFO  Loggers:58 - Clicked on my account and settings link.
+2017-11-05 01:46:55 INFO  Loggers:62 - Entered firstName.
+2017-11-05 01:46:58 INFO  Loggers:96 - Clicked on save profile button.
+2017-11-05 01:46:58 INFO  Loggers:65 - Clicked on save profile button.
+2017-11-05 01:47:08 INFO  Loggers:70 - Verified that profile name is successfully updated.
+2017-11-05 01:47:08 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_03_UpdateProfile Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 01:47:08 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 01:47:48 INFO  Loggers:21 - ========================================================================================
+2017-11-05 01:47:48 INFO  Loggers:23 - =================== Starting TC_04_LoginNegativeCases Test ==========================
+2017-11-05 01:47:48 INFO  Loggers:25 - ========================================================================================
+2017-11-05 01:47:49 INFO  Loggers:32 - Clicked on login button.
+2017-11-05 01:47:49 INFO  Loggers:36 - Login page lable is verified.
+2017-11-05 01:47:55 INFO  Loggers:68 - Clicked on Login button.
+2017-11-05 01:47:56 INFO  Loggers:54 - Email entered.
+2017-11-05 01:47:57 INFO  Loggers:61 - Password entered.
+2017-11-05 01:48:02 INFO  Loggers:68 - Clicked on Login button.
+2017-11-05 01:48:04 INFO  Loggers:54 - Email entered.
+2017-11-05 01:48:05 INFO  Loggers:61 - Password entered.
+2017-11-05 01:48:10 INFO  Loggers:68 - Clicked on Login button.
+2017-11-05 01:48:10 INFO  Loggers:39 - Verified login functionality with negative scenarios.
+2017-11-05 01:48:10 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_04_LoginNegativeCases Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 01:48:10 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 01:48:48 INFO  Loggers:21 - ========================================================================================
+2017-11-05 01:48:48 INFO  Loggers:23 - =================== Starting TC_05_RegistrationNegativeCases Test ==========================
+2017-11-05 01:48:48 INFO  Loggers:25 - ========================================================================================
+2017-11-05 01:48:48 INFO  Loggers:32 - Clicked on Register button.
+2017-11-05 01:48:48 INFO  Loggers:36 - Registration page lable is verified.
+2017-11-05 01:48:49 INFO  Loggers:91 - Clicked on Register button.
+2017-11-05 01:48:52 INFO  Loggers:79 - Password entered.
+2017-11-05 01:48:52 INFO  Loggers:85 - Clicked on terms and condition checkbox.
+2017-11-05 01:48:52 INFO  Loggers:91 - Clicked on Register button.
+2017-11-05 01:48:55 INFO  Loggers:72 - Email entered.
+2017-11-05 01:48:55 INFO  Loggers:91 - Clicked on Register button.
+2017-11-05 01:48:55 INFO  Loggers:129 - Clicked on Finish button.
+2017-11-05 01:48:56 INFO  Loggers:39 - Regestration page validation verified.
+2017-11-05 01:48:56 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_05_RegistrationNegativeCases Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 01:48:56 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 01:49:42 INFO  Loggers:21 - ========================================================================================
+2017-11-05 01:49:42 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotosAndVerifyCount Test ==========================
+2017-11-05 01:49:42 INFO  Loggers:25 - ========================================================================================
+2017-11-05 01:49:44 INFO  Loggers:38 - Clicked on login link.
+2017-11-05 01:49:44 INFO  Loggers:42 - Login page lable is verified.
+2017-11-05 01:49:44 INFO  Loggers:44 - Enter valid credential and login.
+2017-11-05 01:49:46 INFO  Loggers:54 - Email entered.
+2017-11-05 01:49:47 INFO  Loggers:61 - Password entered.
+2017-11-05 01:49:52 INFO  Loggers:68 - Clicked on Login button.
+2017-11-05 01:50:19 INFO  Loggers:50 - Clicked on my profile link.
+2017-11-05 01:50:19 INFO  Loggers:54 - Getting current photo count 7 before upload.
+2017-11-05 01:50:20 INFO  Loggers:58 - Clicked on my photos link.
+2017-11-05 01:50:20 INFO  Loggers:61 - Clicked on search trail button
+2017-11-05 01:50:24 INFO  Loggers:41 - keyword entered.
+2017-11-05 01:50:24 INFO  Loggers:66 - Enter keyword.
+2017-11-05 01:50:37 INFO  Loggers:69 - Clicked on search button
+2017-11-05 01:50:37 INFO  Loggers:72 - Verified the search results.
+2017-11-05 01:50:58 INFO  Loggers:75 - click the search result.
+2017-11-05 01:51:15 INFO  Loggers:79 - Clicked upload photos button.
+2017-11-05 01:51:15 INFO  Loggers:83 - Verified submit photos label.
+2017-11-05 01:51:15 INFO  Loggers:85 - Uploading the trail photo...
+2017-11-05 01:51:15 INFO  Loggers:89 - Entering photo title...
+2017-11-05 01:51:16 INFO  Loggers:93 - Entering photo caption...
+2017-11-05 01:51:34 INFO  Loggers:98 - 11 : Clicked on submit photos
+2017-11-05 01:51:38 INFO  Loggers:102 - Navigating to WFO Admin
+2017-11-05 01:51:39 INFO  Loggers:74 - Email entered.
+2017-11-05 01:51:40 INFO  Loggers:80 - Password entered.
+2017-11-05 01:51:47 INFO  Loggers:87 - Clicked on Login button.
+2017-11-05 01:51:47 INFO  Loggers:105 - Succesfully logged in on WFO
+2017-11-05 01:51:48 INFO  Loggers:108 - Click on WFO Traillink
+2017-11-05 01:51:51 INFO  Loggers:111 - Click on approve photo link
+2017-11-05 01:51:52 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_06_UploadPhotosAndVerifyCount Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 01:51:52 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 01:52:30 INFO  Loggers:21 - ========================================================================================
+2017-11-05 01:52:30 INFO  Loggers:23 - =================== Starting TC_07_CreateTrailAndVerifyCount Test ==========================
+2017-11-05 01:52:30 INFO  Loggers:25 - ========================================================================================
+2017-11-05 01:52:31 INFO  Loggers:33 - Clicked on login link.
+2017-11-05 01:52:31 INFO  Loggers:37 - Login page lable is verified.
+2017-11-05 01:52:31 INFO  Loggers:39 - Enter valid credential and login.
+2017-11-05 01:52:33 INFO  Loggers:54 - Email entered.
+2017-11-05 01:52:34 INFO  Loggers:61 - Password entered.
+2017-11-05 01:52:39 INFO  Loggers:68 - Clicked on Login button.
+2017-11-05 01:53:12 INFO  Loggers:44 - Clicked on my profile link.
+2017-11-05 01:53:12 INFO  Loggers:48 - Getting current trail count 1 before create.
+2017-11-05 01:53:14 INFO  Loggers:52 - Clicked on my trail link.
+2017-11-05 01:53:27 INFO  Loggers:55 - Clicked on submit trail button.
+2017-11-05 01:53:27 INFO  Loggers:113 - Trail name entered.
+2017-11-05 01:53:29 INFO  Loggers:119 - Trail length entered.
+2017-11-05 01:53:29 INFO  Loggers:130 - category selected
+2017-11-05 01:53:29 INFO  Loggers:136 - End point 1 entered.
+2017-11-05 01:53:30 INFO  Loggers:142 - End point 2 entered.
+2017-11-05 01:53:31 INFO  Loggers:148 - website entered.
+2017-11-05 01:53:32 INFO  Loggers:156 - surfaces selected
+2017-11-05 01:53:32 INFO  Loggers:163 - activities selected
+2017-11-05 01:53:32 INFO  Loggers:170 - state selected
+2017-11-05 01:53:33 INFO  Loggers:176 - country selected
+2017-11-05 01:53:34 INFO  Loggers:182 - DESCRIPTION entered.
+2017-11-05 01:53:35 INFO  Loggers:188 - parking entered.
+2017-11-05 01:53:36 INFO  Loggers:195 - terms checkbox selected
+2017-11-05 01:53:36 INFO  Loggers:203 - Clicked on view trail button.
+2017-11-05 01:53:52 INFO  Loggers:211 - Clicked on submit trail button.
+2017-11-05 01:53:52 INFO  Loggers:218 - Trail Submitted !!
+2017-11-05 01:53:52 INFO  Loggers:61 - Fill all the valid details and submit trail.
+2017-11-05 01:53:52 INFO  Loggers:63 - Verifying that trail submitted successfully.
+2017-11-05 01:53:52 INFO  Loggers:218 - Trail Submitted !!
+2017-11-05 01:53:57 INFO  Loggers:68 - Navigating to WFO Admin
+2017-11-05 01:53:58 INFO  Loggers:74 - Email entered.
+2017-11-05 01:53:59 INFO  Loggers:80 - Password entered.
+2017-11-05 01:54:06 INFO  Loggers:87 - Clicked on Login button.
+2017-11-05 01:54:06 INFO  Loggers:71 - Succesfully logged in on WFO
+2017-11-05 01:54:07 INFO  Loggers:74 - Click on WFO Traillink
+2017-11-05 01:54:08 INFO  Loggers:77 - Click on approve trail link
+2017-11-05 01:54:17 INFO  Loggers:80 - Click on trail id.
+2017-11-05 01:54:17 INFO  Loggers:83 - Select open status
+2017-11-05 01:54:25 INFO  Loggers:86 - Click on save button
+2017-11-05 01:54:25 INFO  Loggers:89 - Click on previos tab
+2017-11-05 01:54:44 INFO  Loggers:93 - Clicked on my profile link.
+2017-11-05 01:54:44 INFO  Loggers:96 - Getting current review count: 1after upload
+2017-11-05 01:54:44 INFO  Loggers:31 - Count is not increased by one
+2017-11-05 01:54:44 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_07_CreateTrailAndVerifyCount Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 01:54:44 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 01:55:35 INFO  Loggers:21 - ========================================================================================
+2017-11-05 01:55:35 INFO  Loggers:23 - =================== Starting TC_08_GiveReviewsOnTrailsAndVerifyCount Test ==========================
+2017-11-05 01:55:35 INFO  Loggers:25 - ========================================================================================
+2017-11-05 01:55:36 INFO  Loggers:36 - Clicked on login link.
+2017-11-05 01:55:36 INFO  Loggers:40 - Login page lable is verified.
+2017-11-05 01:55:36 INFO  Loggers:42 - Enter valid credential and login.
+2017-11-05 01:55:38 INFO  Loggers:54 - Email entered.
+2017-11-05 01:55:39 INFO  Loggers:61 - Password entered.
+2017-11-05 01:55:44 INFO  Loggers:68 - Clicked on Login button.
+2017-11-05 01:56:27 INFO  Loggers:47 - Clicked on my profile link.
+2017-11-05 01:56:27 INFO  Loggers:51 - Getting current reviews count 5 before upload.
+2017-11-05 01:56:28 INFO  Loggers:55 - Clicked on my reviews link.
+2017-11-05 01:56:28 INFO  Loggers:58 - Clicked on search trail button
+2017-11-05 01:56:31 INFO  Loggers:41 - keyword entered.
+2017-11-05 01:56:31 INFO  Loggers:63 - Enter keyword.
+2017-11-05 01:56:54 INFO  Loggers:66 - Clicked on search button
+2017-11-05 01:56:54 INFO  Loggers:69 - Verified the search results.
+2017-11-05 01:57:19 INFO  Loggers:72 - click the search result.
+2017-11-05 01:57:38 INFO  Loggers:76 - Clicked submit review button.
+2017-11-05 01:57:38 INFO  Loggers:80 - Verified submit reviews label.
+2017-11-05 01:57:38 INFO  Loggers:82 - Entering review ratings...
+2017-11-05 01:57:38 INFO  Loggers:85 - Entering review title...
+2017-11-05 01:57:38 INFO  Loggers:89 - Entering review description..
+2017-11-05 01:57:39 INFO  Loggers:94 - Clicked on preview button
+2017-11-05 01:57:58 INFO  Loggers:97 - Clicked on submit button
+2017-11-05 01:58:03 INFO  Loggers:101 - Navigating to WFO Admin
+2017-11-05 01:58:03 INFO  Loggers:74 - Email entered.
+2017-11-05 01:58:05 INFO  Loggers:80 - Password entered.
+2017-11-05 01:58:12 INFO  Loggers:87 - Clicked on Login button.
+2017-11-05 01:58:12 INFO  Loggers:104 - Succesfully logged in on WFO
+2017-11-05 01:58:13 INFO  Loggers:107 - Click on WFO Traillink
+2017-11-05 01:58:14 INFO  Loggers:110 - Click on approve review link
+2017-11-05 01:58:14 INFO  Loggers:113 - Selected approve option from the status dropdown.
+2017-11-05 01:58:16 INFO  Loggers:116 - Click on update button
+2017-11-05 01:58:16 INFO  Loggers:119 - Click on previos tab
+2017-11-05 01:58:39 INFO  Loggers:123 - Clicked on my profile link.
+2017-11-05 01:58:39 INFO  Loggers:126 - Getting current review count: 6after upload
+2017-11-05 01:58:39 INFO  Loggers:28 - Count is increased by one
+2017-11-05 01:58:39 INFO  Loggers:129 - Verified that review given successfully and review count increases on profile page.
+2017-11-05 01:58:40 INFO  Loggers:132 - Clicked review count.
+2017-11-05 01:58:40 INFO  Loggers:135 - Getting current review text after approve from admin
+2017-11-05 01:58:40 INFO  Loggers:113 - Expected text is: ak47r
+2017-11-05 01:58:40 INFO  Loggers:114 - Actual text is: ak47r
+2017-11-05 01:58:40 INFO  Loggers:117 - Expected text is matched with actual text
+2017-11-05 01:58:40 INFO  Loggers:138 - Review text is verified on my review page.
+2017-11-05 01:58:40 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_08_GiveReviewsOnTrailsAndVerifyCount Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 01:58:40 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 02:13:29 INFO  Loggers:21 - ========================================================================================
+2017-11-05 02:13:29 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotosAndVerifyCount Test ==========================
+2017-11-05 02:13:29 INFO  Loggers:25 - ========================================================================================
+2017-11-05 02:13:31 INFO  Loggers:38 - Clicked on login link.
+2017-11-05 02:13:31 INFO  Loggers:42 - Login page lable is verified.
+2017-11-05 02:13:31 INFO  Loggers:44 - Enter valid credential and login.
+2017-11-05 02:13:33 INFO  Loggers:54 - Email entered.
+2017-11-05 02:13:34 INFO  Loggers:61 - Password entered.
+2017-11-05 02:13:39 INFO  Loggers:68 - Clicked on Login button.
+2017-11-05 02:14:16 INFO  Loggers:50 - Clicked on my profile link.
+2017-11-05 02:14:16 INFO  Loggers:54 - Getting current photo count 8 before upload.
+2017-11-05 02:14:17 INFO  Loggers:58 - Clicked on my photos link.
+2017-11-05 02:14:17 INFO  Loggers:61 - Clicked on search trail button
+2017-11-05 02:14:23 INFO  Loggers:41 - keyword entered.
+2017-11-05 02:14:23 INFO  Loggers:66 - Enter keyword.
+2017-11-05 02:14:39 INFO  Loggers:69 - Clicked on search button
+2017-11-05 02:14:39 INFO  Loggers:72 - Verified the search results.
+2017-11-05 02:15:02 INFO  Loggers:75 - click the search result.
+2017-11-05 02:15:28 INFO  Loggers:79 - Clicked upload photos button.
+2017-11-05 02:15:28 INFO  Loggers:83 - Verified submit photos label.
+2017-11-05 02:15:28 INFO  Loggers:85 - Uploading the trail photo...
+2017-11-05 02:15:28 INFO  Loggers:89 - Entering photo title...
+2017-11-05 02:15:29 INFO  Loggers:93 - Entering photo caption...
+2017-11-05 02:15:50 INFO  Loggers:98 - Clicked on submit photos
+2017-11-05 02:15:50 INFO  Loggers:101 - Photo uploaded successfully with zp7kx caption
+2017-11-05 02:15:56 INFO  Loggers:105 - Navigating to WFO Admin
+2017-11-05 02:15:57 INFO  Loggers:74 - Email entered.
+2017-11-05 02:15:58 INFO  Loggers:80 - Password entered.
+2017-11-05 02:16:05 INFO  Loggers:87 - Clicked on Login button.
+2017-11-05 02:16:05 INFO  Loggers:108 - Succesfully logged in on WFO
+2017-11-05 02:16:06 INFO  Loggers:111 - Click on WFO Traillink
+2017-11-05 02:16:10 INFO  Loggers:114 - Click on approve photo link
+2017-11-05 02:16:10 INFO  Loggers:117 - Selected approve option from the status dropdown.
+2017-11-05 02:16:13 INFO  Loggers:120 - Click on update button
+2017-11-05 02:16:13 INFO  Loggers:123 - Click on previos tab
+2017-11-05 02:16:34 INFO  Loggers:127 - Clicked on my profile link.
+2017-11-05 02:16:34 INFO  Loggers:130 - Getting current photos count 9 after upload
+2017-11-05 02:16:34 INFO  Loggers:28 - Count is increased by one
+2017-11-05 02:16:34 INFO  Loggers:133 - Verified that photo uploaded successfully and photos count increases on profile page.
+2017-11-05 02:16:34 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_06_UploadPhotosAndVerifyCount Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 02:16:34 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 02:18:05 INFO  Loggers:21 - ========================================================================================
+2017-11-05 02:18:05 INFO  Loggers:23 - =================== Starting TC_01_Registration Test ==========================
+2017-11-05 02:18:05 INFO  Loggers:25 - ========================================================================================
+2017-11-05 02:18:06 INFO  Loggers:32 - Clicked on Register button.
+2017-11-05 02:18:06 INFO  Loggers:36 - Registration page lable is verified.
+2017-11-05 02:18:08 INFO  Loggers:72 - Email entered.
+2017-11-05 02:18:09 INFO  Loggers:79 - Password entered.
+2017-11-05 02:18:10 INFO  Loggers:85 - Clicked on terms and condition checkbox.
+2017-11-05 02:18:10 INFO  Loggers:91 - Clicked on Register button.
+2017-11-05 02:18:11 INFO  Loggers:111 - Firstname entered.
+2017-11-05 02:18:12 INFO  Loggers:117 - Lastname entered.
+2017-11-05 02:18:13 INFO  Loggers:123 - Zipcode entered.
+2017-11-05 02:18:36 INFO  Loggers:129 - Clicked on Finish button.
+2017-11-05 02:18:36 INFO  Loggers:39 - Entered all the User details.
+2017-11-05 02:18:36 INFO  Loggers:42 - Verified that User is registerd successfully.
+2017-11-05 02:18:36 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_01_Registration Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 02:18:36 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 02:19:17 INFO  Loggers:21 - ========================================================================================
+2017-11-05 02:19:17 INFO  Loggers:23 - =================== Starting TC_02_SearchTrail Test ==========================
+2017-11-05 02:19:17 INFO  Loggers:25 - ========================================================================================
+2017-11-05 02:19:18 INFO  Loggers:33 - Clicked on login link.
+2017-11-05 02:19:18 INFO  Loggers:37 - Login page lable is verified.
+2017-11-05 02:19:21 INFO  Loggers:54 - Email entered.
+2017-11-05 02:19:22 INFO  Loggers:61 - Password entered.
+2017-11-05 02:19:27 INFO  Loggers:68 - Clicked on Login button.
+2017-11-05 02:19:27 INFO  Loggers:40 - Logged in using valid credentials.
+2017-11-05 02:19:39 INFO  Loggers:43 - Verified the logout link on home page.
+2017-11-05 02:19:43 INFO  Loggers:42 - Password entered.
+2017-11-05 02:19:43 INFO  Loggers:47 - Entered the Keyword.
+2017-11-05 02:20:01 INFO  Loggers:50 - Clicked on search button
+2017-11-05 02:20:01 INFO  Loggers:54 - Verified the search results.
+2017-11-05 02:20:01 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_02_SearchTrail Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 02:20:01 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 02:20:43 INFO  Loggers:21 - ========================================================================================
+2017-11-05 02:20:43 INFO  Loggers:23 - =================== Starting TC_03_UpdateProfile Test ==========================
+2017-11-05 02:20:43 INFO  Loggers:25 - ========================================================================================
+2017-11-05 02:20:44 INFO  Loggers:35 - Clicked on login link.
+2017-11-05 02:20:44 INFO  Loggers:39 - Login page lable is verified.
+2017-11-05 02:20:48 INFO  Loggers:54 - Email entered.
+2017-11-05 02:20:48 INFO  Loggers:43 - Entered email.
+2017-11-05 02:20:49 INFO  Loggers:61 - Password entered.
+2017-11-05 02:20:49 INFO  Loggers:47 - Entered new password.
+2017-11-05 02:20:54 INFO  Loggers:68 - Clicked on Login button.
+2017-11-05 02:20:54 INFO  Loggers:50 - clicked on login button.
+2017-11-05 02:21:24 INFO  Loggers:54 - Clicked on my profile link.
+2017-11-05 02:21:24 INFO  Loggers:58 - Clicked on my account and settings link.
+2017-11-05 02:21:25 INFO  Loggers:62 - Entered firstName.
+2017-11-05 02:21:28 INFO  Loggers:96 - Clicked on save profile button.
+2017-11-05 02:21:28 INFO  Loggers:65 - Clicked on save profile button.
+2017-11-05 02:21:38 INFO  Loggers:70 - Verified that profile name is successfully updated.
+2017-11-05 02:21:38 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_03_UpdateProfile Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 02:21:38 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 02:22:19 INFO  Loggers:21 - ========================================================================================
+2017-11-05 02:22:19 INFO  Loggers:23 - =================== Starting TC_04_LoginNegativeCases Test ==========================
+2017-11-05 02:22:19 INFO  Loggers:25 - ========================================================================================
+2017-11-05 02:22:20 INFO  Loggers:32 - Clicked on login button.
+2017-11-05 02:22:20 INFO  Loggers:36 - Login page lable is verified.
+2017-11-05 02:22:26 INFO  Loggers:68 - Clicked on Login button.
+2017-11-05 02:22:27 INFO  Loggers:54 - Email entered.
+2017-11-05 02:22:28 INFO  Loggers:61 - Password entered.
+2017-11-05 02:22:34 INFO  Loggers:68 - Clicked on Login button.
+2017-11-05 02:22:36 INFO  Loggers:54 - Email entered.
+2017-11-05 02:22:37 INFO  Loggers:61 - Password entered.
+2017-11-05 02:22:42 INFO  Loggers:68 - Clicked on Login button.
+2017-11-05 02:22:42 INFO  Loggers:39 - Verified login functionality with negative scenarios.
+2017-11-05 02:22:42 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_04_LoginNegativeCases Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 02:22:42 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 02:23:27 INFO  Loggers:21 - ========================================================================================
+2017-11-05 02:23:27 INFO  Loggers:23 - =================== Starting TC_05_RegistrationNegativeCases Test ==========================
+2017-11-05 02:23:27 INFO  Loggers:25 - ========================================================================================
+2017-11-05 02:23:28 INFO  Loggers:32 - Clicked on Register button.
+2017-11-05 02:23:28 INFO  Loggers:36 - Registration page lable is verified.
+2017-11-05 02:23:28 INFO  Loggers:91 - Clicked on Register button.
+2017-11-05 02:23:32 INFO  Loggers:79 - Password entered.
+2017-11-05 02:23:32 INFO  Loggers:85 - Clicked on terms and condition checkbox.
+2017-11-05 02:23:32 INFO  Loggers:91 - Clicked on Register button.
+2017-11-05 02:23:35 INFO  Loggers:72 - Email entered.
+2017-11-05 02:23:35 INFO  Loggers:91 - Clicked on Register button.
+2017-11-05 02:23:36 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_05_RegistrationNegativeCases Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 02:23:36 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 02:24:15 INFO  Loggers:21 - ========================================================================================
+2017-11-05 02:24:15 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotosAndVerifyCount Test ==========================
+2017-11-05 02:24:15 INFO  Loggers:25 - ========================================================================================
+2017-11-05 02:24:17 INFO  Loggers:38 - Clicked on login link.
+2017-11-05 02:24:17 INFO  Loggers:42 - Login page lable is verified.
+2017-11-05 02:24:17 INFO  Loggers:44 - Enter valid credential and login.
+2017-11-05 02:24:19 INFO  Loggers:54 - Email entered.
+2017-11-05 02:24:20 INFO  Loggers:61 - Password entered.
+2017-11-05 02:24:25 INFO  Loggers:68 - Clicked on Login button.
+2017-11-05 02:24:55 INFO  Loggers:50 - Clicked on my profile link.
+2017-11-05 02:24:55 INFO  Loggers:54 - Getting current photo count 9 before upload.
+2017-11-05 02:24:56 INFO  Loggers:58 - Clicked on my photos link.
+2017-11-05 02:24:56 INFO  Loggers:61 - Clicked on search trail button
+2017-11-05 02:25:00 INFO  Loggers:41 - keyword entered.
+2017-11-05 02:25:00 INFO  Loggers:66 - Enter keyword.
+2017-11-05 02:25:18 INFO  Loggers:69 - Clicked on search button
+2017-11-05 02:25:18 INFO  Loggers:72 - Verified the search results.
+2017-11-05 02:25:41 INFO  Loggers:75 - click the search result.
+2017-11-05 02:29:43 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_06_UploadPhotosAndVerifyCount Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 02:29:43 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 02:30:29 INFO  Loggers:21 - ========================================================================================
+2017-11-05 02:30:29 INFO  Loggers:23 - =================== Starting TC_07_CreateTrailAndVerifyCount Test ==========================
+2017-11-05 02:30:29 INFO  Loggers:25 - ========================================================================================
+2017-11-05 02:30:30 INFO  Loggers:33 - Clicked on login link.
+2017-11-05 02:30:30 INFO  Loggers:37 - Login page lable is verified.
+2017-11-05 02:30:30 INFO  Loggers:39 - Enter valid credential and login.
+2017-11-05 02:30:33 INFO  Loggers:54 - Email entered.
+2017-11-05 02:30:33 INFO  Loggers:61 - Password entered.
+2017-11-05 02:30:39 INFO  Loggers:68 - Clicked on Login button.
+2017-11-05 02:31:09 INFO  Loggers:44 - Clicked on my profile link.
+2017-11-05 02:31:09 INFO  Loggers:48 - Getting current trail count 1 before create.
+2017-11-05 02:31:10 INFO  Loggers:52 - Clicked on my trail link.
+2017-11-05 02:31:29 INFO  Loggers:55 - Clicked on submit trail button.
+2017-11-05 02:31:30 INFO  Loggers:113 - Trail name entered.
+2017-11-05 02:31:31 INFO  Loggers:119 - Trail length entered.
+2017-11-05 02:31:32 INFO  Loggers:130 - category selected
+2017-11-05 02:31:32 INFO  Loggers:136 - End point 1 entered.
+2017-11-05 02:31:33 INFO  Loggers:142 - End point 2 entered.
+2017-11-05 02:31:35 INFO  Loggers:148 - website entered.
+2017-11-05 02:31:36 INFO  Loggers:156 - surfaces selected
+2017-11-05 02:31:36 INFO  Loggers:163 - activities selected
+2017-11-05 02:31:36 INFO  Loggers:170 - state selected
+2017-11-05 02:31:37 INFO  Loggers:176 - country selected
+2017-11-05 02:31:38 INFO  Loggers:182 - DESCRIPTION entered.
+2017-11-05 02:31:39 INFO  Loggers:188 - parking entered.
+2017-11-05 02:31:40 INFO  Loggers:195 - terms checkbox selected
+2017-11-05 02:31:41 INFO  Loggers:203 - Clicked on view trail button.
+2017-11-05 02:31:55 INFO  Loggers:211 - Clicked on submit trail button.
+2017-11-05 02:31:56 INFO  Loggers:218 - Trail Submitted !!
+2017-11-05 02:31:56 INFO  Loggers:61 - Fill all the valid details and submit trail.
+2017-11-05 02:31:56 INFO  Loggers:63 - Verifying that trail submitted successfully.
+2017-11-05 02:31:56 INFO  Loggers:218 - Trail Submitted !!
+2017-11-05 02:32:00 INFO  Loggers:68 - Navigating to WFO Admin
+2017-11-05 02:32:01 INFO  Loggers:74 - Email entered.
+2017-11-05 02:32:02 INFO  Loggers:80 - Password entered.
+2017-11-05 02:32:10 INFO  Loggers:87 - Clicked on Login button.
+2017-11-05 02:32:10 INFO  Loggers:71 - Succesfully logged in on WFO
+2017-11-05 02:32:16 INFO  Loggers:74 - Click on WFO Traillink
+2017-11-05 02:32:22 INFO  Loggers:77 - Click on approve trail link
+2017-11-05 02:32:34 INFO  Loggers:80 - Click on trail id.
+2017-11-05 02:32:39 INFO  Loggers:83 - Select open status
+2017-11-05 02:32:45 INFO  Loggers:86 - Click on save button
+2017-11-05 02:32:45 INFO  Loggers:89 - Click on previos tab
+2017-11-05 02:33:14 INFO  Loggers:93 - Clicked on my profile link.
+2017-11-05 02:33:14 INFO  Loggers:96 - Getting current review count: 1after upload
+2017-11-05 02:33:14 INFO  Loggers:31 - Count is not increased by one
+2017-11-05 02:33:14 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_07_CreateTrailAndVerifyCount Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 02:33:14 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 02:34:00 INFO  Loggers:21 - ========================================================================================
+2017-11-05 02:34:00 INFO  Loggers:23 - =================== Starting TC_08_GiveReviewsOnTrailsAndVerifyCount Test ==========================
+2017-11-05 02:34:00 INFO  Loggers:25 - ========================================================================================
+2017-11-05 02:34:01 INFO  Loggers:36 - Clicked on login link.
+2017-11-05 02:34:01 INFO  Loggers:40 - Login page lable is verified.
+2017-11-05 02:34:01 INFO  Loggers:42 - Enter valid credential and login.
+2017-11-05 02:34:04 INFO  Loggers:54 - Email entered.
+2017-11-05 02:34:05 INFO  Loggers:61 - Password entered.
+2017-11-05 02:34:10 INFO  Loggers:68 - Clicked on Login button.
+2017-11-05 02:34:49 INFO  Loggers:47 - Clicked on my profile link.
+2017-11-05 02:34:49 INFO  Loggers:51 - Getting current reviews count 6 before upload.
+2017-11-05 02:34:50 INFO  Loggers:55 - Clicked on my reviews link.
+2017-11-05 02:34:50 INFO  Loggers:58 - Clicked on search trail button
+2017-11-05 02:34:54 INFO  Loggers:41 - keyword entered.
+2017-11-05 02:34:54 INFO  Loggers:63 - Enter keyword.
+2017-11-05 02:35:13 INFO  Loggers:66 - Clicked on search button
+2017-11-05 02:35:13 INFO  Loggers:69 - Verified the search results.
+2017-11-05 02:35:34 INFO  Loggers:72 - click the search result.
+2017-11-05 02:35:53 INFO  Loggers:76 - Clicked submit review button.
+2017-11-05 02:35:54 INFO  Loggers:80 - Verified submit reviews label.
+2017-11-05 02:35:54 INFO  Loggers:82 - Entering review ratings...
+2017-11-05 02:35:54 INFO  Loggers:85 - Entering review title...
+2017-11-05 02:35:54 INFO  Loggers:89 - Entering review description..
+2017-11-05 02:35:55 INFO  Loggers:94 - Clicked on preview button
+2017-11-05 02:36:07 INFO  Loggers:97 - Clicked on submit button
+2017-11-05 02:36:13 INFO  Loggers:101 - Navigating to WFO Admin
+2017-11-05 02:36:14 INFO  Loggers:74 - Email entered.
+2017-11-05 02:36:15 INFO  Loggers:80 - Password entered.
+2017-11-05 02:36:22 INFO  Loggers:87 - Clicked on Login button.
+2017-11-05 02:36:22 INFO  Loggers:104 - Succesfully logged in on WFO
+2017-11-05 02:36:22 INFO  Loggers:107 - Click on WFO Traillink
+2017-11-05 02:36:24 INFO  Loggers:110 - Click on approve review link
+2017-11-05 02:36:24 INFO  Loggers:113 - Selected approve option from the status dropdown.
+2017-11-05 02:36:26 INFO  Loggers:116 - Click on update button
+2017-11-05 02:36:26 INFO  Loggers:119 - Click on previos tab
+2017-11-05 02:36:50 INFO  Loggers:123 - Clicked on my profile link.
+2017-11-05 02:36:50 INFO  Loggers:126 - Getting current review count: 7after upload
+2017-11-05 02:36:50 INFO  Loggers:28 - Count is increased by one
+2017-11-05 02:36:50 INFO  Loggers:129 - Verified that review given successfully and review count increases on profile page.
+2017-11-05 02:36:50 INFO  Loggers:132 - Clicked review count.
+2017-11-05 02:36:50 INFO  Loggers:135 - Getting current review text after approve from admin
+2017-11-05 02:36:50 INFO  Loggers:113 - Expected text is: 58n0l
+2017-11-05 02:36:50 INFO  Loggers:114 - Actual text is: 58n0l
+2017-11-05 02:36:50 INFO  Loggers:117 - Expected text is matched with actual text
+2017-11-05 02:36:50 INFO  Loggers:138 - Review text is verified on my review page.
+2017-11-05 02:36:50 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_08_GiveReviewsOnTrailsAndVerifyCount Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 02:36:50 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 02:48:47 INFO  Loggers:21 - ========================================================================================
+2017-11-05 02:48:47 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotosAndVerifyCount Test ==========================
+2017-11-05 02:48:47 INFO  Loggers:25 - ========================================================================================
+2017-11-05 02:48:49 INFO  Loggers:38 - Clicked on login link.
+2017-11-05 02:48:49 INFO  Loggers:42 - Login page lable is verified.
+2017-11-05 02:48:49 INFO  Loggers:44 - Enter valid credential and login.
+2017-11-05 02:48:52 INFO  Loggers:54 - Email entered.
+2017-11-05 02:48:52 INFO  Loggers:61 - Password entered.
+2017-11-05 02:48:58 INFO  Loggers:68 - Clicked on Login button.
+2017-11-05 02:49:28 INFO  Loggers:50 - Clicked on my profile link.
+2017-11-05 02:49:28 INFO  Loggers:54 - Getting current photo count 9 before upload.
+2017-11-05 02:49:29 INFO  Loggers:58 - Clicked on my photos link.
+2017-11-05 02:49:29 INFO  Loggers:61 - Clicked on search trail button
+2017-11-05 02:49:35 INFO  Loggers:41 - keyword entered.
+2017-11-05 02:49:35 INFO  Loggers:66 - Enter keyword.
+2017-11-05 02:49:49 INFO  Loggers:69 - Clicked on search button
+2017-11-05 02:49:50 INFO  Loggers:72 - Verified the search results.
+2017-11-05 02:50:12 INFO  Loggers:75 - click the search result.
+2017-11-05 02:50:26 INFO  Loggers:79 - Clicked upload photos button.
+2017-11-05 02:50:26 INFO  Loggers:83 - Verified submit photos label.
+2017-11-05 02:50:26 INFO  Loggers:85 - Uploading the trail photo...
+2017-11-05 02:50:27 INFO  Loggers:89 - Entering photo title...
+2017-11-05 02:50:28 INFO  Loggers:93 - Entering photo caption...
+2017-11-05 02:50:49 INFO  Loggers:98 - Clicked on submit photos
+2017-11-05 02:50:49 INFO  Loggers:101 - Photo uploaded successfully with g1lef caption
+2017-11-05 02:50:55 INFO  Loggers:105 - Navigating to WFO Admin
+2017-11-05 02:50:56 INFO  Loggers:74 - Email entered.
+2017-11-05 02:50:57 INFO  Loggers:80 - Password entered.
+2017-11-05 02:51:09 INFO  Loggers:87 - Clicked on Login button.
+2017-11-05 02:51:09 INFO  Loggers:108 - Succesfully logged in on WFO
+2017-11-05 02:51:16 INFO  Loggers:111 - Click on WFO Traillink
+2017-11-05 02:51:23 INFO  Loggers:114 - Click on approve photo link
+2017-11-05 02:51:29 INFO  Loggers:117 - Selected approve option from the status dropdown.
+2017-11-05 02:51:36 INFO  Loggers:120 - Click on update button
+2017-11-05 02:51:36 INFO  Loggers:123 - Click on previos tab
+2017-11-05 02:51:58 INFO  Loggers:127 - Clicked on my profile link.
+2017-11-05 02:51:59 INFO  Loggers:130 - Getting current photos count 10 after upload
+2017-11-05 02:51:59 INFO  Loggers:28 - Count is increased by one
+2017-11-05 02:51:59 INFO  Loggers:133 - Verified that photo uploaded successfully and photos count increases on profile page.
+2017-11-05 02:51:59 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_06_UploadPhotosAndVerifyCount Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 02:51:59 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 02:55:02 INFO  Loggers:21 - ========================================================================================
+2017-11-05 02:55:02 INFO  Loggers:23 - =================== Starting TC_01_Registration Test ==========================
+2017-11-05 02:55:02 INFO  Loggers:25 - ========================================================================================
+2017-11-05 02:55:02 INFO  Loggers:32 - Clicked on Register button.
+2017-11-05 02:55:03 INFO  Loggers:36 - Registration page lable is verified.
+2017-11-05 02:55:05 INFO  Loggers:72 - Email entered.
+2017-11-05 02:55:06 INFO  Loggers:79 - Password entered.
+2017-11-05 02:55:07 INFO  Loggers:85 - Clicked on terms and condition checkbox.
+2017-11-05 02:55:07 INFO  Loggers:91 - Clicked on Register button.
+2017-11-05 02:55:08 INFO  Loggers:111 - Firstname entered.
+2017-11-05 02:55:09 INFO  Loggers:117 - Lastname entered.
+2017-11-05 02:55:10 INFO  Loggers:123 - Zipcode entered.
+2017-11-05 02:55:38 INFO  Loggers:129 - Clicked on Finish button.
+2017-11-05 02:55:38 INFO  Loggers:39 - Entered all the User details.
+2017-11-05 02:55:38 INFO  Loggers:42 - Verified that User is registerd successfully.
+2017-11-05 02:55:38 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_01_Registration Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 02:55:38 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 02:56:17 INFO  Loggers:21 - ========================================================================================
+2017-11-05 02:56:17 INFO  Loggers:23 - =================== Starting TC_02_SearchTrail Test ==========================
+2017-11-05 02:56:17 INFO  Loggers:25 - ========================================================================================
+2017-11-05 02:56:18 INFO  Loggers:33 - Clicked on login link.
+2017-11-05 02:56:18 INFO  Loggers:37 - Login page lable is verified.
+2017-11-05 02:56:21 INFO  Loggers:54 - Email entered.
+2017-11-05 02:56:22 INFO  Loggers:61 - Password entered.
+2017-11-05 02:56:27 INFO  Loggers:68 - Clicked on Login button.
+2017-11-05 02:56:27 INFO  Loggers:40 - Logged in using valid credentials.
+2017-11-05 02:56:36 INFO  Loggers:43 - Verified the logout link on home page.
+2017-11-05 02:56:39 INFO  Loggers:42 - Password entered.
+2017-11-05 02:56:39 INFO  Loggers:47 - Entered the Keyword.
+2017-11-05 02:57:01 INFO  Loggers:50 - Clicked on search button
+2017-11-05 02:57:01 INFO  Loggers:54 - Verified the search results.
+2017-11-05 02:57:01 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_02_SearchTrail Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 02:57:01 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 02:57:47 INFO  Loggers:21 - ========================================================================================
+2017-11-05 02:57:47 INFO  Loggers:23 - =================== Starting TC_03_UpdateProfile Test ==========================
+2017-11-05 02:57:47 INFO  Loggers:25 - ========================================================================================
+2017-11-05 02:57:48 INFO  Loggers:35 - Clicked on login link.
+2017-11-05 02:57:48 INFO  Loggers:39 - Login page lable is verified.
+2017-11-05 02:57:51 INFO  Loggers:54 - Email entered.
+2017-11-05 02:57:51 INFO  Loggers:43 - Entered email.
+2017-11-05 02:57:52 INFO  Loggers:61 - Password entered.
+2017-11-05 02:57:52 INFO  Loggers:47 - Entered new password.
+2017-11-05 02:57:57 INFO  Loggers:68 - Clicked on Login button.
+2017-11-05 02:57:57 INFO  Loggers:50 - clicked on login button.
+2017-11-05 02:58:28 INFO  Loggers:54 - Clicked on my profile link.
+2017-11-05 02:58:28 INFO  Loggers:58 - Clicked on my account and settings link.
+2017-11-05 02:58:29 INFO  Loggers:62 - Entered firstName.
+2017-11-05 02:58:32 INFO  Loggers:96 - Clicked on save profile button.
+2017-11-05 02:58:32 INFO  Loggers:65 - Clicked on save profile button.
+2017-11-05 02:58:44 INFO  Loggers:70 - Verified that profile name is successfully updated.
+2017-11-05 02:58:44 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_03_UpdateProfile Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 02:58:44 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 02:59:27 INFO  Loggers:21 - ========================================================================================
+2017-11-05 02:59:27 INFO  Loggers:23 - =================== Starting TC_04_LoginNegativeCases Test ==========================
+2017-11-05 02:59:27 INFO  Loggers:25 - ========================================================================================
+2017-11-05 02:59:29 INFO  Loggers:32 - Clicked on login button.
+2017-11-05 02:59:29 INFO  Loggers:36 - Login page lable is verified.
+2017-11-05 02:59:34 INFO  Loggers:68 - Clicked on Login button.
+2017-11-05 02:59:36 INFO  Loggers:54 - Email entered.
+2017-11-05 02:59:37 INFO  Loggers:61 - Password entered.
+2017-11-05 02:59:42 INFO  Loggers:68 - Clicked on Login button.
+2017-11-05 02:59:44 INFO  Loggers:54 - Email entered.
+2017-11-05 02:59:45 INFO  Loggers:61 - Password entered.
+2017-11-05 02:59:50 INFO  Loggers:68 - Clicked on Login button.
+2017-11-05 02:59:50 INFO  Loggers:39 - Verified login functionality with negative scenarios.
+2017-11-05 02:59:50 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_04_LoginNegativeCases Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 02:59:50 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 03:00:30 INFO  Loggers:21 - ========================================================================================
+2017-11-05 03:00:30 INFO  Loggers:23 - =================== Starting TC_05_RegistrationNegativeCases Test ==========================
+2017-11-05 03:00:30 INFO  Loggers:25 - ========================================================================================
+2017-11-05 03:00:31 INFO  Loggers:32 - Clicked on Register button.
+2017-11-05 03:00:31 INFO  Loggers:36 - Registration page lable is verified.
+2017-11-05 03:00:31 INFO  Loggers:91 - Clicked on Register button.
+2017-11-05 03:00:35 INFO  Loggers:79 - Password entered.
+2017-11-05 03:00:35 INFO  Loggers:85 - Clicked on terms and condition checkbox.
+2017-11-05 03:00:35 INFO  Loggers:91 - Clicked on Register button.
+2017-11-05 03:00:38 INFO  Loggers:72 - Email entered.
+2017-11-05 03:00:38 INFO  Loggers:91 - Clicked on Register button.
+2017-11-05 03:00:38 INFO  Loggers:129 - Clicked on Finish button.
+2017-11-05 03:00:39 INFO  Loggers:39 - Regestration page validation verified.
+2017-11-05 03:00:39 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_05_RegistrationNegativeCases Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 03:00:39 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 03:01:23 INFO  Loggers:21 - ========================================================================================
+2017-11-05 03:01:23 INFO  Loggers:23 - =================== Starting TC_06_UploadPhotosAndVerifyCount Test ==========================
+2017-11-05 03:01:23 INFO  Loggers:25 - ========================================================================================
+2017-11-05 03:01:24 INFO  Loggers:38 - Clicked on login link.
+2017-11-05 03:01:24 INFO  Loggers:42 - Login page lable is verified.
+2017-11-05 03:01:24 INFO  Loggers:44 - Enter valid credential and login.
+2017-11-05 03:01:27 INFO  Loggers:54 - Email entered.
+2017-11-05 03:01:27 INFO  Loggers:61 - Password entered.
+2017-11-05 03:01:33 INFO  Loggers:68 - Clicked on Login button.
+2017-11-05 03:02:11 INFO  Loggers:50 - Clicked on my profile link.
+2017-11-05 03:02:11 INFO  Loggers:54 - Getting current photo count 10 before upload.
+2017-11-05 03:02:12 INFO  Loggers:58 - Clicked on my photos link.
+2017-11-05 03:02:12 INFO  Loggers:61 - Clicked on search trail button
+2017-11-05 03:02:16 INFO  Loggers:41 - keyword entered.
+2017-11-05 03:02:16 INFO  Loggers:66 - Enter keyword.
+2017-11-05 03:02:37 INFO  Loggers:69 - Clicked on search button
+2017-11-05 03:02:37 INFO  Loggers:72 - Verified the search results.
+2017-11-05 03:02:58 INFO  Loggers:75 - click the search result.
+2017-11-05 03:03:10 INFO  Loggers:79 - Clicked upload photos button.
+2017-11-05 03:03:10 INFO  Loggers:83 - Verified submit photos label.
+2017-11-05 03:03:10 INFO  Loggers:85 - Uploading the trail photo...
+2017-11-05 03:03:11 INFO  Loggers:89 - Entering photo title...
+2017-11-05 03:03:12 INFO  Loggers:93 - Entering photo caption...
+2017-11-05 03:03:31 INFO  Loggers:98 - Clicked on submit photos
+2017-11-05 03:03:31 INFO  Loggers:101 - Photo uploaded successfully with iyj4b caption
+2017-11-05 03:03:37 INFO  Loggers:105 - Navigating to WFO Admin
+2017-11-05 03:03:38 INFO  Loggers:74 - Email entered.
+2017-11-05 03:03:39 INFO  Loggers:80 - Password entered.
+2017-11-05 03:03:46 INFO  Loggers:87 - Clicked on Login button.
+2017-11-05 03:03:46 INFO  Loggers:108 - Succesfully logged in on WFO
+2017-11-05 03:03:47 INFO  Loggers:111 - Click on WFO Traillink
+2017-11-05 03:03:49 INFO  Loggers:114 - Click on approve photo link
+2017-11-05 03:03:50 INFO  Loggers:117 - Selected approve option from the status dropdown.
+2017-11-05 03:03:52 INFO  Loggers:120 - Click on update button
+2017-11-05 03:03:52 INFO  Loggers:123 - Click on previos tab
+2017-11-05 03:04:17 INFO  Loggers:127 - Clicked on my profile link.
+2017-11-05 03:04:17 INFO  Loggers:130 - Getting current photos count 11 after upload
+2017-11-05 03:04:17 INFO  Loggers:28 - Count is increased by one
+2017-11-05 03:04:17 INFO  Loggers:133 - Verified that photo uploaded successfully and photos count increases on profile page.
+2017-11-05 03:04:17 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_06_UploadPhotosAndVerifyCount Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 03:04:17 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 03:05:07 INFO  Loggers:21 - ========================================================================================
+2017-11-05 03:05:07 INFO  Loggers:23 - =================== Starting TC_07_CreateTrailAndVerifyCount Test ==========================
+2017-11-05 03:05:07 INFO  Loggers:25 - ========================================================================================
+2017-11-05 03:05:08 INFO  Loggers:33 - Clicked on login link.
+2017-11-05 03:05:08 INFO  Loggers:37 - Login page lable is verified.
+2017-11-05 03:05:08 INFO  Loggers:39 - Enter valid credential and login.
+2017-11-05 03:05:11 INFO  Loggers:54 - Email entered.
+2017-11-05 03:05:11 INFO  Loggers:61 - Password entered.
+2017-11-05 03:05:17 INFO  Loggers:68 - Clicked on Login button.
+2017-11-05 03:05:51 INFO  Loggers:44 - Clicked on my profile link.
+2017-11-05 03:05:52 INFO  Loggers:48 - Getting current trail count 1 before create.
+2017-11-05 03:05:53 INFO  Loggers:52 - Clicked on my trail link.
+2017-11-05 03:06:05 INFO  Loggers:55 - Clicked on submit trail button.
+2017-11-05 03:06:05 INFO  Loggers:113 - Trail name entered.
+2017-11-05 03:06:07 INFO  Loggers:119 - Trail length entered.
+2017-11-05 03:06:07 INFO  Loggers:130 - category selected
+2017-11-05 03:06:08 INFO  Loggers:136 - End point 1 entered.
+2017-11-05 03:06:09 INFO  Loggers:142 - End point 2 entered.
+2017-11-05 03:06:10 INFO  Loggers:148 - website entered.
+2017-11-05 03:06:11 INFO  Loggers:156 - surfaces selected
+2017-11-05 03:06:11 INFO  Loggers:163 - activities selected
+2017-11-05 03:06:11 INFO  Loggers:170 - state selected
+2017-11-05 03:06:12 INFO  Loggers:176 - country selected
+2017-11-05 03:06:13 INFO  Loggers:182 - DESCRIPTION entered.
+2017-11-05 03:06:14 INFO  Loggers:188 - parking entered.
+2017-11-05 03:06:15 INFO  Loggers:195 - terms checkbox selected
+2017-11-05 03:06:16 INFO  Loggers:203 - Clicked on view trail button.
+2017-11-05 03:06:26 INFO  Loggers:211 - Clicked on submit trail button.
+2017-11-05 03:06:26 INFO  Loggers:218 - Trail Submitted !!
+2017-11-05 03:06:26 INFO  Loggers:61 - Fill all the valid details and submit trail.
+2017-11-05 03:06:26 INFO  Loggers:63 - Verifying that trail submitted successfully.
+2017-11-05 03:06:26 INFO  Loggers:218 - Trail Submitted !!
+2017-11-05 03:06:31 INFO  Loggers:68 - Navigating to WFO Admin
+2017-11-05 03:06:32 INFO  Loggers:74 - Email entered.
+2017-11-05 03:06:33 INFO  Loggers:80 - Password entered.
+2017-11-05 03:06:41 INFO  Loggers:87 - Clicked on Login button.
+2017-11-05 03:06:41 INFO  Loggers:71 - Succesfully logged in on WFO
+2017-11-05 03:06:42 INFO  Loggers:74 - Click on WFO Traillink
+2017-11-05 03:06:43 INFO  Loggers:77 - Click on approve trail link
+2017-11-05 03:06:51 INFO  Loggers:80 - Click on trail id.
+2017-11-05 03:06:51 INFO  Loggers:83 - Select open status
+2017-11-05 03:06:58 INFO  Loggers:86 - Click on save button
+2017-11-05 03:06:58 INFO  Loggers:89 - Click on previos tab
+2017-11-05 03:07:23 INFO  Loggers:93 - Clicked on my profile link.
+2017-11-05 03:07:23 INFO  Loggers:96 - Getting current review count: 1after upload
+2017-11-05 03:07:23 INFO  Loggers:31 - Count is not increased by one
+2017-11-05 03:07:23 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_07_CreateTrailAndVerifyCount Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 03:07:23 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 03:08:09 INFO  Loggers:21 - ========================================================================================
+2017-11-05 03:08:09 INFO  Loggers:23 - =================== Starting TC_08_GiveReviewsOnTrailsAndVerifyCount Test ==========================
+2017-11-05 03:08:09 INFO  Loggers:25 - ========================================================================================
+2017-11-05 03:08:10 INFO  Loggers:36 - Clicked on login link.
+2017-11-05 03:08:10 INFO  Loggers:40 - Login page lable is verified.
+2017-11-05 03:08:10 INFO  Loggers:42 - Enter valid credential and login.
+2017-11-05 03:08:13 INFO  Loggers:54 - Email entered.
+2017-11-05 03:08:14 INFO  Loggers:61 - Password entered.
+2017-11-05 03:08:19 INFO  Loggers:68 - Clicked on Login button.
+2017-11-05 03:08:54 INFO  Loggers:47 - Clicked on my profile link.
+2017-11-05 03:08:54 INFO  Loggers:51 - Getting current reviews count 7 before upload.
+2017-11-05 03:08:55 INFO  Loggers:55 - Clicked on my reviews link.
+2017-11-05 03:08:55 INFO  Loggers:58 - Clicked on search trail button
+2017-11-05 03:08:59 INFO  Loggers:41 - keyword entered.
+2017-11-05 03:08:59 INFO  Loggers:63 - Enter keyword.
+2017-11-05 03:09:18 INFO  Loggers:66 - Clicked on search button
+2017-11-05 03:09:18 INFO  Loggers:69 - Verified the search results.
+2017-11-05 03:09:40 INFO  Loggers:72 - click the search result.
+2017-11-05 03:10:02 INFO  Loggers:76 - Clicked submit review button.
+2017-11-05 03:10:02 INFO  Loggers:80 - Verified submit reviews label.
+2017-11-05 03:10:02 INFO  Loggers:82 - Entering review ratings...
+2017-11-05 03:10:02 INFO  Loggers:85 - Entering review title...
+2017-11-05 03:10:03 INFO  Loggers:89 - Entering review description..
+2017-11-05 03:10:03 INFO  Loggers:94 - Clicked on preview button
+2017-11-05 03:10:18 INFO  Loggers:97 - Clicked on submit button
+2017-11-05 03:10:24 INFO  Loggers:101 - Navigating to WFO Admin
+2017-11-05 03:10:25 INFO  Loggers:74 - Email entered.
+2017-11-05 03:10:26 INFO  Loggers:80 - Password entered.
+2017-11-05 03:10:33 INFO  Loggers:87 - Clicked on Login button.
+2017-11-05 03:10:33 INFO  Loggers:104 - Succesfully logged in on WFO
+2017-11-05 03:10:34 INFO  Loggers:107 - Click on WFO Traillink
+2017-11-05 03:10:36 INFO  Loggers:110 - Click on approve review link
+2017-11-05 03:10:36 INFO  Loggers:113 - Selected approve option from the status dropdown.
+2017-11-05 03:10:38 INFO  Loggers:116 - Click on update button
+2017-11-05 03:10:38 INFO  Loggers:119 - Click on previos tab
+2017-11-05 03:11:02 INFO  Loggers:123 - Clicked on my profile link.
+2017-11-05 03:11:02 INFO  Loggers:126 - Getting current review count: 8after upload
+2017-11-05 03:11:02 INFO  Loggers:28 - Count is increased by one
+2017-11-05 03:11:02 INFO  Loggers:129 - Verified that review given successfully and review count increases on profile page.
+2017-11-05 03:11:02 INFO  Loggers:132 - Clicked review count.
+2017-11-05 03:11:02 INFO  Loggers:135 - Getting current review text after approve from admin
+2017-11-05 03:11:02 INFO  Loggers:113 - Expected text is: 1xjs0
+2017-11-05 03:11:02 INFO  Loggers:114 - Actual text is: 1xjs0
+2017-11-05 03:11:02 INFO  Loggers:117 - Expected text is matched with actual text
+2017-11-05 03:11:02 INFO  Loggers:138 - Review text is verified on my review page.
+2017-11-05 03:11:02 INFO  Loggers:34 - XXXXXXXXXXXXXXXXXXXXXXXXXX Finished TC_08_GiveReviewsOnTrailsAndVerifyCount Test XXXXXXXXXXXXXXXXXXXXXXXXX
+2017-11-05 03:11:02 INFO  Loggers:35 - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

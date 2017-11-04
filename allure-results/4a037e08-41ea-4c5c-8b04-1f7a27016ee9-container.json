@@ -1,0 +1,1 @@
+{"uuid":"4a037e08-41ea-4c5c-8b04-1f7a27016ee9","name":"traillink.tests.TC_06_UploadPhotosAndVerifyCount.setup","description":"","start":1509816996939,"stop":1509817023474,"children":["28b004b6-ef2e-4aa6-965d-2c29fbe7d58a"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","start":1509816996939,"stop":1509817023469}]}

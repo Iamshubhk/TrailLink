@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="238287" started-at="2017-11-04T21:18:00Z" finished-at="2017-11-04T21:21:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="238287" started-at="2017-11-04T21:18:00Z" finished-at="2017-11-04T21:21:59Z">
+      <class name="traillink.tests.TC_06_UploadPhotosAndVerifyCount">
+        <test-method status="PASS" signature="setup()[pri:0, instance:traillink.tests.TC_06_UploadPhotosAndVerifyCount@209775a9]" name="setup" is-config="true" duration-ms="47039" started-at="2017-11-05T02:48:00Z" finished-at="2017-11-05T02:48:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="uploadPhotosAndverifyPhotoCount()[pri:0, instance:traillink.tests.TC_06_UploadPhotosAndVerifyCount@209775a9]" name="uploadPhotosAndverifyPhotoCount" duration-ms="190910" started-at="2017-11-05T02:48:48Z" finished-at="2017-11-05T02:51:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uploadPhotosAndverifyPhotoCount -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:traillink.tests.TC_06_UploadPhotosAndVerifyCount@209775a9]" name="tearDown" is-config="true" duration-ms="7" started-at="2017-11-05T02:51:59Z" finished-at="2017-11-05T02:51:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=uploadPhotosAndverifyPhotoCount status=SUCCESS method=TC_06_UploadPhotosAndVerifyCount.uploadPhotosAndverifyPhotoCount()[pri:0, instance:traillink.tests.TC_06_UploadPhotosAndVerifyCount@209775a9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- traillink.tests.TC_06_UploadPhotosAndVerifyCount -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

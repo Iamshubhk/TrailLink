@@ -1,0 +1,1 @@
+{"uuid":"952e1ac9-3e8f-4562-b69d-c5e66908bc83","name":"traillink.tests.TC_06_UpdatePhotoScenarios.tearDown","description":"","start":1509228398683,"stop":1509228399861,"children":["51e6bd76-e39f-42a7-bb78-f852dc3aa545"],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","start":1509228398684,"stop":1509228399861}]}

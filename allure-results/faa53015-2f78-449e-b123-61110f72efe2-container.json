@@ -1,0 +1,1 @@
+{"uuid":"faa53015-2f78-449e-b123-61110f72efe2","name":"traillink.tests.TC_07_CreateTrailAndVerifyCount.tearDown","description":"","start":1509654281597,"stop":1509654282663,"children":["59b37344-77df-4b64-a313-c341ba57b365"],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","start":1509654281598,"stop":1509654282663}]}

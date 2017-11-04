@@ -11,6 +11,9 @@
       <class name="traillink.tests.TC_03_UpdateProfile"/>
       <class name="traillink.tests.TC_04_LoginNegativeCases"/>
       <class name="traillink.tests.TC_05_RegistrationNegativeCases"/>
+      <class name="traillink.tests.TC_06_UploadPhotosAndVerifyCount"/>
+     <class name="traillink.tests.TC_07_CreateTrailAndVerifyCount"/>
+     <class name="traillink.tests.TC_08_GiveReviewsOnTrailsAndVerifyCount"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

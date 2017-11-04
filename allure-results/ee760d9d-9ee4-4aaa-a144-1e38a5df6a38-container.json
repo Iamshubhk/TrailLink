@@ -1,0 +1,1 @@
+{"uuid":"ee760d9d-9ee4-4aaa-a144-1e38a5df6a38","name":"traillink.tests.TC_04_LoginNegativeCases.setup","description":"","start":1508531099497,"stop":1508531116898,"children":["e56f1fad-51e6-48bb-865f-d60e21f316ac"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","start":1508531099499,"stop":1508531116896}]}

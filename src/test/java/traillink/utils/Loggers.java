@@ -1,5 +1,7 @@
 package traillink.utils;
 
+import java.sql.Timestamp;
+
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 
@@ -36,8 +38,9 @@ public class Loggers {
 	// Need to create these methods, so that they can be called
 
 	public  void info(String message) {
-
-		Log.info(message);
+		Timestamp timestamp = new Timestamp(System.currentTimeMillis());
+	    
+		Log.info(timestamp+">>"+message);
 
 	}
 

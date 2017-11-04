@@ -1,0 +1,1 @@
+{"uuid":"031c2359-dfe6-4468-991d-fd67d0d585da","name":"traillink.tests.TC_07_CreateTrailAndVerifyCount.setup","description":"","start":1509654072361,"stop":1509654128102,"children":["59b37344-77df-4b64-a313-c341ba57b365"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","start":1509654072362,"stop":1509654128101}]}

@@ -1,18 +1,27 @@
 package traillink.testbase;
 
+import org.testng.AssertJUnit;
+import static org.testng.Assert.assertEquals;
+import static org.testng.Assert.fail;
+
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
+import org.openqa.selenium.By;
+import org.openqa.selenium.Dimension;
 import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxProfile;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
@@ -41,10 +50,12 @@ public class TestBase extends ActionsUtility {
 		if (System.getProperty("os.name").contains("Windows 10")) {
 			if (browser.equalsIgnoreCase("firefox")) {
 				System.setProperty("webdriver.firefox.marionette",
-						System.getProperty("user.dir") + "/src/test/resources/drivers/geckodriver.exe");
+				System.getProperty("user.dir") + "/src/test/resources/drivers/geckodriver.exe");
+				 Dimension d = new Dimension(1600,1024);
 				// loggers.info("Operating System: Windows And Browser :
 				// Firefox");
 				driver = new FirefoxDriver();
+				driver.manage().window().setSize(d);
 			} else if (browser.equalsIgnoreCase("chrome")) {
 				System.setProperty("webdriver.chrome.driver",
 						System.getProperty("user.dir") + "/src/test/resources/drivers/chromedriver.exe");
@@ -52,6 +63,7 @@ public class TestBase extends ActionsUtility {
 				// Chrome");
 				ChromeOptions options = new ChromeOptions();
 				options.addArguments("disable-infobars");
+				options.addArguments("window-size=1600,1024");
 				driver = new ChromeDriver(options);
 			}
 		} else if (System.getProperty("os.name").contains("Linux"))
@@ -95,6 +107,21 @@ public class TestBase extends ActionsUtility {
 			e.printStackTrace();
 		}
 	}
+	
+	
+	public boolean verifyText(String expected, String actual) throws InterruptedException {
+		Log.info("Expected text is: "+expected);
+		Log.info("Actual text is: "+actual);
+		boolean isOK=false;
+			if(expected.equals(actual)){
+				Log.info("Expected text is matched with actual text");
+				isOK=true;
+			}else{
+				isOK=false;
+				Log.info("Expected text is not matched with actual text");
+			}
+		return isOK;
+	}
 
 	public void NavigateTo(String Url) {
 		driver.navigate().to(Url);
@@ -120,6 +147,48 @@ public class TestBase extends ActionsUtility {
 			sleep(50);
 		}
 	}
+	
+	public void uploadFile(WebElement element, String fileName) {
+		String path= null;
+		try {
+		      
+	         // create new files
+	         File file = new File(fileName);
+	         
+	         // returns true if the file exists
+	         boolean bool = file.exists();
+	         
+	         // if file exists
+	         if(bool) {
+	         
+	            // get absolute path
+	            path = file.getAbsolutePath();
+	            
+	            // prints
+	            System.out.print("Absolute Pathname "+ path);
+	         }
+	         
+	      } catch(Exception e) {
+	      
+	         // if any error occurs
+	         e.printStackTrace();
+	      }
+		element.sendKeys(path);
+		sleep(3);	
+	}
+	
+	public void switchTabs(WebDriver driver, int tab) {
+		ArrayList<String> tabs2 = new ArrayList<String> (driver.getWindowHandles());
+	    driver.switchTo().window(tabs2.get(tab));
+	}
+	
+	public void openUrlinNewTab(WebDriver driver,String url) {
+		((JavascriptExecutor)driver).executeScript("window.open()");
+		ArrayList<String> tabs = new ArrayList<String>(driver.getWindowHandles());
+		driver.switchTo().window(tabs.get(1));
+		driver.get(url);
+	}
+	
 
 	/**
      * Check if object exists AND that it is displayed, using its location
